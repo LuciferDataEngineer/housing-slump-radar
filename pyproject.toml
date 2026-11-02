@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "housing-slump-radar"
+version = "1.0.0"
+description = "Immutable ABS dwelling approvals release snapshots and revision-aware SQL analytics"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["openpyxl==3.1.5"]
+
+[project.scripts]
+housing-radar = "housing_radar.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,33 @@
+{
+  "verified_on": "2026-11-02",
+  "python": "3.14.7",
+  "sqlite": "3.53.4",
+  "deterministic_tests_passed": 22,
+  "live_snapshot_count": 2,
+  "live_observations_across_snapshots": 27999,
+  "current_observations": 14013,
+  "revision_summary": {
+    "changed": 120,
+    "new_observation": 27,
+    "unchanged": 13866
+  },
+  "quality_findings_per_snapshot": 36,
+  "recent_12_month_quality_findings": 0,
+  "replay_business_digest_before": "945a9e004509cf8fc029d980cd4adc25345060c853c9f7dbe9c5a974652dbcf4",
+  "replay_business_digest_after": "945a9e004509cf8fc029d980cd4adc25345060c853c9f7dbe9c5a974652dbcf4",
+  "business_tables_unchanged_on_replay": true,
+  "sqlite_integrity": "ok",
+  "foreign_key_violations": 0,
+  "csv_rows_compared_exactly": {
+    "monthly_metrics.csv": 14013,
+    "release_changes.csv": 14013,
+    "quality_findings.csv": 36
+  },
+  "latest_annual_totals_independently_checked": 27,
+  "source_sha256": {
+    "2026-08": "8c50ade7c0c76eeda8c42183c66126a77ac628440b76a3fbc000557ead8b640c",
+    "2026-09": "af24371758b3dc7ebf012af99d22ee6e54da0d0c2139eaba5b174bd48e851f25"
+  },
+  "sql_queries_executed": 7,
+  "synthetic_cli_demo_observations": 648
+}

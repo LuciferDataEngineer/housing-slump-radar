@@ -1,0 +1,644 @@
+{
+  "latest_geography_comparison": [
+    {
+      "region": "AUS",
+      "region_name": "Australia",
+      "month": "2026-09-01",
+      "approvals_original": 18318,
+      "year_on_year_pct": -1.69,
+      "trailing_12_month_total": 208219
+    },
+    {
+      "region": "NSW",
+      "region_name": "New South Wales",
+      "month": "2026-09-01",
+      "approvals_original": 5232,
+      "year_on_year_pct": -5.8,
+      "trailing_12_month_total": 53167
+    },
+    {
+      "region": "QLD",
+      "region_name": "Queensland",
+      "month": "2026-09-01",
+      "approvals_original": 4414,
+      "year_on_year_pct": 13.62,
+      "trailing_12_month_total": 48470
+    },
+    {
+      "region": "VIC",
+      "region_name": "Victoria",
+      "month": "2026-09-01",
+      "approvals_original": 3918,
+      "year_on_year_pct": -29.89,
+      "trailing_12_month_total": 55440
+    },
+    {
+      "region": "WA",
+      "region_name": "Western Australia",
+      "month": "2026-09-01",
+      "approvals_original": 2283,
+      "year_on_year_pct": 19.53,
+      "trailing_12_month_total": 26918
+    },
+    {
+      "region": "SA",
+      "region_name": "South Australia",
+      "month": "2026-09-01",
+      "approvals_original": 1708,
+      "year_on_year_pct": 37.08,
+      "trailing_12_month_total": 16429
+    },
+    {
+      "region": "ACT",
+      "region_name": "Australian Capital Territory",
+      "month": "2026-09-01",
+      "approvals_original": 453,
+      "year_on_year_pct": 397.8,
+      "trailing_12_month_total": 4113
+    },
+    {
+      "region": "TAS",
+      "region_name": "Tasmania",
+      "month": "2026-09-01",
+      "approvals_original": 236,
+      "year_on_year_pct": -13.87,
+      "trailing_12_month_total": 2823
+    },
+    {
+      "region": "NT",
+      "region_name": "Northern Territory",
+      "month": "2026-09-01",
+      "approvals_original": 74,
+      "year_on_year_pct": -12.94,
+      "trailing_12_month_total": 859
+    }
+  ],
+  "national_annual_totals": [
+    {
+      "month": "2026-09-01",
+      "value": 18318,
+      "trailing_12_month_total": 208219,
+      "year_on_year_pct": -1.69
+    },
+    {
+      "month": "2026-08-01",
+      "value": 17174,
+      "trailing_12_month_total": 208534,
+      "year_on_year_pct": 12.54
+    },
+    {
+      "month": "2026-07-01",
+      "value": 19295,
+      "trailing_12_month_total": 206620,
+      "year_on_year_pct": 5.59
+    },
+    {
+      "month": "2026-06-01",
+      "value": 19106,
+      "trailing_12_month_total": 205598,
+      "year_on_year_pct": 15.44
+    },
+    {
+      "month": "2026-05-01",
+      "value": 17245,
+      "trailing_12_month_total": 203042,
+      "year_on_year_pct": 2.54
+    },
+    {
+      "month": "2026-04-01",
+      "value": 17651,
+      "trailing_12_month_total": 202615,
+      "year_on_year_pct": 20.3
+    },
+    {
+      "month": "2026-03-01",
+      "value": 18150,
+      "trailing_12_month_total": 199637,
+      "year_on_year_pct": 15.31
+    },
+    {
+      "month": "2026-02-01",
+      "value": 19243,
+      "trailing_12_month_total": 197227,
+      "year_on_year_pct": 18.34
+    },
+    {
+      "month": "2026-01-01",
+      "value": 10703,
+      "trailing_12_month_total": 194245,
+      "year_on_year_pct": -19.67
+    },
+    {
+      "month": "2025-12-01",
+      "value": 15184,
+      "trailing_12_month_total": 196866,
+      "year_on_year_pct": 6.03
+    },
+    {
+      "month": "2025-11-01",
+      "value": 18581,
+      "trailing_12_month_total": 196003,
+      "year_on_year_pct": 16.71
+    },
+    {
+      "month": "2025-10-01",
+      "value": 17569,
+      "trailing_12_month_total": 193342,
+      "year_on_year_pct": -2.07
+    }
+  ],
+  "release_comparison_counts": [
+    {
+      "release_period": "2026-08",
+      "edition": 1,
+      "change_type": "baseline",
+      "cells": 13986
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "change_type": "changed",
+      "cells": 120
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "change_type": "new_observation",
+      "cells": 27
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "change_type": "unchanged",
+      "cells": 13866
+    }
+  ],
+  "national_total_revisions": [
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2025-08-01",
+      "previous_value": 15381,
+      "value": 15260,
+      "change_value": -121
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2025-09-01",
+      "previous_value": 18601,
+      "value": 18633,
+      "change_value": 32
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2025-10-01",
+      "previous_value": 17570,
+      "value": 17569,
+      "change_value": -1
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2025-11-01",
+      "previous_value": 18579,
+      "value": 18581,
+      "change_value": 2
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2025-12-01",
+      "previous_value": 15181,
+      "value": 15184,
+      "change_value": 3
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-01-01",
+      "previous_value": 10698,
+      "value": 10703,
+      "change_value": 5
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-02-01",
+      "previous_value": 19229,
+      "value": 19243,
+      "change_value": 14
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-03-01",
+      "previous_value": 18141,
+      "value": 18150,
+      "change_value": 9
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-04-01",
+      "previous_value": 17643,
+      "value": 17651,
+      "change_value": 8
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-05-01",
+      "previous_value": 17205,
+      "value": 17245,
+      "change_value": 40
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-06-01",
+      "previous_value": 19092,
+      "value": 19106,
+      "change_value": 14
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-07-01",
+      "previous_value": 19277,
+      "value": 19295,
+      "change_value": 18
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "month": "2026-08-01",
+      "previous_value": 16968,
+      "value": 17174,
+      "change_value": 206
+    }
+  ],
+  "published_arithmetic_discrepancies": [
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1983-11-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 10465,
+      "actual": 10468,
+      "delta": 3
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1983-11-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 13038,
+      "actual": 13041,
+      "delta": 3
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1983-12-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 9657,
+      "actual": 9660,
+      "delta": 3
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1983-12-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 12048,
+      "actual": 12051,
+      "delta": 3
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "1984-02-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 12916,
+      "actual": 12889,
+      "delta": -27
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-02-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 9796,
+      "actual": 9799,
+      "delta": 3
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-02-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 12913,
+      "actual": 12889,
+      "delta": -24
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-03-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 10609,
+      "actual": 10610,
+      "delta": 1
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-03-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 14259,
+      "actual": 14260,
+      "delta": 1
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-05-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 12041,
+      "actual": 12042,
+      "delta": 1
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-05-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 15946,
+      "actual": 15947,
+      "delta": 1
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-06-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 10427,
+      "actual": 10430,
+      "delta": 3
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-06-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 13277,
+      "actual": 13280,
+      "delta": 3
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-11-01",
+      "region": "AUS",
+      "dwelling_type": "Dwellings excluding houses",
+      "expected": 3850,
+      "actual": 3851,
+      "delta": 1
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-11-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 10888,
+      "actual": 10889,
+      "delta": 1
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-11-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 14738,
+      "actual": 14740,
+      "delta": 2
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-12-01",
+      "region": "AUS",
+      "dwelling_type": "Dwellings excluding houses",
+      "expected": 3426,
+      "actual": 3382,
+      "delta": -44
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1984-12-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 12057,
+      "actual": 12013,
+      "delta": -44
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1985-02-01",
+      "region": "AUS",
+      "dwelling_type": "Dwellings excluding houses",
+      "expected": 3277,
+      "actual": 3233,
+      "delta": -44
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1985-02-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 12380,
+      "actual": 12336,
+      "delta": -44
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1985-07-01",
+      "region": "AUS",
+      "dwelling_type": "Houses",
+      "expected": 10967,
+      "actual": 10973,
+      "delta": 6
+    },
+    {
+      "rule": "states_sum_to_australia",
+      "month": "1985-07-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 13934,
+      "actual": 13940,
+      "delta": 6
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-07-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 13457,
+      "actual": 13458,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-07-01",
+      "region": "QLD",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 2695,
+      "actual": 2696,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-10-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 16045,
+      "actual": 16046,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-10-01",
+      "region": "NSW",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 5388,
+      "actual": 5389,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-11-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 15365,
+      "actual": 15366,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-11-01",
+      "region": "SA",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 952,
+      "actual": 953,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-12-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 12902,
+      "actual": 12903,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2001-12-01",
+      "region": "SA",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 985,
+      "actual": 986,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2002-04-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 15543,
+      "actual": 15554,
+      "delta": 11
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2002-04-01",
+      "region": "QLD",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 2935,
+      "actual": 2946,
+      "delta": 11
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2002-05-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 16326,
+      "actual": 16327,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2002-05-01",
+      "region": "NSW",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 5172,
+      "actual": 5173,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2010-11-01",
+      "region": "AUS",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 14762,
+      "actual": 14763,
+      "delta": 1
+    },
+    {
+      "rule": "houses_plus_other_equals_total",
+      "month": "2010-11-01",
+      "region": "NSW",
+      "dwelling_type": "Total (Type of Building)",
+      "expected": 3282,
+      "actual": 3283,
+      "delta": 1
+    }
+  ],
+  "immutable_release_inventory": [
+    {
+      "release_period": "2026-08",
+      "edition": 1,
+      "announced_release_date": "2026-09-30",
+      "captured_at": "2026-11-02T07:50:51.729754+00:00",
+      "row_count": 13986,
+      "first_month": "1983-07-01",
+      "last_month": "2026-08-01",
+      "source_sha256": "8c50ade7c0c76eeda8c42183c66126a77ac628440b76a3fbc000557ead8b640c"
+    },
+    {
+      "release_period": "2026-09",
+      "edition": 1,
+      "announced_release_date": "2026-11-02",
+      "captured_at": "2026-11-02T07:51:01.104708+00:00",
+      "row_count": 14013,
+      "first_month": "1983-07-01",
+      "last_month": "2026-09-01",
+      "source_sha256": "af24371758b3dc7ebf012af99d22ee6e54da0d0c2139eaba5b174bd48e851f25"
+    }
+  ],
+  "load_audit": [
+    {
+      "operation": "ingest",
+      "status": "success",
+      "replayed": 0,
+      "attempts": 2
+    },
+    {
+      "operation": "ingest",
+      "status": "success",
+      "replayed": 1,
+      "attempts": 1
+    }
+  ]
+}
