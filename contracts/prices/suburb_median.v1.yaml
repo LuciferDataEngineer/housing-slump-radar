@@ -1,0 +1,32 @@
+domain: prices
+name: suburb_median
+version: "1.0.0"
+description: Valuer-General Victoria quarterly median house prices, five quarters through March 2026.
+file: data/tidy/suburb_median.csv
+primary_key: [locality, quarter]
+columns:
+  - name: locality
+    type: string
+    required: true
+  - name: quarter
+    type: quarter
+    required: true
+  - name: median_price
+    type: integer
+    required: true
+    min: 0
+  - name: sales
+    type: integer
+    required: false
+    min: 0
+  - name: low_sample
+    type: integer
+    required: true
+    allowed: [0, 1]
+expectations:
+  - type: min_rows
+    value: 1000
+  - type: row_exists
+    where: {locality: Toorak, quarter: 2026-Q1}
+    column: median_price
+    equals: 4075000

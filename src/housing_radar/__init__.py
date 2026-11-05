@@ -1,3 +1,3 @@
-"""Release-aware ABS dwelling approvals warehouse."""
+"""Housing slump radar: prices, credit and supply for Australia's 2026 downturn."""
 
-__version__ = "1.0.0"
+__version__ = "2.0.0"

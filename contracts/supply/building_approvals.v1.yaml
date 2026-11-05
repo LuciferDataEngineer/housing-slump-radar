@@ -1,0 +1,39 @@
+domain: supply
+name: building_approvals
+version: "1.0.0"
+description: ABS Building Approvals Table 09 original dwelling-unit counts for two release vintages.
+file: data/tidy/building_approvals.csv
+primary_key: [vintage, series_id, month]
+columns:
+  - name: vintage
+    type: string
+    required: true
+    allowed: ["2026-08", "2026-09"]
+  - name: series_id
+    type: string
+    required: true
+  - name: region
+    type: string
+    required: true
+  - name: dwelling_type
+    type: string
+    required: true
+    allowed: ["Houses", "Dwellings excluding houses", "Total (Type of Building)"]
+  - name: month
+    type: date
+    required: true
+  - name: value
+    type: integer
+    required: true
+    min: 0
+expectations:
+  - type: min_rows
+    value: 20000
+  - type: row_exists
+    where:
+      vintage: "2026-09"
+      region: Australia
+      dwelling_type: "Total (Type of Building)"
+      month: "2026-09-01"
+    column: value
+    equals: 18318

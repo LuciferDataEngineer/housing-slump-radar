@@ -1,0 +1,253 @@
+{
+  "id": "credit",
+  "status": "act",
+  "title": "The cash rate is 4.85%. The published discounted mortgage rate is still 6.80%.",
+  "summary": "That bank rate is the September figure. It last rose in May 2026. Since then the cash rate is up 0.50 percentage points. Passed on in full, the discounted rate would be 7.30%. New loan commitments in the June quarter were +0.1% on a year ago, not the 23% sales drop in the market news.",
+  "stats": [
+    {
+      "label": "Cash rate",
+      "value": "4.85%",
+      "detail": "Effective 4 November 2026. It was 3.60% at the end of 2025.",
+      "status": "act"
+    },
+    {
+      "label": "Published mortgage rate",
+      "value": "6.80%",
+      "detail": "Discounted owner-occupier variable, September 2026.",
+      "status": "act"
+    },
+    {
+      "label": "Scenario repayment",
+      "value": "$4,987",
+      "detail": "Up $602 a month from December, on a $727,494 loan.",
+      "status": "act"
+    }
+  ],
+  "charts": [
+    {
+      "kind": "compare",
+      "title": "Monthly repayment on the average new loan",
+      "items": [
+        {
+          "label": "December 2025 · 6.05%",
+          "value": 4385.11,
+          "display": "$4,385",
+          "status": "good"
+        },
+        {
+          "label": "Published rate · 6.80%",
+          "value": 4742.72,
+          "display": "$4,743",
+          "status": "act"
+        },
+        {
+          "label": "If the rest passes on · 7.30%",
+          "value": 4987.49,
+          "display": "$4,987",
+          "status": "act"
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "title": "Cash rate target since January 2025",
+      "unit": "%",
+      "points": [
+        {
+          "label": "Jan 2025",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "Apr 2025",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.85,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.85,
+          "marker": false
+        },
+        {
+          "label": "Jul 2025",
+          "y": 3.85,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "Oct 2025",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "Nov 2025",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "Jan 2026",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.85,
+          "marker": true
+        },
+        {
+          "label": "",
+          "y": 4.1,
+          "marker": true
+        },
+        {
+          "label": "Apr 2026",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.35,
+          "marker": true
+        },
+        {
+          "label": "",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "Jul 2026",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.6,
+          "marker": true
+        },
+        {
+          "label": "Oct 2026",
+          "y": 4.6,
+          "marker": false
+        },
+        {
+          "label": "4.85%",
+          "y": 4.85,
+          "marker": true
+        }
+      ]
+    }
+  ],
+  "table": {
+    "caption": "Cash-rate steps in 2026",
+    "columns": [
+      "Effective",
+      "New target",
+      "Change"
+    ],
+    "rows": [
+      [
+        "4 February 2026",
+        "3.85%",
+        "+0.25 pp"
+      ],
+      [
+        "18 March 2026",
+        "4.10%",
+        "+0.25 pp"
+      ],
+      [
+        "6 May 2026",
+        "4.35%",
+        "+0.25 pp"
+      ],
+      [
+        "30 September 2026",
+        "4.60%",
+        "+0.25 pp"
+      ],
+      [
+        "4 November 2026",
+        "4.85%",
+        "+0.25 pp"
+      ]
+    ]
+  },
+  "sources": [
+    "RBA F1 daily cash rate target, published 5 November 2026. The 30 September step is read from the target level.",
+    "RBA F5 discounted owner-occupier variable rate, series FILRHLBVD. The standard variable rate is higher and is not used here.",
+    "Loan size is the ABS seasonally adjusted average new commitment for total dwellings, excluding refinancing, 2026-Q2.",
+    "The scenario adds the cash-rate rise since the discounted rate last moved. Banks may not pass it on in full."
+  ],
+  "metrics": {
+    "cash_rate_target": 4.85,
+    "cash_rate_date": "2026-11-04",
+    "hikes_2026": 5,
+    "cash_rate_end_2025": 3.6,
+    "discounted_rate_end_2025": 6.05,
+    "discounted_rate_published": 6.8,
+    "discounted_rate_month": "2026-09-30",
+    "lending_rate_last_increased": "2026-05-31",
+    "passthrough_gap_pp": 0.5,
+    "scenario_rate": 7.3,
+    "loan_principal": 727494,
+    "loan_quarter": "2026-Q2",
+    "repayment_end_2025": 4385.11,
+    "repayment_published": 4742.72,
+    "repayment_scenario": 4987.49,
+    "extra_published": 357.61,
+    "extra_scenario": 602.38,
+    "mean_price_australia": 1100400,
+    "mean_price_quarter": "2026-Q2",
+    "mean_price_qoq_pct": -0.74,
+    "mean_price_yoy_pct": 6.85,
+    "mean_price_versus_peak_pct": -0.74,
+    "approvals_month": "2026-09-01",
+    "approvals_australia": 18318,
+    "approvals_australia_yoy_pct": -1.69,
+    "approvals_victoria": 3918,
+    "approvals_victoria_year_ago": 5588,
+    "approvals_victoria_yoy_pct": -29.89,
+    "august_revision": 206,
+    "commitments_quarter": "2026-Q2",
+    "commitments_number": 134225,
+    "commitments_yoy_pct": 0.11,
+    "suburbs_compared": 468,
+    "suburbs_down": 101,
+    "suburbs_act": 58,
+    "suburb_median_yoy_pct": 7.37
+  }
+}

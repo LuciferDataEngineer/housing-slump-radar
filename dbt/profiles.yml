@@ -1,0 +1,7 @@
+housing_slump_radar:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: target/housing.duckdb
+      threads: 1

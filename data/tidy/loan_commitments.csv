@@ -1,0 +1,533 @@
+quarter,region_code,region_name,housing_purpose,adjustment,commitments,value_aud
+2023-Q1,1,New South Wales,owner_occupier,original,16191,11830000000
+2023-Q1,1,New South Wales,owner_occupier,seasonally_adjusted,18462,13666500000
+2023-Q1,1,New South Wales,investor,original,9746,7627100000
+2023-Q1,1,New South Wales,investor,seasonally_adjusted,11192,8655300000
+2023-Q1,2,Victoria,owner_occupier,original,18096,11107200000
+2023-Q1,2,Victoria,owner_occupier,seasonally_adjusted,20466,12286900000
+2023-Q1,2,Victoria,investor,original,8344,4966300000
+2023-Q1,2,Victoria,investor,seasonally_adjusted,9711,5600100000
+2023-Q1,3,Queensland,owner_occupier,original,15491,8029400000
+2023-Q1,3,Queensland,owner_occupier,seasonally_adjusted,16855,8809100000
+2023-Q1,3,Queensland,investor,original,7665,3922600000
+2023-Q1,3,Queensland,investor,seasonally_adjusted,8343,4247400000
+2023-Q1,4,South Australia,owner_occupier,original,5001,2412200000
+2023-Q1,4,South Australia,owner_occupier,seasonally_adjusted,5412,2612700000
+2023-Q1,4,South Australia,investor,original,2395,1044400000
+2023-Q1,4,South Australia,investor,seasonally_adjusted,2599,1131800000
+2023-Q1,5,Western Australia,owner_occupier,original,9242,4416500000
+2023-Q1,5,Western Australia,owner_occupier,seasonally_adjusted,9864,4718500000
+2023-Q1,5,Western Australia,investor,original,3832,1710300000
+2023-Q1,5,Western Australia,investor,seasonally_adjusted,4070,1828500000
+2023-Q1,6,Tasmania,owner_occupier,original,1398,636300000
+2023-Q1,6,Tasmania,owner_occupier,seasonally_adjusted,1469,677800000
+2023-Q1,6,Tasmania,investor,original,457,222300000
+2023-Q1,6,Tasmania,investor,seasonally_adjusted,486,229300000
+2023-Q1,7,Northern Territory,owner_occupier,original,550,240700000
+2023-Q1,7,Northern Territory,owner_occupier,seasonally_adjusted,583,258400000
+2023-Q1,7,Northern Territory,investor,original,199,82800000
+2023-Q1,7,Northern Territory,investor,seasonally_adjusted,211,88100000
+2023-Q1,8,Australian Capital Territory,owner_occupier,original,1738,1032400000
+2023-Q1,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1936,1148400000
+2023-Q1,8,Australian Capital Territory,investor,original,940,529700000
+2023-Q1,8,Australian Capital Territory,investor,seasonally_adjusted,940,568000000
+2023-Q1,AUS,Australia,owner_occupier,original,67707,39704800000
+2023-Q1,AUS,Australia,owner_occupier,seasonally_adjusted,74392,43213300000
+2023-Q1,AUS,Australia,investor,original,33578,20105600000
+2023-Q1,AUS,Australia,investor,seasonally_adjusted,36767,22307000000
+2023-Q1,AUS,Australia,total,original,101285,59810500000
+2023-Q1,AUS,Australia,total,seasonally_adjusted,111160,65520300000
+2023-Q2,1,New South Wales,owner_occupier,original,20057,14497900000
+2023-Q2,1,New South Wales,owner_occupier,seasonally_adjusted,19513,14106200000
+2023-Q2,1,New South Wales,investor,original,12090,9318000000
+2023-Q2,1,New South Wales,investor,seasonally_adjusted,11395,8924600000
+2023-Q2,2,Victoria,owner_occupier,original,21802,12971300000
+2023-Q2,2,Victoria,owner_occupier,seasonally_adjusted,21039,12564200000
+2023-Q2,2,Victoria,investor,original,10082,5887200000
+2023-Q2,2,Victoria,investor,seasonally_adjusted,9311,5586000000
+2023-Q2,3,Queensland,owner_occupier,original,16951,8784800000
+2023-Q2,3,Queensland,owner_occupier,seasonally_adjusted,16986,8760500000
+2023-Q2,3,Queensland,investor,original,9003,4601400000
+2023-Q2,3,Queensland,investor,seasonally_adjusted,8815,4559400000
+2023-Q2,4,South Australia,owner_occupier,original,5620,2699600000
+2023-Q2,4,South Australia,owner_occupier,seasonally_adjusted,5470,2655300000
+2023-Q2,4,South Australia,investor,original,2995,1338300000
+2023-Q2,4,South Australia,investor,seasonally_adjusted,2901,1306900000
+2023-Q2,5,Western Australia,owner_occupier,original,10139,4776100000
+2023-Q2,5,Western Australia,owner_occupier,seasonally_adjusted,9779,4592400000
+2023-Q2,5,Western Australia,investor,original,4732,2110100000
+2023-Q2,5,Western Australia,investor,seasonally_adjusted,4507,1998500000
+2023-Q2,6,Tasmania,owner_occupier,original,1515,681300000
+2023-Q2,6,Tasmania,owner_occupier,seasonally_adjusted,1463,663300000
+2023-Q2,6,Tasmania,investor,original,522,237700000
+2023-Q2,6,Tasmania,investor,seasonally_adjusted,486,230500000
+2023-Q2,7,Northern Territory,owner_occupier,original,501,222800000
+2023-Q2,7,Northern Territory,owner_occupier,seasonally_adjusted,511,222200000
+2023-Q2,7,Northern Territory,investor,original,193,80700000
+2023-Q2,7,Northern Territory,investor,seasonally_adjusted,202,81800000
+2023-Q2,8,Australian Capital Territory,owner_occupier,original,1923,1137100000
+2023-Q2,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1874,1110200000
+2023-Q2,8,Australian Capital Territory,investor,original,883,533300000
+2023-Q2,8,Australian Capital Territory,investor,seasonally_adjusted,883,519400000
+2023-Q2,AUS,Australia,owner_occupier,original,78508,45771000000
+2023-Q2,AUS,Australia,owner_occupier,seasonally_adjusted,76703,45221900000
+2023-Q2,AUS,Australia,investor,original,40500,24106700000
+2023-Q2,AUS,Australia,investor,seasonally_adjusted,38967,23128900000
+2023-Q2,AUS,Australia,total,original,119008,69877700000
+2023-Q2,AUS,Australia,total,seasonally_adjusted,115670,68350800000
+2023-Q3,1,New South Wales,owner_occupier,original,19516,14468100000
+2023-Q3,1,New South Wales,owner_occupier,seasonally_adjusted,19345,14496000000
+2023-Q3,1,New South Wales,investor,original,11991,9416000000
+2023-Q3,1,New South Wales,investor,seasonally_adjusted,11879,9432900000
+2023-Q3,2,Victoria,owner_occupier,original,21636,12791700000
+2023-Q3,2,Victoria,owner_occupier,seasonally_adjusted,21449,12857000000
+2023-Q3,2,Victoria,investor,original,9812,5751800000
+2023-Q3,2,Victoria,investor,seasonally_adjusted,9719,5721000000
+2023-Q3,3,Queensland,owner_occupier,original,16183,8546600000
+2023-Q3,3,Queensland,owner_occupier,seasonally_adjusted,15913,8425600000
+2023-Q3,3,Queensland,investor,original,9403,4959500000
+2023-Q3,3,Queensland,investor,seasonally_adjusted,9316,4945600000
+2023-Q3,4,South Australia,owner_occupier,original,5020,2483200000
+2023-Q3,4,South Australia,owner_occupier,seasonally_adjusted,5109,2534500000
+2023-Q3,4,South Australia,investor,original,2749,1294000000
+2023-Q3,4,South Australia,investor,seasonally_adjusted,2749,1293300000
+2023-Q3,5,Western Australia,owner_occupier,original,9483,4497600000
+2023-Q3,5,Western Australia,owner_occupier,seasonally_adjusted,9712,4663100000
+2023-Q3,5,Western Australia,investor,original,4845,2191400000
+2023-Q3,5,Western Australia,investor,seasonally_adjusted,4937,2247700000
+2023-Q3,6,Tasmania,owner_occupier,original,1336,605500000
+2023-Q3,6,Tasmania,owner_occupier,seasonally_adjusted,1376,621100000
+2023-Q3,6,Tasmania,investor,original,503,230900000
+2023-Q3,6,Tasmania,investor,seasonally_adjusted,491,232100000
+2023-Q3,7,Northern Territory,owner_occupier,original,481,209800000
+2023-Q3,7,Northern Territory,owner_occupier,seasonally_adjusted,497,217800000
+2023-Q3,7,Northern Territory,investor,original,244,104200000
+2023-Q3,7,Northern Territory,investor,seasonally_adjusted,237,107100000
+2023-Q3,8,Australian Capital Territory,owner_occupier,original,1691,1005100000
+2023-Q3,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1723,1043800000
+2023-Q3,8,Australian Capital Territory,investor,original,851,540900000
+2023-Q3,8,Australian Capital Territory,investor,seasonally_adjusted,851,539300000
+2023-Q3,AUS,Australia,owner_occupier,original,75346,44607600000
+2023-Q3,AUS,Australia,owner_occupier,seasonally_adjusted,75591,44919100000
+2023-Q3,AUS,Australia,investor,original,40398,24488600000
+2023-Q3,AUS,Australia,investor,seasonally_adjusted,40075,24479900000
+2023-Q3,AUS,Australia,total,original,115744,69096200000
+2023-Q3,AUS,Australia,total,seasonally_adjusted,115666,69399000000
+2023-Q4,1,New South Wales,owner_occupier,original,21813,16696800000
+2023-Q4,1,New South Wales,owner_occupier,seasonally_adjusted,20053,15057200000
+2023-Q4,1,New South Wales,investor,original,13505,10866300000
+2023-Q4,1,New South Wales,investor,seasonally_adjusted,12751,10088100000
+2023-Q4,2,Victoria,owner_occupier,original,24223,14721300000
+2023-Q4,2,Victoria,owner_occupier,seasonally_adjusted,22602,13772700000
+2023-Q4,2,Victoria,investor,original,10603,6366800000
+2023-Q4,2,Victoria,investor,seasonally_adjusted,10109,6027000000
+2023-Q4,3,Queensland,owner_occupier,original,17803,9953300000
+2023-Q4,3,Queensland,owner_occupier,seasonally_adjusted,16676,9278700000
+2023-Q4,3,Queensland,investor,original,10444,5738200000
+2023-Q4,3,Queensland,investor,seasonally_adjusted,9915,5449000000
+2023-Q4,4,South Australia,owner_occupier,original,5732,2935700000
+2023-Q4,4,South Australia,owner_occupier,seasonally_adjusted,5366,2715800000
+2023-Q4,4,South Australia,investor,original,3092,1556700000
+2023-Q4,4,South Australia,investor,seasonally_adjusted,2952,1476400000
+2023-Q4,5,Western Australia,owner_occupier,original,10832,5424300000
+2023-Q4,5,Western Australia,owner_occupier,seasonally_adjusted,10309,5112300000
+2023-Q4,5,Western Australia,investor,original,5652,2668900000
+2023-Q4,5,Western Australia,investor,seasonally_adjusted,5479,2568200000
+2023-Q4,6,Tasmania,owner_occupier,original,1473,670200000
+2023-Q4,6,Tasmania,owner_occupier,seasonally_adjusted,1419,633000000
+2023-Q4,6,Tasmania,investor,original,526,240500000
+2023-Q4,6,Tasmania,investor,seasonally_adjusted,547,239500000
+2023-Q4,7,Northern Territory,owner_occupier,original,596,258300000
+2023-Q4,7,Northern Territory,owner_occupier,seasonally_adjusted,542,233900000
+2023-Q4,7,Northern Territory,investor,original,227,82100000
+2023-Q4,7,Northern Territory,investor,seasonally_adjusted,210,74800000
+2023-Q4,8,Australian Capital Territory,owner_occupier,original,1965,1194900000
+2023-Q4,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1800,1073700000
+2023-Q4,8,Australian Capital Territory,investor,original,909,561800000
+2023-Q4,8,Australian Capital Territory,investor,seasonally_adjusted,909,536600000
+2023-Q4,AUS,Australia,owner_occupier,original,84437,51854900000
+2023-Q4,AUS,Australia,owner_occupier,seasonally_adjusted,78756,48012800000
+2023-Q4,AUS,Australia,investor,original,44958,28081200000
+2023-Q4,AUS,Australia,investor,seasonally_adjusted,43071,26507200000
+2023-Q4,AUS,Australia,total,original,129395,79936100000
+2023-Q4,AUS,Australia,total,seasonally_adjusted,121827,74520100000
+2024-Q1,1,New South Wales,owner_occupier,original,17298,12910800000
+2024-Q1,1,New South Wales,owner_occupier,seasonally_adjusted,19746,14890700000
+2024-Q1,1,New South Wales,investor,original,12010,9764800000
+2024-Q1,1,New South Wales,investor,seasonally_adjusted,13783,11085800000
+2024-Q1,2,Victoria,owner_occupier,original,20347,12307200000
+2024-Q1,2,Victoria,owner_occupier,seasonally_adjusted,23020,13611400000
+2024-Q1,2,Victoria,investor,original,8745,5281800000
+2024-Q1,2,Victoria,investor,seasonally_adjusted,10147,5939700000
+2024-Q1,3,Queensland,owner_occupier,original,15368,8711400000
+2024-Q1,3,Queensland,owner_occupier,seasonally_adjusted,16784,9566900000
+2024-Q1,3,Queensland,investor,original,9379,5274300000
+2024-Q1,3,Queensland,investor,seasonally_adjusted,10258,5669300000
+2024-Q1,4,South Australia,owner_occupier,original,4911,2540400000
+2024-Q1,4,South Australia,owner_occupier,seasonally_adjusted,5343,2761300000
+2024-Q1,4,South Australia,investor,original,2793,1415800000
+2024-Q1,4,South Australia,investor,seasonally_adjusted,3032,1537100000
+2024-Q1,5,Western Australia,owner_occupier,original,9592,4987500000
+2024-Q1,5,Western Australia,owner_occupier,seasonally_adjusted,10235,5328900000
+2024-Q1,5,Western Australia,investor,original,5633,2735500000
+2024-Q1,5,Western Australia,investor,seasonally_adjusted,6023,2948000000
+2024-Q1,6,Tasmania,owner_occupier,original,1354,605700000
+2024-Q1,6,Tasmania,owner_occupier,seasonally_adjusted,1430,647100000
+2024-Q1,6,Tasmania,investor,original,495,235900000
+2024-Q1,6,Tasmania,investor,seasonally_adjusted,527,243700000
+2024-Q1,7,Northern Territory,owner_occupier,original,445,196100000
+2024-Q1,7,Northern Territory,owner_occupier,seasonally_adjusted,474,210900000
+2024-Q1,7,Northern Territory,investor,original,216,84900000
+2024-Q1,7,Northern Territory,investor,seasonally_adjusted,233,90700000
+2024-Q1,8,Australian Capital Territory,owner_occupier,original,1587,946100000
+2024-Q1,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1761,1051800000
+2024-Q1,8,Australian Capital Territory,investor,original,775,491000000
+2024-Q1,8,Australian Capital Territory,investor,seasonally_adjusted,775,534500000
+2024-Q1,AUS,Australia,owner_occupier,original,70902,43205100000
+2024-Q1,AUS,Australia,owner_occupier,seasonally_adjusted,78239,47253800000
+2024-Q1,AUS,Australia,investor,original,40046,25283900000
+2024-Q1,AUS,Australia,investor,seasonally_adjusted,44048,28138400000
+2024-Q1,AUS,Australia,total,original,110948,68489000000
+2024-Q1,AUS,Australia,total,seasonally_adjusted,122288,75392200000
+2024-Q2,1,New South Wales,owner_occupier,original,21847,16887200000
+2024-Q2,1,New South Wales,owner_occupier,seasonally_adjusted,21300,16486000000
+2024-Q2,1,New South Wales,investor,original,15563,12588700000
+2024-Q2,1,New South Wales,investor,seasonally_adjusted,14695,12081000000
+2024-Q2,2,Victoria,owner_occupier,original,25023,15159700000
+2024-Q2,2,Victoria,owner_occupier,seasonally_adjusted,24159,14695400000
+2024-Q2,2,Victoria,investor,original,11890,6926200000
+2024-Q2,2,Victoria,investor,seasonally_adjusted,11019,6623600000
+2024-Q2,3,Queensland,owner_occupier,original,17595,10392500000
+2024-Q2,3,Queensland,owner_occupier,seasonally_adjusted,17633,10385800000
+2024-Q2,3,Queensland,investor,original,11759,6759300000
+2024-Q2,3,Queensland,investor,seasonally_adjusted,11522,6711900000
+2024-Q2,4,South Australia,owner_occupier,original,5411,2934800000
+2024-Q2,4,South Australia,owner_occupier,seasonally_adjusted,5251,2876400000
+2024-Q2,4,South Australia,investor,original,3582,1883600000
+2024-Q2,4,South Australia,investor,seasonally_adjusted,3481,1841300000
+2024-Q2,5,Western Australia,owner_occupier,original,10867,5965900000
+2024-Q2,5,Western Australia,owner_occupier,seasonally_adjusted,10502,5744500000
+2024-Q2,5,Western Australia,investor,original,6896,3581800000
+2024-Q2,5,Western Australia,investor,seasonally_adjusted,6582,3399900000
+2024-Q2,6,Tasmania,owner_occupier,original,1507,693900000
+2024-Q2,6,Tasmania,owner_occupier,seasonally_adjusted,1453,673500000
+2024-Q2,6,Tasmania,investor,original,602,291400000
+2024-Q2,6,Tasmania,investor,seasonally_adjusted,561,281300000
+2024-Q2,7,Northern Territory,owner_occupier,original,510,225800000
+2024-Q2,7,Northern Territory,owner_occupier,seasonally_adjusted,522,225300000
+2024-Q2,7,Northern Territory,investor,original,254,104500000
+2024-Q2,7,Northern Territory,investor,seasonally_adjusted,263,104800000
+2024-Q2,8,Australian Capital Territory,owner_occupier,original,1893,1175600000
+2024-Q2,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1842,1145400000
+2024-Q2,8,Australian Capital Territory,investor,original,1216,711300000
+2024-Q2,8,Australian Capital Territory,investor,seasonally_adjusted,1216,697900000
+2024-Q2,AUS,Australia,owner_occupier,original,84653,53435500000
+2024-Q2,AUS,Australia,owner_occupier,seasonally_adjusted,82746,52972800000
+2024-Q2,AUS,Australia,investor,original,51762,32846700000
+2024-Q2,AUS,Australia,investor,seasonally_adjusted,50050,31658700000
+2024-Q2,AUS,Australia,total,original,136415,86282200000
+2024-Q2,AUS,Australia,total,seasonally_adjusted,132796,84631600000
+2024-Q3,1,New South Wales,owner_occupier,original,21276,16581400000
+2024-Q3,1,New South Wales,owner_occupier,seasonally_adjusted,21086,16617400000
+2024-Q3,1,New South Wales,investor,original,15478,12649700000
+2024-Q3,1,New South Wales,investor,seasonally_adjusted,15335,12651500000
+2024-Q3,2,Victoria,owner_occupier,original,24064,14881500000
+2024-Q3,2,Victoria,owner_occupier,seasonally_adjusted,23921,14967600000
+2024-Q3,2,Victoria,investor,original,11027,6717000000
+2024-Q3,2,Victoria,investor,seasonally_adjusted,10955,6683100000
+2024-Q3,3,Queensland,owner_occupier,original,18531,11286000000
+2024-Q3,3,Queensland,owner_occupier,seasonally_adjusted,18159,11111800000
+2024-Q3,3,Queensland,investor,original,12990,7668600000
+2024-Q3,3,Queensland,investor,seasonally_adjusted,12827,7526200000
+2024-Q3,4,South Australia,owner_occupier,original,5301,2949900000
+2024-Q3,4,South Australia,owner_occupier,seasonally_adjusted,5397,3011900000
+2024-Q3,4,South Australia,investor,original,3658,1975500000
+2024-Q3,4,South Australia,investor,seasonally_adjusted,3647,1973900000
+2024-Q3,5,Western Australia,owner_occupier,original,10120,5644900000
+2024-Q3,5,Western Australia,owner_occupier,seasonally_adjusted,10376,5873500000
+2024-Q3,5,Western Australia,investor,original,6935,3702500000
+2024-Q3,5,Western Australia,investor,seasonally_adjusted,7029,3774800000
+2024-Q3,6,Tasmania,owner_occupier,original,1579,718300000
+2024-Q3,6,Tasmania,owner_occupier,seasonally_adjusted,1607,734900000
+2024-Q3,6,Tasmania,investor,original,541,252100000
+2024-Q3,6,Tasmania,investor,seasonally_adjusted,528,254200000
+2024-Q3,7,Northern Territory,owner_occupier,original,494,215100000
+2024-Q3,7,Northern Territory,owner_occupier,seasonally_adjusted,496,223900000
+2024-Q3,7,Northern Territory,investor,original,282,116000000
+2024-Q3,7,Northern Territory,investor,seasonally_adjusted,273,118600000
+2024-Q3,8,Australian Capital Territory,owner_occupier,original,1750,1080600000
+2024-Q3,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1792,1126500000
+2024-Q3,8,Australian Capital Territory,investor,original,980,582000000
+2024-Q3,8,Australian Capital Territory,investor,seasonally_adjusted,980,569600000
+2024-Q3,AUS,Australia,owner_occupier,original,83115,53357800000
+2024-Q3,AUS,Australia,owner_occupier,seasonally_adjusted,83279,53544900000
+2024-Q3,AUS,Australia,investor,original,51891,33663400000
+2024-Q3,AUS,Australia,investor,seasonally_adjusted,51271,33532900000
+2024-Q3,AUS,Australia,total,original,135006,87021200000
+2024-Q3,AUS,Australia,total,seasonally_adjusted,134549,87077800000
+2024-Q4,1,New South Wales,owner_occupier,original,22081,17891600000
+2024-Q4,1,New South Wales,owner_occupier,seasonally_adjusted,20228,16086900000
+2024-Q4,1,New South Wales,investor,original,15447,13332900000
+2024-Q4,1,New South Wales,investor,seasonally_adjusted,14561,12355800000
+2024-Q4,2,Victoria,owner_occupier,original,25667,16218900000
+2024-Q4,2,Victoria,owner_occupier,seasonally_adjusted,23855,15152500000
+2024-Q4,2,Victoria,investor,original,11407,6902100000
+2024-Q4,2,Victoria,investor,seasonally_adjusted,10835,6495500000
+2024-Q4,3,Queensland,owner_occupier,original,19394,12323300000
+2024-Q4,3,Queensland,owner_occupier,seasonally_adjusted,18158,11468600000
+2024-Q4,3,Queensland,investor,original,12273,7549300000
+2024-Q4,3,Queensland,investor,seasonally_adjusted,11643,7060300000
+2024-Q4,4,South Australia,owner_occupier,original,5949,3445800000
+2024-Q4,4,South Australia,owner_occupier,seasonally_adjusted,5561,3187800000
+2024-Q4,4,South Australia,investor,original,3759,2100400000
+2024-Q4,4,South Australia,investor,seasonally_adjusted,3590,1989200000
+2024-Q4,5,Western Australia,owner_occupier,original,10737,6427400000
+2024-Q4,5,Western Australia,owner_occupier,seasonally_adjusted,10178,6025700000
+2024-Q4,5,Western Australia,investor,original,6396,3573500000
+2024-Q4,5,Western Australia,investor,seasonally_adjusted,6183,3430100000
+2024-Q4,6,Tasmania,owner_occupier,original,1581,749000000
+2024-Q4,6,Tasmania,owner_occupier,seasonally_adjusted,1489,708900000
+2024-Q4,6,Tasmania,investor,original,529,249700000
+2024-Q4,6,Tasmania,investor,seasonally_adjusted,549,248700000
+2024-Q4,7,Northern Territory,owner_occupier,original,632,294100000
+2024-Q4,7,Northern Territory,owner_occupier,seasonally_adjusted,569,265000000
+2024-Q4,7,Northern Territory,investor,original,462,183600000
+2024-Q4,7,Northern Territory,investor,seasonally_adjusted,428,168500000
+2024-Q4,8,Australian Capital Territory,owner_occupier,original,2117,1375900000
+2024-Q4,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1935,1233900000
+2024-Q4,8,Australian Capital Territory,investor,original,839,536400000
+2024-Q4,8,Australian Capital Territory,investor,seasonally_adjusted,839,511000000
+2024-Q4,AUS,Australia,owner_occupier,original,88158,58726000000
+2024-Q4,AUS,Australia,owner_occupier,seasonally_adjusted,81916,54131300000
+2024-Q4,AUS,Australia,investor,original,51112,34427800000
+2024-Q4,AUS,Australia,investor,seasonally_adjusted,48733,32360600000
+2024-Q4,AUS,Australia,total,original,139270,93153800000
+2024-Q4,AUS,Australia,total,seasonally_adjusted,130649,86492000000
+2025-Q1,1,New South Wales,owner_occupier,original,17924,14237500000
+2025-Q1,1,New South Wales,owner_occupier,seasonally_adjusted,20481,16405500000
+2025-Q1,1,New South Wales,investor,original,12887,10911900000
+2025-Q1,1,New South Wales,investor,seasonally_adjusted,14779,12408400000
+2025-Q1,2,Victoria,owner_occupier,original,21164,13285900000
+2025-Q1,2,Victoria,owner_occupier,seasonally_adjusted,23945,14670800000
+2025-Q1,2,Victoria,investor,original,9790,5962500000
+2025-Q1,2,Victoria,investor,seasonally_adjusted,11324,6713400000
+2025-Q1,3,Queensland,owner_occupier,original,16403,10517500000
+2025-Q1,3,Queensland,owner_occupier,seasonally_adjusted,17972,11559400000
+2025-Q1,3,Queensland,investor,original,10588,6604800000
+2025-Q1,3,Queensland,investor,seasonally_adjusted,11610,7220600000
+2025-Q1,4,South Australia,owner_occupier,original,5052,2996300000
+2025-Q1,4,South Australia,owner_occupier,seasonally_adjusted,5513,3267300000
+2025-Q1,4,South Australia,investor,original,3163,1836000000
+2025-Q1,4,South Australia,investor,seasonally_adjusted,3432,1994500000
+2025-Q1,5,Western Australia,owner_occupier,original,9698,5756500000
+2025-Q1,5,Western Australia,owner_occupier,seasonally_adjusted,10358,6157500000
+2025-Q1,5,Western Australia,investor,original,5599,3142300000
+2025-Q1,5,Western Australia,investor,seasonally_adjusted,6021,3405400000
+2025-Q1,6,Tasmania,owner_occupier,original,1524,741700000
+2025-Q1,6,Tasmania,owner_occupier,seasonally_adjusted,1662,793900000
+2025-Q1,6,Tasmania,investor,original,540,262500000
+2025-Q1,6,Tasmania,investor,seasonally_adjusted,575,271600000
+2025-Q1,7,Northern Territory,owner_occupier,original,520,252600000
+2025-Q1,7,Northern Territory,owner_occupier,seasonally_adjusted,560,272600000
+2025-Q1,7,Northern Territory,investor,original,428,187100000
+2025-Q1,7,Northern Territory,investor,seasonally_adjusted,470,201600000
+2025-Q1,8,Australian Capital Territory,owner_occupier,original,1781,1099900000
+2025-Q1,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1968,1220600000
+2025-Q1,8,Australian Capital Territory,investor,original,647,427000000
+2025-Q1,8,Australian Capital Territory,investor,seasonally_adjusted,647,471600000
+2025-Q1,AUS,Australia,owner_occupier,original,74066,48887900000
+2025-Q1,AUS,Australia,owner_occupier,seasonally_adjusted,82068,53735600000
+2025-Q1,AUS,Australia,investor,original,43642,29334000000
+2025-Q1,AUS,Australia,investor,seasonally_adjusted,48205,32771400000
+2025-Q1,AUS,Australia,total,original,117708,78221900000
+2025-Q1,AUS,Australia,total,seasonally_adjusted,130273,86507000000
+2025-Q2,1,New South Wales,owner_occupier,original,21034,17137900000
+2025-Q2,1,New South Wales,owner_occupier,seasonally_adjusted,20584,16796800000
+2025-Q2,1,New South Wales,investor,original,15908,13240800000
+2025-Q2,1,New South Wales,investor,seasonally_adjusted,15049,12733800000
+2025-Q2,2,Victoria,owner_occupier,original,24942,15934700000
+2025-Q2,2,Victoria,owner_occupier,seasonally_adjusted,24140,15489100000
+2025-Q2,2,Victoria,investor,original,12615,7534900000
+2025-Q2,2,Victoria,investor,seasonally_adjusted,11719,7234000000
+2025-Q2,3,Queensland,owner_occupier,original,18067,11971900000
+2025-Q2,3,Queensland,owner_occupier,seasonally_adjusted,18125,11993600000
+2025-Q2,3,Queensland,investor,original,12027,7673500000
+2025-Q2,3,Queensland,investor,seasonally_adjusted,11787,7631400000
+2025-Q2,4,South Australia,owner_occupier,original,5715,3415100000
+2025-Q2,4,South Australia,owner_occupier,seasonally_adjusted,5541,3336000000
+2025-Q2,4,South Australia,investor,original,3689,2212900000
+2025-Q2,4,South Australia,investor,seasonally_adjusted,3589,2164300000
+2025-Q2,5,Western Australia,owner_occupier,original,10510,6518000000
+2025-Q2,5,Western Australia,owner_occupier,seasonally_adjusted,10192,6286800000
+2025-Q2,5,Western Australia,investor,original,6517,3795800000
+2025-Q2,5,Western Australia,investor,seasonally_adjusted,6230,3611700000
+2025-Q2,6,Tasmania,owner_occupier,original,1761,850200000
+2025-Q2,6,Tasmania,owner_occupier,seasonally_adjusted,1700,824700000
+2025-Q2,6,Tasmania,investor,original,678,320100000
+2025-Q2,6,Tasmania,investor,seasonally_adjusted,632,307800000
+2025-Q2,7,Northern Territory,owner_occupier,original,585,283300000
+2025-Q2,7,Northern Territory,owner_occupier,seasonally_adjusted,599,282600000
+2025-Q2,7,Northern Territory,investor,original,542,228200000
+2025-Q2,7,Northern Territory,investor,seasonally_adjusted,554,226800000
+2025-Q2,8,Australian Capital Territory,owner_occupier,original,2029,1289400000
+2025-Q2,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,1982,1259400000
+2025-Q2,8,Australian Capital Territory,investor,original,731,489300000
+2025-Q2,8,Australian Capital Territory,investor,seasonally_adjusted,731,482300000
+2025-Q2,AUS,Australia,owner_occupier,original,84643,57400500000
+2025-Q2,AUS,Australia,owner_occupier,seasonally_adjusted,82931,57085800000
+2025-Q2,AUS,Australia,investor,original,52707,35495400000
+2025-Q2,AUS,Australia,investor,seasonally_adjusted,51146,34329900000
+2025-Q2,AUS,Australia,total,original,137350,92895900000
+2025-Q2,AUS,Australia,total,seasonally_adjusted,134077,91415700000
+2025-Q3,1,New South Wales,owner_occupier,original,21666,17973800000
+2025-Q3,1,New South Wales,owner_occupier,seasonally_adjusted,21444,18009900000
+2025-Q3,1,New South Wales,investor,original,18430,15482100000
+2025-Q3,1,New South Wales,investor,seasonally_adjusted,18272,15464800000
+2025-Q3,2,Victoria,owner_occupier,original,24707,15986600000
+2025-Q3,2,Victoria,owner_occupier,seasonally_adjusted,24579,16088100000
+2025-Q3,2,Victoria,investor,original,14046,8370500000
+2025-Q3,2,Victoria,investor,seasonally_adjusted,14007,8327100000
+2025-Q3,3,Queensland,owner_occupier,original,18407,12658100000
+2025-Q3,3,Queensland,owner_occupier,seasonally_adjusted,17998,12445400000
+2025-Q3,3,Queensland,investor,original,13376,8830300000
+2025-Q3,3,Queensland,investor,seasonally_adjusted,13196,8700300000
+2025-Q3,4,South Australia,owner_occupier,original,5341,3299500000
+2025-Q3,4,South Australia,owner_occupier,seasonally_adjusted,5441,3371100000
+2025-Q3,4,South Australia,investor,original,3868,2346400000
+2025-Q3,4,South Australia,investor,seasonally_adjusted,3852,2344900000
+2025-Q3,5,Western Australia,owner_occupier,original,9784,6196200000
+2025-Q3,5,Western Australia,owner_occupier,seasonally_adjusted,10010,6454800000
+2025-Q3,5,Western Australia,investor,original,6635,3909100000
+2025-Q3,5,Western Australia,investor,seasonally_adjusted,6701,3967500000
+2025-Q3,6,Tasmania,owner_occupier,original,1701,822000000
+2025-Q3,6,Tasmania,owner_occupier,seasonally_adjusted,1696,838700000
+2025-Q3,6,Tasmania,investor,original,721,356400000
+2025-Q3,6,Tasmania,investor,seasonally_adjusted,705,360100000
+2025-Q3,7,Northern Territory,owner_occupier,original,577,278400000
+2025-Q3,7,Northern Territory,owner_occupier,seasonally_adjusted,592,290500000
+2025-Q3,7,Northern Territory,investor,original,585,253100000
+2025-Q3,7,Northern Territory,investor,seasonally_adjusted,567,258600000
+2025-Q3,8,Australian Capital Territory,owner_occupier,original,2052,1288900000
+2025-Q3,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,2104,1345800000
+2025-Q3,8,Australian Capital Territory,investor,original,934,618000000
+2025-Q3,8,Australian Capital Territory,investor,seasonally_adjusted,934,597900000
+2025-Q3,AUS,Australia,owner_occupier,original,84235,58503600000
+2025-Q3,AUS,Australia,owner_occupier,seasonally_adjusted,84188,58555000000
+2025-Q3,AUS,Australia,investor,original,58595,40166000000
+2025-Q3,AUS,Australia,investor,seasonally_adjusted,57756,39898700000
+2025-Q3,AUS,Australia,total,original,142830,98669600000
+2025-Q3,AUS,Australia,total,seasonally_adjusted,141945,98453700000
+2025-Q4,1,New South Wales,owner_occupier,original,24964,21801100000
+2025-Q4,1,New South Wales,owner_occupier,seasonally_adjusted,22821,19554900000
+2025-Q4,1,New South Wales,investor,original,19780,17270200000
+2025-Q4,1,New South Wales,investor,seasonally_adjusted,18608,15963700000
+2025-Q4,2,Victoria,owner_occupier,original,27803,18825700000
+2025-Q4,2,Victoria,owner_occupier,seasonally_adjusted,25783,17548700000
+2025-Q4,2,Victoria,investor,original,15801,9751400000
+2025-Q4,2,Victoria,investor,seasonally_adjusted,14954,9141600000
+2025-Q4,3,Queensland,owner_occupier,original,20120,14811700000
+2025-Q4,3,Queensland,owner_occupier,seasonally_adjusted,18814,13767400000
+2025-Q4,3,Queensland,investor,original,14262,9966900000
+2025-Q4,3,Queensland,investor,seasonally_adjusted,13527,9283900000
+2025-Q4,4,South Australia,owner_occupier,original,5984,3942900000
+2025-Q4,4,South Australia,owner_occupier,seasonally_adjusted,5582,3647400000
+2025-Q4,4,South Australia,investor,original,4144,2574500000
+2025-Q4,4,South Australia,investor,seasonally_adjusted,3960,2436700000
+2025-Q4,5,Western Australia,owner_occupier,original,10811,7441500000
+2025-Q4,5,Western Australia,owner_occupier,seasonally_adjusted,10240,6957500000
+2025-Q4,5,Western Australia,investor,original,7251,4671400000
+2025-Q4,5,Western Australia,investor,seasonally_adjusted,6996,4474700000
+2025-Q4,6,Tasmania,owner_occupier,original,1794,905400000
+2025-Q4,6,Tasmania,owner_occupier,seasonally_adjusted,1738,858400000
+2025-Q4,6,Tasmania,investor,original,882,435000000
+2025-Q4,6,Tasmania,investor,seasonally_adjusted,914,434000000
+2025-Q4,7,Northern Territory,owner_occupier,original,681,351000000
+2025-Q4,7,Northern Territory,owner_occupier,seasonally_adjusted,609,314700000
+2025-Q4,7,Northern Territory,investor,original,557,256100000
+2025-Q4,7,Northern Territory,investor,seasonally_adjusted,514,235300000
+2025-Q4,8,Australian Capital Territory,owner_occupier,original,2351,1552000000
+2025-Q4,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,2146,1388400000
+2025-Q4,8,Australian Capital Territory,investor,original,897,610500000
+2025-Q4,8,Australian Capital Territory,investor,seasonally_adjusted,897,579700000
+2025-Q4,AUS,Australia,owner_occupier,original,94508,69631400000
+2025-Q4,AUS,Australia,owner_occupier,seasonally_adjusted,87659,63938500000
+2025-Q4,AUS,Australia,investor,original,63574,45535900000
+2025-Q4,AUS,Australia,investor,seasonally_adjusted,60416,42691800000
+2025-Q4,AUS,Australia,total,original,158082,115167300000
+2025-Q4,AUS,Australia,total,seasonally_adjusted,148075,106630300000
+2026-Q1,1,New South Wales,owner_occupier,original,19368,16670300000
+2026-Q1,1,New South Wales,owner_occupier,seasonally_adjusted,22116,19193400000
+2026-Q1,1,New South Wales,investor,original,15063,12916900000
+2026-Q1,1,New South Wales,investor,seasonally_adjusted,17267,14727900000
+2026-Q1,2,Victoria,owner_occupier,original,22082,14904600000
+2026-Q1,2,Victoria,owner_occupier,seasonally_adjusted,24944,16449800000
+2026-Q1,2,Victoria,investor,original,12706,7712900000
+2026-Q1,2,Victoria,investor,seasonally_adjusted,14669,8833000000
+2026-Q1,3,Queensland,owner_occupier,original,16532,12258200000
+2026-Q1,3,Queensland,owner_occupier,seasonally_adjusted,18144,13479800000
+2026-Q1,3,Queensland,investor,original,12098,8604600000
+2026-Q1,3,Queensland,investor,seasonally_adjusted,13262,9447400000
+2026-Q1,4,South Australia,owner_occupier,original,4898,3255900000
+2026-Q1,4,South Australia,owner_occupier,seasonally_adjusted,5355,3558300000
+2026-Q1,4,South Australia,investor,original,3784,2422400000
+2026-Q1,4,South Australia,investor,seasonally_adjusted,4106,2632100000
+2026-Q1,5,Western Australia,owner_occupier,original,9176,6448600000
+2026-Q1,5,Western Australia,owner_occupier,seasonally_adjusted,9794,6900800000
+2026-Q1,5,Western Australia,investor,original,6199,4056500000
+2026-Q1,5,Western Australia,investor,seasonally_adjusted,6688,4412500000
+2026-Q1,6,Tasmania,owner_occupier,original,1514,788700000
+2026-Q1,6,Tasmania,owner_occupier,seasonally_adjusted,1605,844800000
+2026-Q1,6,Tasmania,investor,original,951,491100000
+2026-Q1,6,Tasmania,investor,seasonally_adjusted,1012,508200000
+2026-Q1,7,Northern Territory,owner_occupier,original,464,249500000
+2026-Q1,7,Northern Territory,owner_occupier,seasonally_adjusted,503,270100000
+2026-Q1,7,Northern Territory,investor,original,459,196900000
+2026-Q1,7,Northern Territory,investor,seasonally_adjusted,509,213200000
+2026-Q1,8,Australian Capital Territory,owner_occupier,original,2025,1351600000
+2026-Q1,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,2226,1496600000
+2026-Q1,8,Australian Capital Territory,investor,original,743,507800000
+2026-Q1,8,Australian Capital Territory,investor,seasonally_adjusted,743,566200000
+2026-Q1,AUS,Australia,owner_occupier,original,76059,55927400000
+2026-Q1,AUS,Australia,owner_occupier,seasonally_adjusted,84371,61705100000
+2026-Q1,AUS,Australia,investor,original,52003,36909100000
+2026-Q1,AUS,Australia,investor,seasonally_adjusted,57565,41323200000
+2026-Q1,AUS,Australia,total,original,128062,92836400000
+2026-Q1,AUS,Australia,total,seasonally_adjusted,141936,103028200000
+2026-Q2,1,New South Wales,owner_occupier,original,21018,17690700000
+2026-Q2,1,New South Wales,owner_occupier,seasonally_adjusted,20641,17388100000
+2026-Q2,1,New South Wales,investor,original,15389,13090500000
+2026-Q2,1,New South Wales,investor,seasonally_adjusted,14584,12604300000
+2026-Q2,2,Victoria,owner_occupier,original,24248,16104200000
+2026-Q2,2,Victoria,owner_occupier,seasonally_adjusted,23539,15687800000
+2026-Q2,2,Victoria,investor,original,13516,8163800000
+2026-Q2,2,Victoria,investor,seasonally_adjusted,12583,7732500000
+2026-Q2,3,Queensland,owner_occupier,original,17541,13173300000
+2026-Q2,3,Queensland,owner_occupier,seasonally_adjusted,17622,13216600000
+2026-Q2,3,Queensland,investor,original,12145,8660600000
+2026-Q2,3,Queensland,investor,seasonally_adjusted,11921,8631800000
+2026-Q2,4,South Australia,owner_occupier,original,5751,3863000000
+2026-Q2,4,South Australia,owner_occupier,seasonally_adjusted,5576,3765500000
+2026-Q2,4,South Australia,investor,original,3851,2472200000
+2026-Q2,4,South Australia,investor,seasonally_adjusted,3747,2417600000
+2026-Q2,5,Western Australia,owner_occupier,original,10014,7210200000
+2026-Q2,5,Western Australia,owner_occupier,seasonally_adjusted,9737,6960800000
+2026-Q2,5,Western Australia,investor,original,6629,4496400000
+2026-Q2,5,Western Australia,investor,seasonally_adjusted,6346,4285300000
+2026-Q2,6,Tasmania,owner_occupier,original,1748,902300000
+2026-Q2,6,Tasmania,owner_occupier,seasonally_adjusted,1691,874800000
+2026-Q2,6,Tasmania,investor,original,1143,598900000
+2026-Q2,6,Tasmania,investor,seasonally_adjusted,1066,574200000
+2026-Q2,7,Northern Territory,owner_occupier,original,596,325100000
+2026-Q2,7,Northern Territory,owner_occupier,seasonally_adjusted,610,324200000
+2026-Q2,7,Northern Territory,investor,original,565,250400000
+2026-Q2,7,Northern Territory,investor,seasonally_adjusted,574,248200000
+2026-Q2,8,Australian Capital Territory,owner_occupier,original,2193,1460500000
+2026-Q2,8,Australian Capital Territory,owner_occupier,seasonally_adjusted,2154,1431300000
+2026-Q2,8,Australian Capital Territory,investor,original,808,550700000
+2026-Q2,8,Australian Capital Territory,investor,seasonally_adjusted,808,544400000
+2026-Q2,AUS,Australia,owner_occupier,original,83109,60729400000
+2026-Q2,AUS,Australia,owner_occupier,seasonally_adjusted,81626,60526800000
+2026-Q2,AUS,Australia,investor,original,54046,38283500000
+2026-Q2,AUS,Australia,investor,seasonally_adjusted,52599,37121100000
+2026-Q2,AUS,Australia,total,original,137155,99012900000
+2026-Q2,AUS,Australia,total,seasonally_adjusted,134225,97647900000

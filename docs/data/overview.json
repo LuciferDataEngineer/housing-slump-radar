@@ -1,0 +1,231 @@
+{
+  "id": "overview",
+  "status": "act",
+  "title": "Budget a new loan at 7.30%, not last December's 6.05%.",
+  "summary": "On the average new loan of $727,494, that is $4,987 a month, up $602 from December 2025, if lenders pass on the remaining cash-rate rise. The official mean home price is $1,100,400, −0.7% in the June quarter. Victoria's September approvals were −29.9% on a year earlier.",
+  "stats": [
+    {
+      "label": "Cash rate",
+      "value": "4.85%",
+      "detail": "From 4 November 2026. 5 rises in 2026.",
+      "status": "act"
+    },
+    {
+      "label": "Monthly repayment",
+      "value": "$4,987",
+      "detail": "Up $602 from December, if the remaining rises pass through.",
+      "status": "act"
+    },
+    {
+      "label": "Mean home price",
+      "value": "$1,100,400",
+      "detail": "Australia, June quarter 2026. −0.7% in the quarter.",
+      "status": "watch"
+    },
+    {
+      "label": "Victoria approvals",
+      "value": "3,918",
+      "detail": "September 2026, −29.9% on last September.",
+      "status": "act"
+    }
+  ],
+  "charts": [
+    {
+      "kind": "line",
+      "title": "Cash rate target since January 2025",
+      "unit": "%",
+      "points": [
+        {
+          "label": "Jan 2025",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "Apr 2025",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.85,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.85,
+          "marker": false
+        },
+        {
+          "label": "Jul 2025",
+          "y": 3.85,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "Oct 2025",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "Nov 2025",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "Jan 2026",
+          "y": 3.6,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 3.85,
+          "marker": true
+        },
+        {
+          "label": "",
+          "y": 4.1,
+          "marker": true
+        },
+        {
+          "label": "Apr 2026",
+          "y": 4.1,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.35,
+          "marker": true
+        },
+        {
+          "label": "",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "Jul 2026",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.35,
+          "marker": false
+        },
+        {
+          "label": "",
+          "y": 4.6,
+          "marker": true
+        },
+        {
+          "label": "Oct 2026",
+          "y": 4.6,
+          "marker": false
+        },
+        {
+          "label": "4.85%",
+          "y": 4.85,
+          "marker": true
+        }
+      ]
+    }
+  ],
+  "table": {
+    "caption": "What to read first",
+    "columns": [
+      "Question",
+      "Reading",
+      "Status"
+    ],
+    "rows": [
+      [
+        "Where is repayment pressure?",
+        "National. The published bank rate is already 6.80%, and two cash-rate steps are not in that figure yet.",
+        "Act"
+      ],
+      [
+        "Where are prices turning?",
+        "The June-quarter mean fell in New South Wales, Victoria and the ACT. The other states were still rising.",
+        "Watch"
+      ],
+      [
+        "Where is supply weakest?",
+        "Victoria. Australia as a whole was only −1.7%.",
+        "Act"
+      ]
+    ]
+  },
+  "callout": {
+    "status": "watch",
+    "title": "October news, not these charts",
+    "body": "On 2 November, Cotality said national home values fell 1.2% in October, a seventh monthly fall, and were about 6.7% ($63,000) under the March peak. Capital-city values were down 8.1% in seven months. Sales over three months were about 23% lower than a year earlier. PropTrack published a smaller October fall. Those private indexes are not plotted here.",
+    "href": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214",
+    "link": "ABC report, 2 Nov 2026"
+  },
+  "sources": [
+    "RBA table F1 cash rate target and table F5 discounted owner-occupier variable rate.",
+    "ABS mean residential dwelling price, June quarter 2026, and Building Approvals Table 09, September 2026 vintage.",
+    "Repayment is 30-year principal and interest on the June quarter average new loan. It is not a bank quote."
+  ],
+  "metrics": {
+    "cash_rate_target": 4.85,
+    "cash_rate_date": "2026-11-04",
+    "hikes_2026": 5,
+    "cash_rate_end_2025": 3.6,
+    "discounted_rate_end_2025": 6.05,
+    "discounted_rate_published": 6.8,
+    "discounted_rate_month": "2026-09-30",
+    "lending_rate_last_increased": "2026-05-31",
+    "passthrough_gap_pp": 0.5,
+    "scenario_rate": 7.3,
+    "loan_principal": 727494,
+    "loan_quarter": "2026-Q2",
+    "repayment_end_2025": 4385.11,
+    "repayment_published": 4742.72,
+    "repayment_scenario": 4987.49,
+    "extra_published": 357.61,
+    "extra_scenario": 602.38,
+    "mean_price_australia": 1100400,
+    "mean_price_quarter": "2026-Q2",
+    "mean_price_qoq_pct": -0.74,
+    "mean_price_yoy_pct": 6.85,
+    "mean_price_versus_peak_pct": -0.74,
+    "approvals_month": "2026-09-01",
+    "approvals_australia": 18318,
+    "approvals_australia_yoy_pct": -1.69,
+    "approvals_victoria": 3918,
+    "approvals_victoria_year_ago": 5588,
+    "approvals_victoria_yoy_pct": -29.89,
+    "august_revision": 206,
+    "commitments_quarter": "2026-Q2",
+    "commitments_number": 134225,
+    "commitments_yoy_pct": 0.11,
+    "suburbs_compared": 468,
+    "suburbs_down": 101,
+    "suburbs_act": 58,
+    "suburb_median_yoy_pct": 7.37
+  }
+}

@@ -1,0 +1,37 @@
+domain: credit
+name: lending_rates
+version: "1.0.0"
+description: Month-end housing lending rates from RBA table F5.
+file: data/tidy/lending_rates.csv
+primary_key: [month_end]
+columns:
+  - name: month_end
+    type: date
+    required: true
+  - name: discounted_owner_occupier
+    type: number
+    required: true
+    min: 0
+    max: 30
+  - name: standard_owner_occupier
+    type: number
+    required: true
+    min: 0
+    max: 30
+  - name: discounted_investor
+    type: number
+    required: false
+    min: 0
+    max: 30
+  - name: fixed_3y_owner_occupier
+    type: number
+    required: false
+    min: 0
+    max: 30
+expectations:
+  - type: min_rows
+    value: 50
+  - type: latest_value
+    order_by: month_end
+    column: discounted_owner_occupier
+    equals: 6.80

@@ -1,0 +1,193 @@
+{
+  "id": "suburbs",
+  "status": "watch",
+  "title": "The typical Victorian suburb median was still +7.4% in the March quarter.",
+  "summary": "Of 468 suburbs with enough sales in both March quarters, 367 were up and 101 were down. 58 fell by more than 5%. The steep falls are concentrated in expensive inner-Melbourne suburbs. This file does not yet include the October news.",
+  "stats": [
+    {
+      "label": "Typical suburb",
+      "value": "+7.4%",
+      "detail": "Median of suburb changes, March 2026 against March 2025.",
+      "status": "good"
+    },
+    {
+      "label": "Suburbs down",
+      "value": "101",
+      "detail": "Out of 468 with 10 or more sales in both quarters.",
+      "status": "watch"
+    },
+    {
+      "label": "Toorak",
+      "value": "−33.2%",
+      "detail": "$6,100,000 to $4,075,000. 16 sales.",
+      "status": "act"
+    }
+  ],
+  "charts": [
+    {
+      "kind": "diverge",
+      "title": "Largest falls in the March-quarter median",
+      "items": [
+        {
+          "label": "Toorak",
+          "value": -33.2,
+          "display": "−33.2%",
+          "status": "act"
+        },
+        {
+          "label": "Hawthorn",
+          "value": -27.57,
+          "display": "−27.6%",
+          "status": "act"
+        },
+        {
+          "label": "Daylesford",
+          "value": -27.08,
+          "display": "−27.1%",
+          "status": "act"
+        },
+        {
+          "label": "Canterbury",
+          "value": -26.16,
+          "display": "−26.2%",
+          "status": "act"
+        },
+        {
+          "label": "Armadale",
+          "value": -24.85,
+          "display": "−24.9%",
+          "status": "act"
+        },
+        {
+          "label": "Terang",
+          "value": -24.37,
+          "display": "−24.4%",
+          "status": "act"
+        },
+        {
+          "label": "Kew",
+          "value": -24.07,
+          "display": "−24.1%",
+          "status": "act"
+        },
+        {
+          "label": "Carlton North",
+          "value": -23.7,
+          "display": "−23.7%",
+          "status": "act"
+        }
+      ]
+    }
+  ],
+  "table": {
+    "caption": "Those falls, with the sales count beside them",
+    "columns": [
+      "Suburb",
+      "Mar 2025",
+      "Mar 2026",
+      "Change",
+      "Sales"
+    ],
+    "rows": [
+      [
+        "Toorak",
+        "$6,100,000",
+        "$4,075,000",
+        "−33.2%",
+        "16"
+      ],
+      [
+        "Hawthorn",
+        "$3,210,000",
+        "$2,325,000",
+        "−27.6%",
+        "40"
+      ],
+      [
+        "Daylesford",
+        "$960,000",
+        "$700,000",
+        "−27.1%",
+        "13"
+      ],
+      [
+        "Canterbury",
+        "$4,415,000",
+        "$3,260,000",
+        "−26.2%",
+        "25"
+      ],
+      [
+        "Armadale",
+        "$3,330,000",
+        "$2,502,500",
+        "−24.9%",
+        "14"
+      ],
+      [
+        "Terang",
+        "$515,000",
+        "$389,500",
+        "−24.4%",
+        "10"
+      ],
+      [
+        "Kew",
+        "$2,950,000",
+        "$2,240,000",
+        "−24.1%",
+        "48"
+      ],
+      [
+        "Carlton North",
+        "$1,730,000",
+        "$1,320,000",
+        "−23.7%",
+        "22"
+      ]
+    ]
+  },
+  "sources": [
+    "Valuer-General Victoria, median house prices by suburb, March quarter 2026 release.",
+    "Suburbs with fewer than 10 sales in either March quarter are left out. A large fall on 12 sales is a thin sample.",
+    "Repayment pressure from the cash rate applies on top of these price moves. It is national, so it does not change the ranking."
+  ],
+  "metrics": {
+    "cash_rate_target": 4.85,
+    "cash_rate_date": "2026-11-04",
+    "hikes_2026": 5,
+    "cash_rate_end_2025": 3.6,
+    "discounted_rate_end_2025": 6.05,
+    "discounted_rate_published": 6.8,
+    "discounted_rate_month": "2026-09-30",
+    "lending_rate_last_increased": "2026-05-31",
+    "passthrough_gap_pp": 0.5,
+    "scenario_rate": 7.3,
+    "loan_principal": 727494,
+    "loan_quarter": "2026-Q2",
+    "repayment_end_2025": 4385.11,
+    "repayment_published": 4742.72,
+    "repayment_scenario": 4987.49,
+    "extra_published": 357.61,
+    "extra_scenario": 602.38,
+    "mean_price_australia": 1100400,
+    "mean_price_quarter": "2026-Q2",
+    "mean_price_qoq_pct": -0.74,
+    "mean_price_yoy_pct": 6.85,
+    "mean_price_versus_peak_pct": -0.74,
+    "approvals_month": "2026-09-01",
+    "approvals_australia": 18318,
+    "approvals_australia_yoy_pct": -1.69,
+    "approvals_victoria": 3918,
+    "approvals_victoria_year_ago": 5588,
+    "approvals_victoria_yoy_pct": -29.89,
+    "august_revision": 206,
+    "commitments_quarter": "2026-Q2",
+    "commitments_number": 134225,
+    "commitments_yoy_pct": 0.11,
+    "suburbs_compared": 468,
+    "suburbs_down": 101,
+    "suburbs_act": 58,
+    "suburb_median_yoy_pct": 7.37
+  }
+}

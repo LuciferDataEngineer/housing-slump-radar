@@ -1,0 +1,37 @@
+domain: prices
+name: mean_dwelling_price
+version: "1.0.0"
+description: ABS mean price and stock of residential dwellings by state.
+file: data/tidy/mean_dwelling_price.csv
+primary_key: [region_code, quarter]
+columns:
+  - name: region_code
+    type: string
+    required: true
+    allowed: ["AUS", "1", "2", "3", "4", "5", "6", "7", "8"]
+  - name: region_name
+    type: string
+    required: true
+  - name: quarter
+    type: quarter
+    required: true
+  - name: mean_price_aud
+    type: integer
+    required: true
+    min: 100000
+    max: 5000000
+  - name: dwelling_count
+    type: integer
+    required: true
+    min: 0
+  - name: stock_value_aud
+    type: integer
+    required: true
+    min: 0
+expectations:
+  - type: min_rows
+    value: 100
+  - type: row_exists
+    where: {region_code: AUS, quarter: 2026-Q2}
+    column: mean_price_aud
+    equals: 1100400

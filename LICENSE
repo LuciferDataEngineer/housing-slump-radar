@@ -20,5 +20,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license covers project code and synthetic fixtures. ABS source data and
-derived examples retain their CC BY 4.0 terms and attribution; see docs/SOURCES.md.
+This license covers project code. ABS and Victorian Government data retain
+their CC BY 4.0 terms. RBA statistical tables are used with acknowledgement.
+See documentation/SOURCES.md.

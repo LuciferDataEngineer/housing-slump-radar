@@ -1,0 +1,36 @@
+domain: credit
+name: loan_commitments
+version: "1.0.0"
+description: ABS new housing loan commitments for total dwellings, excluding refinancing.
+file: data/tidy/loan_commitments.csv
+primary_key: [quarter, region_code, housing_purpose, adjustment]
+columns:
+  - name: quarter
+    type: quarter
+    required: true
+  - name: region_code
+    type: string
+    required: true
+    allowed: ["AUS", "1", "2", "3", "4", "5", "6", "7", "8"]
+  - name: region_name
+    type: string
+    required: true
+  - name: housing_purpose
+    type: string
+    required: true
+    allowed: ["total", "owner_occupier", "investor"]
+  - name: adjustment
+    type: string
+    required: true
+    allowed: ["original", "seasonally_adjusted"]
+  - name: commitments
+    type: integer
+    required: true
+    min: 0
+  - name: value_aud
+    type: integer
+    required: true
+    min: 0
+expectations:
+  - type: min_rows
+    value: 100
