@@ -1,0 +1,67 @@
+{
+  "id": "actions",
+  "status": "act",
+  "title": "Three checks before the next decision.",
+  "summary": "These are monitoring prompts, not a recommendation to buy, lend or approve.",
+  "cards": [
+    {
+      "status": "act",
+      "kicker": "Buyer and lender risk",
+      "title": "Price the loan at 7.30%.",
+      "body": "December's discounted variable rate was 6.05%. The latest published rate is 6.80%. The cash rate has since risen 0.50 percentage points. On a $727,494 loan that is up $602 a month from December, $4,987 in total. The official price weakness so far is in New South Wales, Victoria and the ACT, not in every state."
+    },
+    {
+      "status": "act",
+      "kicker": "Supply and approvals",
+      "title": "Read Victoria separately from Australia.",
+      "body": "Victoria's September approvals were 3,918, down from 5,588 a year earlier. Australia was 18,318, only −1.7%. Also separate the revision: August's national total was revised +206 in the September release."
+    },
+    {
+      "status": "watch",
+      "kicker": "Suburb watchlist",
+      "title": "Do not treat the March quarter as the October headline.",
+      "body": "In the latest Valuer-General quarter, the typical Victorian suburb was still +7.4%. 58 suburbs fell more than 5%, led by high-priced inner suburbs with modest sales counts. The October Cotality fall is newer and is a different series."
+    }
+  ],
+  "sources": [
+    "Not financial, credit or planning advice. Rates, loan size and approvals are the published series named on the other pages."
+  ],
+  "metrics": {
+    "cash_rate_target": 4.85,
+    "cash_rate_date": "2026-11-04",
+    "hikes_2026": 5,
+    "cash_rate_end_2025": 3.6,
+    "discounted_rate_end_2025": 6.05,
+    "discounted_rate_published": 6.8,
+    "discounted_rate_month": "2026-09-30",
+    "lending_rate_last_increased": "2026-05-31",
+    "passthrough_gap_pp": 0.5,
+    "scenario_rate": 7.3,
+    "loan_principal": 727494,
+    "loan_quarter": "2026-Q2",
+    "repayment_end_2025": 4385.11,
+    "repayment_published": 4742.72,
+    "repayment_scenario": 4987.49,
+    "extra_published": 357.61,
+    "extra_scenario": 602.38,
+    "mean_price_australia": 1100400,
+    "mean_price_quarter": "2026-Q2",
+    "mean_price_qoq_pct": -0.74,
+    "mean_price_yoy_pct": 6.85,
+    "mean_price_versus_peak_pct": -0.74,
+    "approvals_month": "2026-09-01",
+    "approvals_australia": 18318,
+    "approvals_australia_yoy_pct": -1.69,
+    "approvals_victoria": 3918,
+    "approvals_victoria_year_ago": 5588,
+    "approvals_victoria_yoy_pct": -29.89,
+    "august_revision": 206,
+    "commitments_quarter": "2026-Q2",
+    "commitments_number": 134225,
+    "commitments_yoy_pct": 0.11,
+    "suburbs_compared": 468,
+    "suburbs_down": 101,
+    "suburbs_act": 58,
+    "suburb_median_yoy_pct": 7.37
+  }
+}

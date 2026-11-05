@@ -1,0 +1,193 @@
+{
+  "id": "supply",
+  "status": "act",
+  "title": "Victoria approved 3,918 homes in September, −29.9% on a year ago.",
+  "summary": "Australia approved 18,318, only −1.7% on last September. The September release also revised August's national total +206. A revision is not a new month.",
+  "stats": [
+    {
+      "label": "Victoria",
+      "value": "3,918",
+      "detail": "Was 5,588 in September 2025.",
+      "status": "act"
+    },
+    {
+      "label": "Australia",
+      "value": "18,318",
+      "detail": "−1.7% on last September.",
+      "status": "watch"
+    },
+    {
+      "label": "August revision",
+      "value": "+206",
+      "detail": "Australia total, same month, newer release.",
+      "status": "watch"
+    }
+  ],
+  "charts": [
+    {
+      "kind": "diverge",
+      "title": "Change in September approvals from a year earlier",
+      "items": [
+        {
+          "label": "NSW",
+          "value": -322,
+          "display": "-322",
+          "status": "watch"
+        },
+        {
+          "label": "Vic",
+          "value": -1670,
+          "display": "-1,670",
+          "status": "act"
+        },
+        {
+          "label": "Qld",
+          "value": 529,
+          "display": "+529",
+          "status": "good"
+        },
+        {
+          "label": "SA",
+          "value": 462,
+          "display": "+462",
+          "status": "good"
+        },
+        {
+          "label": "WA",
+          "value": 373,
+          "display": "+373",
+          "status": "good"
+        },
+        {
+          "label": "Tas",
+          "value": -38,
+          "display": "-38",
+          "status": "act"
+        },
+        {
+          "label": "NT",
+          "value": -11,
+          "display": "-11",
+          "status": "act"
+        },
+        {
+          "label": "ACT",
+          "value": 362,
+          "display": "+362",
+          "status": "good"
+        }
+      ]
+    }
+  ],
+  "table": {
+    "caption": "Original total dwelling approvals, September",
+    "columns": [
+      "State",
+      "Sep 2026",
+      "Sep 2025",
+      "Change",
+      "Status"
+    ],
+    "rows": [
+      [
+        "New South Wales",
+        "5,232",
+        "5,554",
+        "−5.8%",
+        "Watch"
+      ],
+      [
+        "Victoria",
+        "3,918",
+        "5,588",
+        "−29.9%",
+        "Act"
+      ],
+      [
+        "Queensland",
+        "4,414",
+        "3,885",
+        "+13.6%",
+        "Good"
+      ],
+      [
+        "South Australia",
+        "1,708",
+        "1,246",
+        "+37.1%",
+        "Good"
+      ],
+      [
+        "Western Australia",
+        "2,283",
+        "1,910",
+        "+19.5%",
+        "Good"
+      ],
+      [
+        "Tasmania",
+        "236",
+        "274",
+        "−13.9%",
+        "Act"
+      ],
+      [
+        "Northern Territory",
+        "74",
+        "85",
+        "−12.9%",
+        "Act"
+      ],
+      [
+        "Australian Capital Territory",
+        "453",
+        "91",
+        "+397.8%",
+        "Good"
+      ]
+    ]
+  },
+  "sources": [
+    "ABS Building Approvals Table 09, original counts, September 2026 release. Counts are dwelling units, not finished homes.",
+    "Compare a month with the same month a year earlier. Original figures jump around from month to month.",
+    "The August revision compares the August release with the September release for August 2026."
+  ],
+  "metrics": {
+    "cash_rate_target": 4.85,
+    "cash_rate_date": "2026-11-04",
+    "hikes_2026": 5,
+    "cash_rate_end_2025": 3.6,
+    "discounted_rate_end_2025": 6.05,
+    "discounted_rate_published": 6.8,
+    "discounted_rate_month": "2026-09-30",
+    "lending_rate_last_increased": "2026-05-31",
+    "passthrough_gap_pp": 0.5,
+    "scenario_rate": 7.3,
+    "loan_principal": 727494,
+    "loan_quarter": "2026-Q2",
+    "repayment_end_2025": 4385.11,
+    "repayment_published": 4742.72,
+    "repayment_scenario": 4987.49,
+    "extra_published": 357.61,
+    "extra_scenario": 602.38,
+    "mean_price_australia": 1100400,
+    "mean_price_quarter": "2026-Q2",
+    "mean_price_qoq_pct": -0.74,
+    "mean_price_yoy_pct": 6.85,
+    "mean_price_versus_peak_pct": -0.74,
+    "approvals_month": "2026-09-01",
+    "approvals_australia": 18318,
+    "approvals_australia_yoy_pct": -1.69,
+    "approvals_victoria": 3918,
+    "approvals_victoria_year_ago": 5588,
+    "approvals_victoria_yoy_pct": -29.89,
+    "august_revision": 206,
+    "commitments_quarter": "2026-Q2",
+    "commitments_number": 134225,
+    "commitments_yoy_pct": 0.11,
+    "suburbs_compared": 468,
+    "suburbs_down": 101,
+    "suburbs_act": 58,
+    "suburb_median_yoy_pct": 7.37
+  }
+}

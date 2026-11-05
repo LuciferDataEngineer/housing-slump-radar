@@ -1,0 +1,22 @@
+domain: credit
+name: cash_rate
+version: "1.0.0"
+description: Daily RBA cash rate target from table F1, series FIRMMCRTD.
+file: data/tidy/cash_rate.csv
+primary_key: [date]
+columns:
+  - name: date
+    type: date
+    required: true
+  - name: cash_rate_target
+    type: number
+    required: true
+    min: 0
+    max: 20
+expectations:
+  - type: min_rows
+    value: 200
+  - type: latest_value
+    order_by: date
+    column: cash_rate_target
+    equals: 4.85

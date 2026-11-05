@@ -4,15 +4,33 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "housing-slump-radar"
-version = "1.0.0"
-description = "Immutable ABS dwelling approvals release snapshots and revision-aware SQL analytics"
+version = "2.0.0"
+description = "Australia housing slump radar: ClickHouse, Redpanda, data-mesh contracts, dbt-duckdb and a static dashboard"
 readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
-dependencies = ["openpyxl==3.1.5"]
+dependencies = [
+  "dbt-duckdb>=1.9,<1.10",
+  "duckdb>=1.1",
+  "openpyxl==3.1.5",
+  "pyyaml>=6",
+  "xlrd==1.2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+stack = ["clickhouse-connect>=0.8", "dagster>=1.9,<1.12", "kafka-python>=2.0"]
 
 [project.scripts]
 housing-radar = "housing_radar.__main__:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+src = ["src", "tests"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

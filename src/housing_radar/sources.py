@@ -1,0 +1,78 @@
+"""Pinned free sources. Checksums are of the bytes stored in this repository."""
+
+from __future__ import annotations
+
+SOURCES = [
+    {
+        "path": "data/raw/rba/f1-data.csv",
+        "sha256": "72d1a476aec9a6c07454eada3a122204ffc8543d077a5ee5bad1aadba1d0e9a9",
+        "url": "https://www.rba.gov.au/statistics/tables/csv/f1-data.csv",
+        "fallback_url": None,
+        "publisher": "Reserve Bank of Australia",
+        "series": "Statistical table F1, cash rate target FIRMMCRTD",
+        "license": "RBA statistical tables. Acknowledge the Reserve Bank of Australia. No RBA endorsement.",
+    },
+    {
+        "path": "data/raw/rba/f5-data.csv",
+        "sha256": "4ff54c8a70172492059a87e067d72a309539afec265bd0b081d5652189ebacc0",
+        "url": "https://www.rba.gov.au/statistics/tables/csv/f5-data.csv",
+        "fallback_url": None,
+        "publisher": "Reserve Bank of Australia",
+        "series": "Statistical table F5, indicator lending rates",
+        "license": "RBA statistical tables, with Canstar as an upstream source named in the file. Acknowledge the RBA.",
+    },
+    {
+        "path": "data/raw/abs/res_dwell_st.csv",
+        "sha256": "f878a645a5f14dad104507ce8ab717aab380994e287b9071db0463aa591c41c3",
+        "url": "https://data.api.abs.gov.au/rest/data/ABS,RES_DWELL_ST/all?startPeriod=2018&format=csvfile",
+        "fallback_url": None,
+        "publisher": "Australian Bureau of Statistics",
+        "series": "Residential Dwellings: Values, Mean Price and Number by State and Territories",
+        "license": "CC BY 4.0. ABS has not endorsed this project.",
+    },
+    {
+        "path": "data/raw/abs/lend_housing.csv",
+        "sha256": "e3292e29f94358c3996cbc232ef9fc7de04c931d4d2c71630307c178f0ccbf38",
+        "url": "https://data.api.abs.gov.au/rest/data/ABS,LEND_HOUSING/all?startPeriod=2023-01&format=csvfile",
+        "fallback_url": None,
+        "publisher": "Australian Bureau of Statistics",
+        "series": "Lending Indicators, housing finance, new loan commitments",
+        "license": "CC BY 4.0. ABS has not endorsed this project.",
+    },
+    {
+        "path": "data/raw/abs/8731009-aug-2026.xlsx",
+        "sha256": "8c50ade7c0c76eeda8c42183c66126a77ac628440b76a3fbc000557ead8b640c",
+        "url": "https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/aug-2026/8731009.xlsx",
+        "fallback_url": None,
+        "publisher": "Australian Bureau of Statistics",
+        "series": "Building Approvals, Table 09, original dwelling units, August 2026 vintage",
+        "license": "CC BY 4.0. ABS has not endorsed this project.",
+    },
+    {
+        "path": "data/raw/abs/8731009-sep-2026.xlsx",
+        "sha256": "af24371758b3dc7ebf012af99d22ee6e54da0d0c2139eaba5b174bd48e851f25",
+        "url": "https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/sep-2026/8731009.xlsx",
+        "fallback_url": None,
+        "publisher": "Australian Bureau of Statistics",
+        "series": "Building Approvals, Table 09, original dwelling units, September 2026 vintage",
+        "license": "CC BY 4.0. ABS has not endorsed this project.",
+    },
+    {
+        "path": "data/raw/datavic/houses-by-suburb-2015-2025.xlsx",
+        "sha256": "b6220620f5ac4a586625d0d2adfbab4e82925531b34abfbefb67f926986e6249",
+        "url": "https://www.land.vic.gov.au/__data/assets/excel_doc/0033/775617/houses-by-suburb-2015-2025.xlsx",
+        "fallback_url": "https://web.archive.org/web/20261020232915/https://www.land.vic.gov.au/__data/assets/excel_doc/0033/775617/houses-by-suburb-2015-2025.xlsx",
+        "publisher": "Department of Transport and Planning, Victorian Government",
+        "series": "Victorian Property Sales Report, median house by suburb, annual 2015-2025",
+        "license": "CC BY 4.0. Direct download returned HTTP 403 on 5 Nov 2026; bytes are the Wayback capture of that official URL.",
+    },
+    {
+        "path": "data/raw/datavic/median-house-march-quarter-2026.xls",
+        "sha256": "d7a1b9eb944dd1f484e9194792bba217a6467cb5e1113eeb7d90d4390d433d10",
+        "url": "https://www.land.vic.gov.au/__data/assets/excel_doc/0037/777961/median-house-march-quarter-2026.xls",
+        "fallback_url": "https://web.archive.org/web/20261004181818/https://www.land.vic.gov.au/__data/assets/excel_doc/0037/777961/median-house-march-quarter-2026.xls",
+        "publisher": "Valuer-General Victoria / Department of Transport and Planning",
+        "series": "Victorian Property Sales Report, median house prices, March quarter 2026 release",
+        "license": "CC BY 4.0. Direct download returned HTTP 403 on 5 Nov 2026; bytes are the Wayback capture of that official URL.",
+    },
+]

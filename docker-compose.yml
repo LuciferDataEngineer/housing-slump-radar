@@ -1,0 +1,40 @@
+services:
+  redpanda:
+    image: docker.redpanda.com/redpandadata/redpanda:v24.3.1
+    container_name: hsr-redpanda
+    # Host networking gives ClickHouse and the producer the same broker address.
+    network_mode: host
+    command:
+      - redpanda
+      - start
+      - --overprovisioned
+      - --smp
+      - "1"
+      - --memory
+      - 512M
+      - --reserve-memory
+      - 0M
+      - --node-id
+      - "0"
+      - --check=false
+      - --kafka-addr
+      - PLAINTEXT://0.0.0.0:9092
+      - --advertise-kafka-addr
+      - PLAINTEXT://127.0.0.1:9092
+    mem_limit: 768m
+  clickhouse:
+    image: clickhouse/clickhouse-server:24.8
+    container_name: hsr-clickhouse
+    network_mode: host
+    environment:
+      # Local demo credential only. It is not a secret and is not used by the static site.
+      CLICKHOUSE_USER: radar
+      CLICKHOUSE_PASSWORD: radar
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: "1"
+    depends_on:
+      - redpanda
+    ulimits:
+      nofile:
+        soft: 262144
+        hard: 262144
+    mem_limit: 1536m

@@ -1,140 +1,216 @@
-# Housing Supply Observatory
+# Housing slump radar
 
 [![CI](https://github.com/LuciferDataEngineer/housing-slump-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/LuciferDataEngineer/housing-slump-radar/actions/workflows/ci.yml)
 
-**A release-vintage warehouse for Australian housing approvals.** Load an ABS workbook, preserve its source bytes, compare revisions, and query monthly housing supply indicators without losing the earlier release.
+A monitoring dashboard for Australia's 2026 housing downturn. It answers three questions in plain language:
 
-The practical question is: **did the housing indicator change because another month arrived, or because earlier months were revised?** Analysts need both the current figures and a traceable explanation of what changed between releases.
+1. Where buyer and lender risk is building, from price falls and higher repayments.
+2. Where home approvals are falling, and where an old month was only revised.
+3. How much a typical new loan repayment has risen on the path to a 4.85% cash rate.
 
-Built on 2 November 2026, when the ABS published its September building approvals release. The existing repository slug is `housing-slump-radar`; this implementation measures approvals and revisions and does not infer a housing slump, house prices, affordability, or a causal effect of interest rates.
+The live pages are at **https://luciferdataengineer.github.io/housing-slump-radar/**. They are static. ClickHouse and Redpanda run on your machine for the streaming demo. They are not part of the public site.
 
-## Why this project matters now
+Figures on the pages are computed from the Reserve Bank, the ABS and the Victorian Valuer-General. Cotality and PropTrack are cited as news and are not plotted. This is not financial, credit or planning advice.
 
-The [September ABS release](https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/sep-2026) includes revisions to earlier observations. A pipeline that simply overwrites a table hides those revisions; a pipeline that appends without keys creates duplicates. This project stores immutable release snapshots and exposes their differences through SQL.
+## Why this week
 
-It ingests **Table 09's original counts**, covering houses, dwellings excluding houses, and total dwellings for eight states/territories and Australia. Original series retain seasonality. The ABS headline uses a different, seasonally adjusted series. Approvals authorise construction; they are not completed or available homes. [Definitions, exact sources and reuse terms](docs/SOURCES.md).
+Two releases landed on top of each other.
 
-## Observed result
+On **2 November 2026**, Cotality's Home Value Index fell 1.2% in October, a seventh monthly decline. The ABC reported the index about 6.7% ($63,000) under its March peak, with capital-city values down 8.1% in seven months, the fastest such fall in about 40 years. Sales over three months were about 23% lower than a year earlier. PropTrack published a smaller fall. [ABC, 2 November](https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214). [Cotality, 2 November](https://www.cotality.com/au/insights/articles/housing-downturn-broadens-as-brisbane-and-perth-lead-the-decline).
 
-The working example retains **27,999 observations across two releases**, identifies **120 revised historical cells**, and preserves **27 new September observations**. All **22 deterministic tests passed**, including transaction rollback and export recovery. The three CSV outputs were checked row for row against SQL results. [Validation evidence](docs/VALIDATION.md).
+On **3 November 2026** the Reserve Bank raised the cash rate 25 basis points, effective **4 November at 4.85%**. It was the fifth rise of 2026. [RBA media release 2026-30](https://www.rba.gov.au/media-releases/2026/mr-26-30.html). Table F1, published 5 November, records 4.85% on 4 November.
 
-| Example | August archive | September archive |
-| --- | ---: | ---: |
-| Australia's August 2026 total approvals, original | 16,968 | 17,174 |
+Official series move more slowly than a private monthly index. The dashboard keeps them separate so a reader can see what is already in the ABS and RBA tables, and what is still only a headline.
 
-That **+206 revision** concerns the same month and series. It is different from a change between August and September activity. Each source also contains 36 historical arithmetic discrepancies, which remain visible as quality findings. See the [captured report](examples/report-2026-11-02.json).
+## What the open data says
+
+Computed from the pinned files. Rounded the way the pages show them.
+
+| Reading | Number | Status on the page |
+| --- | ---: | --- |
+| Cash rate target, effective 4 Nov 2026 | 4.85% | Act |
+| Rises in the target during 2026 | 5, from 3.60% at the end of 2025 | Act |
+| Discounted owner-occupier variable rate, Dec 2025 | 6.05% | |
+| Same rate, published for Sep 2026. It last moved in May | 6.80% | Act |
+| If the 0.50 percentage points since May are passed on in full | 7.30% | Scenario, not a bank quote |
+| Average new housing loan, Jun quarter 2026, seasonally adjusted | $727,494 | |
+| Monthly repayment at the Dec 2025 rate | $4,385 | |
+| Monthly repayment at the published 6.80% | $4,743 | |
+| Monthly repayment at the 7.30% scenario | $4,987 | Up $602 from December |
+| ABS mean dwelling price, Australia, June quarter 2026 | $1,100,400 | −0.7% in the quarter, +6.8% on the year |
+| States where that mean price fell in the June quarter | NSW, Victoria, ACT | Other states were still rising |
+| Victoria dwelling approvals, Sep 2026 vs Sep 2025 | 3,918 vs 5,588 | −29.9% |
+| Australia dwelling approvals, same comparison | 18,318 vs 18,633 | −1.7% |
+| Revision of August's national total in the September release | +206 | 16,968 became 17,174 |
+| New loan commitments, Jun quarter, seasonally adjusted | 134,225 | +0.1% on a year earlier |
+| Victorian suburbs with enough sales in both March quarters | 468 | Typical suburb still +7.4% |
+| Of those, suburbs whose median fell, and fell by more than 5% | 101 and 58 | Steepest in this file: Toorak, −33.2% on 16 sales |
+
+The repayment is a 30-year principal-and-interest loan with no fees and no offset. The loan size is the ABS average new commitment for total dwellings, excluding refinancing. Banks may not pass on the whole 0.50 percentage points. The September lending-rate table does not yet contain the 30 September or 4 November cash-rate steps.
+
+ABS new-loan counts are about flat. That is a different series from Cotality's 23% drop in sales. Both can be true. The page says so.
 
 ## Architecture
 
 ```mermaid
 flowchart LR
-    ABS[ABS release-specific Table 09 XLSX] --> Fetch[Bounded download]
-    Local[Local workbook or synthetic fixture] --> Raw
-    Fetch --> Raw[Raw bytes + SHA-256 + capture metadata]
-    Raw --> Contract[Validate schema, months and values]
-    Contract --> Quality[Record arithmetic discrepancies]
-    Quality --> Tx[Atomic SQLite load]
-    Tx --> Snap[Immutable release snapshots]
-    Snap --> Current[Current whole-snapshot view]
-    Snap --> Diff[Release revisions view]
-    Current --> Metrics[12-month totals and comparisons]
-    Metrics --> Export[CSV + JSON exports]
-    Diff --> Export
-    Raw --> Audit[Run audit]
-    Tx --> Audit
+  subgraph sources [Pinned open data]
+    RBA[RBA F1 and F5]
+    ABS[ABS prices, lending, approvals]
+    VIC[Valuer-General Victoria]
+  end
+  sources --> Tidy[Tidy tables and versioned contracts]
+  Tidy --> Dbt[dbt-duckdb marts]
+  Dbt --> JSON[docs/data JSON]
+  JSON --> Pages[GitHub Pages tabs]
+  Tidy --> Producer[Replay producer]
+  Producer --> Redpanda[Redpanda]
+  Redpanda --> CH[ClickHouse Kafka engine]
+  Dagster[Dagster asset graph] --> Tidy
+  Dagster --> Dbt
+  Dagster --> JSON
 ```
 
-## Stack and rationale
+DuckDB builds the marts. ClickHouse serves a stream of those published observations. The public site never calls either database.
 
-| Component | Technology | Reason |
+## What is new here
+
+Earlier portfolio work stopped at a rate calculator or a single warehouse. This repo adds the pieces that were not in those projects:
+
+- **ClickHouse** as a local OLAP serving layer, including a Kafka engine table and a materialized view.
+- **Redpanda** as the Kafka-compatible broker. A small producer replays real published observations. It does not invent prices.
+- **Three data-mesh domains**, each with a versioned contract and CI checks: `prices`, `credit`, `supply`.
+- **dbt-duckdb** marts that are the only source of the dashboard numbers.
+- **Dagster** asset graph: tidy tables, contracts, dbt, then the JSON.
+- A measured **DuckDB vs ClickHouse** note, below, from this machine.
+
+The supply domain keeps one idea from the earlier approvals warehouse on this repo: two ABS Table 09 vintages, so a revision of August is not mistaken for a new month. The product around it is the slump radar, not a release archive.
+
+## Stack
+
+| Piece | Choice | Why |
 | --- | --- | --- |
-| Ingestion and CLI | Python 3.11+ | Explicit validation, standard-library HTTP, logging and small deployment footprint |
-| Workbook reader | openpyxl 3.1.5 | Reads the publisher's typed dates, values and series metadata directly |
-| Database | SQLite | Transactions, primary/foreign keys, indexed SQL and immutable history in one portable file |
-| Transformations | SQL views | Inspectable release ordering, calendar comparisons and revision logic |
-| Tests | unittest + generated XLSX fixtures | Repeatable offline tests for failure cases |
-| CI | GitHub Actions, Python 3.11 and 3.14 | Tests the installed package on two supported Python versions |
+| Transforms | dbt-duckdb | One file, SQL tests, no server to leave running |
+| Contracts | YAML plus a small checker | Versioned expectations for the three domains, run in CI |
+| Orchestration | Dagster assets | The same functions as the CLI, as a graph you can materialize |
+| Serving demo | ClickHouse 24.8 in Docker | Subscribes to the broker and answers SQL |
+| Stream | Redpanda 24.3 in Docker | Kafka protocol, no paid cluster |
+| Dashboard | Static HTML, CSS and JS | GitHub Pages, no build service |
+| Tests | pytest, ruff, dbt tests | Offline. CI does not start ClickHouse |
 
-Two complete releases contain fewer than 30,000 observations. A local relational database makes the engineering behaviour easy to inspect. No paid infrastructure is required.
+Nothing in the demo path is a paid API, a hosted database, or a secret. The ClickHouse user `radar` / password `radar` in `docker-compose.yml` is a local demo login because current ClickHouse images disable the default user on the network. It is not used by the website.
 
-## Quick start
+## Dashboard
+
+Six tabs, one screen each. The tab bar scrolls sideways on a phone.
+
+Overview, Prices, Credit & repayments, Supply & approvals, Suburbs, Actions.
+
+Each chart has a sentence for a title, the number on the mark, and a Good / Watch / Act badge. The badge rules are project thresholds, not official classifications:
+
+- Price or approvals change: Act at −2 percentage points for a quarterly mean price, −10 for approvals, −5 for a suburb median. A smaller fall is Watch.
+- Repayment: Act when the monthly payment is up $300 or more on December 2025.
+- A revision of 50 homes or more is Watch. It is a data change, not a collapse.
+
+Open the site from a local server. Opening the HTML file directly will not load the JSON.
 
 ```bash
-git clone https://github.com/LuciferDataEngineer/housing-slump-radar.git
-cd housing-slump-radar
+python -m http.server -d docs 8080
+```
+
+Then visit http://127.0.0.1:8080/.
+
+## Run the numbers
+
+Python 3.11 or newer. The commands below use a virtual environment.
+
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
-python -m pip install .
-python -W error::ResourceWarning -m unittest discover -s tests -v
-housing-radar --help
+pip install -e ".[dev,stack]"
+housing-radar verify
+housing-radar build
+housing-radar check
+pytest -q
 ```
 
-Fetch the two source releases used in the worked example. These requests are free and need no credentials:
+`build` writes the tidy tables, checks the contracts, runs `dbt build`, and refreshes `docs/data/*.json`. `check` fails if that JSON drifts from the marts.
+
+Dagster, from the repo root with the same environment:
 
 ```bash
-housing-radar fetch --release-period 2026-08 --published-at 2026-09-30 --data-dir data
-housing-radar fetch --release-period 2026-09 --published-at 2026-11-02 --data-dir data
+dagster dev -m housing_radar.orchestration.definitions
 ```
 
-`published-at` is the announced release date supplied by the operator. Capture time is recorded separately. The archive files served today do not prove which exact bytes were available on that announced date.
+The graph is `tidy_tables` → `contract_results` → `dbt_marts` → `dashboard_json`. CI materializes the first two assets and runs the full build through the CLI.
 
-For an offline demonstration, generate a clearly fictional workbook:
+To refresh a publisher file later:
 
 ```bash
-python - <<'PY'
-import sys
-sys.path.insert(0, 'tests/fixtures')
-from generate_workbook import build_workbook
-build_workbook('demo-data/synthetic-2026-09.xlsx')
-PY
-housing-radar ingest --file demo-data/synthetic-2026-09.xlsx --release-period 2026-09 --published-at 2026-11-02 --data-dir demo-data
+housing-radar fetch          # keeps the pinned bytes unless the hash matches
+housing-radar fetch --update # accepts a new hash and prints it
 ```
 
-**Every value in that generated workbook is synthetic.** Keep demonstration and live data in separate directories.
+Direct downloads from land.vic.gov.au returned HTTP 403 on 5 November 2026. The fetch script falls back to the Wayback capture of the same official URL. Details, checksums and licences are in [documentation/SOURCES.md](documentation/SOURCES.md).
 
-## Engineering behaviour
+## Streaming demo
 
-- **Idempotency:** identical bytes for the same release period and edition do not duplicate observations. A replay can regenerate exports.
-- **Immutable history:** different bytes for an existing release/edition are rejected. Use an explicit new edition after inspecting a genuine source correction; earlier editions remain queryable.
-- **Late arrivals:** current data is selected by release period and edition, so backfilling an older release cannot replace the latest release.
-- **Whole-snapshot selection:** current queries use one complete release, without filling gaps from older releases.
-- **Strict contracts:** unexpected series, metadata, invalid values, missing months, duplicates and truncated workbooks stop the load.
-- **Source quality:** arithmetic discrepancies in otherwise valid official records are recorded as warnings. Published values remain unchanged.
-- **Transactional loads:** snapshot metadata, observations and quality findings commit together. A failed write cannot leave half a release in the business tables.
-- **Provenance:** source URL, capture time, raw bytes and SHA-256 accompany the release; audits retain ingestion failures. Download failures before ingestion are reported through stderr.
-- **Export recovery:** the latest output pointer changes only after the complete export generation succeeds. A committed database can be re-exported after an output failure.
+Docker is only needed for this section. The compose file uses host networking so ClickHouse and the producer both use `127.0.0.1:9092`.
 
-## Reading the results
+```bash
+docker compose up -d
+python -m housing_radar.stream_demo
+```
 
-Select **one geography level and one dwelling category** before aggregating. Adding Australia to its state components, or total dwellings to houses and other dwellings, double-counts the same approvals.
+The script waits for ClickHouse, creates a MergeTree, a Kafka engine table and a materialized view, and publishes ten events: the latest cash-rate target and the latest mean price for Australia and each state. It then prints a grouped query. The events are labelled as replays of RBA and ABS figures. Running it again appends another batch. Delivery is at least once, so a retry can duplicate a row. That is the broker, not a second official print.
 
-Current monthly metrics use one vintage throughout. A trailing annual total requires twelve consecutive observations. Annual comparisons use the same reference month one year earlier; a missing or zero baseline produces a null percentage. Changes between release vintages compare the same series and reference month. Newly introduced and removed observations are separated from revised historical cells; removed values are not interpreted as zero.
+Tear down with `docker compose down`.
 
-An annual total of original monthly observations reduces seasonal distortion but does not establish causation, forecast completions or replace ABS seasonally adjusted analysis. A count of changed cells is not a count of distinct dwelling approvals.
+## DuckDB vs ClickHouse
 
-## Documentation
+Same shape of query on **2,000,000 synthetic rows** (eight state ids, a generated price, a generated year-on-year change). Not official prices. Machine: 4 vCPU Intel Xeon, Linux, Python 3.12, DuckDB 2.0, ClickHouse 24.8. Cost: **$0**. No warehouse bill, no reserved server.
 
-- [Sources, access dates, definitions and attribution](docs/SOURCES.md)
-- [Database model and metric dictionary](docs/DATA_MODEL.md)
-- [Recovery and operating procedures](docs/OPERATIONS.md)
-- [Observed validation and reproducible examples](docs/VALIDATION.md)
-- [SQL examples](sql/analysis.sql)
+| Engine | What was timed | Median |
+| --- | --- | ---: |
+| DuckDB, in process | 5 runs after 2 warmup runs | 15.9 ms |
+| ClickHouse server | median of the last 5 `system.query_log` durations | 13 ms |
+| ClickHouse over HTTP from Python | 5 runs after 2 warmup runs | 15.0 ms |
 
-## Limitations
+The query groups by state and computes a count, a median price and an average change. Full samples are in [documentation/bench-results.json](documentation/bench-results.json). Re-run with ClickHouse already up:
 
-This is a focused portfolio implementation for one ABS workbook contract. It is not a production service or a real-time feed. It covers approvals by state and broad dwelling type, not suburbs, lending or prices. Two retrieved archive releases demonstrate observed revisions, not the complete release history or an information set available at a past moment. Missing/suppressed values currently fail the strict numeric contract rather than becoming zero. A future publisher schema change requires an explicit parser update.
+```bash
+python -m housing_radar.microbench
+```
 
-Source arithmetic warnings remain visible in outputs. Unexplained differences should be investigated before using an affected series in reconciled reporting. Tests run offline; live-source checks are bounded and documented separately. Run one pipeline process per data directory; concurrent exporters can finish out of order. See the [operating contract](docs/OPERATIONS.md).
+At two million rows the engines are a few milliseconds apart, and the samples overlap. That is not a reason to pick ClickHouse for this transform. DuckDB is the right build tool: it is embedded, the marts are a file, and CI does not need a database service. ClickHouse earns its place as the serving layer that can sit on a Redpanda topic and keep a MergeTree current. The operational cost of that choice is a container and a local login, not a licence.
 
-## Interview talking points
+## Contracts
 
-1. Explain why observation month, release reference period, announced publication date and capture timestamp are different concepts.
-2. Demonstrate an identical replay, a revised edition and a late backfill. Explain how immutable keys prevent accidental replacement.
-3. Contrast a structural contract failure with a valid source record that fails an arithmetic quality rule.
-4. Explain the transaction boundary and recovery after a database commit followed by export failure.
-5. Show how overlapping geographic/category aggregates create double counting, and how incomplete windows or zero baselines distort growth metrics.
-6. Discuss the next scale boundary: additional publishers and vintages may justify partitioned object storage and a server database. Those are future extensions, not implemented components.
+| Domain | Contract | What it guards |
+| --- | --- | --- |
+| credit | `contracts/credit/cash_rate.v1.yaml` | Daily F1 target. The latest value must be 4.85 |
+| credit | `contracts/credit/lending_rates.v1.yaml` | F5 housing rates. Latest discounted owner-occupier rate must be 6.80 |
+| credit | `contracts/credit/loan_commitments.v1.yaml` | ABS new commitments, total dwellings excluding refinancing |
+| prices | `contracts/prices/mean_dwelling_price.v1.yaml` | ABS mean price. Australia, June quarter 2026, must be $1,100,400 |
+| prices | `contracts/prices/suburb_median.v1.yaml` | Quarterly Valuer-General medians, including the Toorak March 2026 print |
+| prices | `contracts/prices/suburb_annual.v1.yaml` | Annual medians, 2015–2025 |
+| supply | `contracts/supply/building_approvals.v1.yaml` | Both Table 09 vintages. September 2026 Australia total must be 18,318 |
+| supply | `contracts/supply/approval_quality.v1.yaml` | Arithmetic gaps inside Table 09, kept rather than rewritten |
+
+A breaking change to a tidy table needs a new contract version. CI runs the checks with no network.
+
+## Pages deployment
+
+The repository is already set to GitHub Pages `build_type: workflow`. `.github/workflows/pages.yml` publishes the `docs/` folder on a push to `main`. The address is https://luciferdataengineer.github.io/housing-slump-radar/. A pull request does not update the live site until it is merged.
+
+## Limits
+
+- The June-quarter mean price and the March-quarter Victorian medians do not yet show the October private-index fall. The pages say that.
+- Approvals are original counts. Compare a month with the same month a year earlier. The ACT series is a small base and the percentage swings.
+- Do not add Australia to the states, or total dwellings to houses plus other dwellings.
+- Suburb ranks drop any quarter flagged as fewer than 10 sales. Toorak's fall is on 16 sales. Read the count.
+- One process should own a data directory. The DuckDB file lives in `dbt/target/` and is not committed.
 
 ## Licence
 
-Project code and synthetic fixtures: [MIT](LICENSE). Source data and transformed examples: ABS material under CC BY 4.0, with attribution and exclusions described in [SOURCES.md](docs/SOURCES.md). The ABS has not endorsed this project.
+Code is [MIT](LICENSE). ABS and Victorian Government tables are CC BY 4.0. RBA tables are used with acknowledgement. None of those publishers endorse this project.

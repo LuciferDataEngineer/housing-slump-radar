@@ -1,0 +1,73 @@
+vintage,month,region,dwelling_type,rule,expected,actual
+2026-08,1983-11-01,Australia,Houses,states_sum_to_australia,10465,10468
+2026-08,1983-11-01,Australia,Total (Type of Building),states_sum_to_australia,13038,13041
+2026-08,1983-12-01,Australia,Houses,states_sum_to_australia,9657,9660
+2026-08,1983-12-01,Australia,Total (Type of Building),states_sum_to_australia,12048,12051
+2026-08,1984-02-01,Australia,Houses,states_sum_to_australia,9796,9799
+2026-08,1984-02-01,Australia,Total (Type of Building),houses_plus_other_equals_total,12916,12889
+2026-08,1984-02-01,Australia,Total (Type of Building),states_sum_to_australia,12913,12889
+2026-08,1984-03-01,Australia,Houses,states_sum_to_australia,10609,10610
+2026-08,1984-03-01,Australia,Total (Type of Building),states_sum_to_australia,14259,14260
+2026-08,1984-05-01,Australia,Houses,states_sum_to_australia,12041,12042
+2026-08,1984-05-01,Australia,Total (Type of Building),states_sum_to_australia,15946,15947
+2026-08,1984-06-01,Australia,Houses,states_sum_to_australia,10427,10430
+2026-08,1984-06-01,Australia,Total (Type of Building),states_sum_to_australia,13277,13280
+2026-08,1984-11-01,Australia,Dwellings excluding houses,states_sum_to_australia,3850,3851
+2026-08,1984-11-01,Australia,Houses,states_sum_to_australia,10888,10889
+2026-08,1984-11-01,Australia,Total (Type of Building),states_sum_to_australia,14738,14740
+2026-08,1984-12-01,Australia,Dwellings excluding houses,states_sum_to_australia,3426,3382
+2026-08,1984-12-01,Australia,Total (Type of Building),states_sum_to_australia,12057,12013
+2026-08,1985-02-01,Australia,Dwellings excluding houses,states_sum_to_australia,3277,3233
+2026-08,1985-02-01,Australia,Total (Type of Building),states_sum_to_australia,12380,12336
+2026-08,1985-07-01,Australia,Houses,states_sum_to_australia,10967,10973
+2026-08,1985-07-01,Australia,Total (Type of Building),states_sum_to_australia,13934,13940
+2026-08,2001-07-01,Australia,Total (Type of Building),houses_plus_other_equals_total,13457,13458
+2026-08,2001-07-01,Queensland,Total (Type of Building),houses_plus_other_equals_total,2695,2696
+2026-08,2001-10-01,Australia,Total (Type of Building),houses_plus_other_equals_total,16045,16046
+2026-08,2001-10-01,New South Wales,Total (Type of Building),houses_plus_other_equals_total,5388,5389
+2026-08,2001-11-01,Australia,Total (Type of Building),houses_plus_other_equals_total,15365,15366
+2026-08,2001-11-01,South Australia,Total (Type of Building),houses_plus_other_equals_total,952,953
+2026-08,2001-12-01,Australia,Total (Type of Building),houses_plus_other_equals_total,12902,12903
+2026-08,2001-12-01,South Australia,Total (Type of Building),houses_plus_other_equals_total,985,986
+2026-08,2002-04-01,Australia,Total (Type of Building),houses_plus_other_equals_total,15543,15554
+2026-08,2002-04-01,Queensland,Total (Type of Building),houses_plus_other_equals_total,2935,2946
+2026-08,2002-05-01,Australia,Total (Type of Building),houses_plus_other_equals_total,16326,16327
+2026-08,2002-05-01,New South Wales,Total (Type of Building),houses_plus_other_equals_total,5172,5173
+2026-08,2010-11-01,Australia,Total (Type of Building),houses_plus_other_equals_total,14762,14763
+2026-08,2010-11-01,New South Wales,Total (Type of Building),houses_plus_other_equals_total,3282,3283
+2026-09,1983-11-01,Australia,Houses,states_sum_to_australia,10465,10468
+2026-09,1983-11-01,Australia,Total (Type of Building),states_sum_to_australia,13038,13041
+2026-09,1983-12-01,Australia,Houses,states_sum_to_australia,9657,9660
+2026-09,1983-12-01,Australia,Total (Type of Building),states_sum_to_australia,12048,12051
+2026-09,1984-02-01,Australia,Houses,states_sum_to_australia,9796,9799
+2026-09,1984-02-01,Australia,Total (Type of Building),houses_plus_other_equals_total,12916,12889
+2026-09,1984-02-01,Australia,Total (Type of Building),states_sum_to_australia,12913,12889
+2026-09,1984-03-01,Australia,Houses,states_sum_to_australia,10609,10610
+2026-09,1984-03-01,Australia,Total (Type of Building),states_sum_to_australia,14259,14260
+2026-09,1984-05-01,Australia,Houses,states_sum_to_australia,12041,12042
+2026-09,1984-05-01,Australia,Total (Type of Building),states_sum_to_australia,15946,15947
+2026-09,1984-06-01,Australia,Houses,states_sum_to_australia,10427,10430
+2026-09,1984-06-01,Australia,Total (Type of Building),states_sum_to_australia,13277,13280
+2026-09,1984-11-01,Australia,Dwellings excluding houses,states_sum_to_australia,3850,3851
+2026-09,1984-11-01,Australia,Houses,states_sum_to_australia,10888,10889
+2026-09,1984-11-01,Australia,Total (Type of Building),states_sum_to_australia,14738,14740
+2026-09,1984-12-01,Australia,Dwellings excluding houses,states_sum_to_australia,3426,3382
+2026-09,1984-12-01,Australia,Total (Type of Building),states_sum_to_australia,12057,12013
+2026-09,1985-02-01,Australia,Dwellings excluding houses,states_sum_to_australia,3277,3233
+2026-09,1985-02-01,Australia,Total (Type of Building),states_sum_to_australia,12380,12336
+2026-09,1985-07-01,Australia,Houses,states_sum_to_australia,10967,10973
+2026-09,1985-07-01,Australia,Total (Type of Building),states_sum_to_australia,13934,13940
+2026-09,2001-07-01,Australia,Total (Type of Building),houses_plus_other_equals_total,13457,13458
+2026-09,2001-07-01,Queensland,Total (Type of Building),houses_plus_other_equals_total,2695,2696
+2026-09,2001-10-01,Australia,Total (Type of Building),houses_plus_other_equals_total,16045,16046
+2026-09,2001-10-01,New South Wales,Total (Type of Building),houses_plus_other_equals_total,5388,5389
+2026-09,2001-11-01,Australia,Total (Type of Building),houses_plus_other_equals_total,15365,15366
+2026-09,2001-11-01,South Australia,Total (Type of Building),houses_plus_other_equals_total,952,953
+2026-09,2001-12-01,Australia,Total (Type of Building),houses_plus_other_equals_total,12902,12903
+2026-09,2001-12-01,South Australia,Total (Type of Building),houses_plus_other_equals_total,985,986
+2026-09,2002-04-01,Australia,Total (Type of Building),houses_plus_other_equals_total,15543,15554
+2026-09,2002-04-01,Queensland,Total (Type of Building),houses_plus_other_equals_total,2935,2946
+2026-09,2002-05-01,Australia,Total (Type of Building),houses_plus_other_equals_total,16326,16327
+2026-09,2002-05-01,New South Wales,Total (Type of Building),houses_plus_other_equals_total,5172,5173
+2026-09,2010-11-01,Australia,Total (Type of Building),houses_plus_other_equals_total,14762,14763
+2026-09,2010-11-01,New South Wales,Total (Type of Building),houses_plus_other_equals_total,3282,3283

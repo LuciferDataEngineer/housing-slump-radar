@@ -1,0 +1,34 @@
+domain: supply
+name: approval_quality
+version: "1.0.0"
+description: Arithmetic gaps inside ABS Table 09. Published values are kept; the gaps are flagged.
+file: data/tidy/approval_quality.csv
+primary_key: [vintage, month, region, dwelling_type, rule]
+columns:
+  - name: vintage
+    type: string
+    required: true
+    allowed: ["2026-08", "2026-09"]
+  - name: month
+    type: date
+    required: true
+  - name: region
+    type: string
+    required: true
+  - name: dwelling_type
+    type: string
+    required: true
+    allowed: ["Houses", "Dwellings excluding houses", "Total (Type of Building)"]
+  - name: rule
+    type: string
+    required: true
+    allowed: ["houses_plus_other_equals_total", "states_sum_to_australia"]
+  - name: expected
+    type: integer
+    required: true
+  - name: actual
+    type: integer
+    required: true
+expectations:
+  - type: min_rows
+    value: 1

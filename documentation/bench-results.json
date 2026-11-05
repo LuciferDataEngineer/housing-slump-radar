@@ -1,0 +1,46 @@
+{
+  "rows": 2000000,
+  "query": "group by state_id with count, median(price), avg(yoy)",
+  "data": "synthetic, generated in DuckDB, not official prices",
+  "machine": {
+    "python": "3.12.3",
+    "system": "Linux-6.12.94+-x86_64-with-glibc2.39",
+    "processor": "x86_64"
+  },
+  "duckdb_in_process_ms": {
+    "samples_ms": [
+      29.21,
+      25.4,
+      16.87,
+      16.62,
+      15.94,
+      15.12,
+      15.2
+    ],
+    "median_excluding_warmup": 15.94
+  },
+  "clickhouse_http_client_ms": {
+    "samples_ms": [
+      15.9,
+      14.89,
+      14.24,
+      34.19,
+      16.6,
+      14.98,
+      13.05
+    ],
+    "median_excluding_warmup": 14.98
+  },
+  "clickhouse_server_ms": {
+    "samples_ms": [
+      12.0,
+      13.0,
+      15.0,
+      33.0,
+      13.0
+    ],
+    "median": 13.0
+  },
+  "cost_aud": 0,
+  "note": "Both engines ran on this machine. DuckDB time is in-process. ClickHouse server time excludes the HTTP client. There is no cloud bill."
+}

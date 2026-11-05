@@ -1,0 +1,27 @@
+version: 2
+models:
+  - name: mart_overview
+    description: One-row headline used by the static dashboard.
+    columns:
+      - name: cash_rate_target
+        tests: [not_null]
+      - name: hikes_2026
+        tests: [not_null]
+      - name: loan_principal
+        tests: [not_null]
+      - name: repayment_scenario
+        tests: [not_null]
+      - name: approvals_victoria
+        tests: [not_null]
+      - name: august_revision
+        tests: [not_null]
+  - name: mart_state_prices
+    description: Latest official mean dwelling price by state.
+  - name: mart_suburb_risk
+    description: Victorian suburbs with enough sales in both March quarters.
+  - name: mart_approval_yoy
+    description: September 2026 original total approvals against September 2025, one vintage.
+  - name: mart_cash_decisions
+    description: Days the cash-rate target changed, derived from the level rather than the publisher change field.
+  - name: stg_suburb_annual
+    description: Annual Valuer-General medians. Kept in the prices domain even though the dashboard uses the later quarterly file.

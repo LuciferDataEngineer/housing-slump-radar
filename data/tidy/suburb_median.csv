@@ -1,0 +1,3865 @@
+locality,quarter,median_price,sales,low_sample
+Abbotsford,2025-Q1,1310000,,1
+Abbotsford,2025-Q2,1295000,,0
+Abbotsford,2025-Q3,1391500,,0
+Abbotsford,2025-Q4,1288000,,0
+Abbotsford,2026-Q1,1510000,14,0
+Aberfeldie,2025-Q1,2045000,,0
+Aberfeldie,2025-Q2,1950000,,0
+Aberfeldie,2025-Q3,1720000,,0
+Aberfeldie,2025-Q4,1850000,,0
+Aberfeldie,2026-Q1,1690000,9,1
+Aintree,2025-Q1,688000,,0
+Aintree,2025-Q2,749800,,0
+Aintree,2025-Q3,705500,,0
+Aintree,2025-Q4,725000,,0
+Aintree,2026-Q1,713800,42,0
+Aireys Inlet,2025-Q1,1450000,,1
+Aireys Inlet,2025-Q2,1247500,,1
+Aireys Inlet,2025-Q3,1450000,,1
+Aireys Inlet,2025-Q4,1350000,,1
+Aireys Inlet,2026-Q1,1390000,7,1
+Airport West,2025-Q1,975000,,0
+Airport West,2025-Q2,923000,,0
+Airport West,2025-Q3,1118000,,0
+Airport West,2025-Q4,1142000,,0
+Airport West,2026-Q1,950000,32,0
+Albanvale,2025-Q1,625000,,0
+Albanvale,2025-Q2,650500,,0
+Albanvale,2025-Q3,663000,,0
+Albanvale,2025-Q4,700800,,0
+Albanvale,2026-Q1,715000,15,0
+Albert Park,2025-Q1,2320000,,0
+Albert Park,2025-Q2,2675000,,0
+Albert Park,2025-Q3,2510000,,0
+Albert Park,2025-Q4,2150000,,0
+Albert Park,2026-Q1,1985000,21,0
+Albion,2025-Q1,738800,,0
+Albion,2025-Q2,750000,,0
+Albion,2025-Q3,771300,,0
+Albion,2025-Q4,812000,,0
+Albion,2026-Q1,791000,10,0
+Alexandra,2025-Q1,680000,,1
+Alexandra,2025-Q2,571000,,1
+Alexandra,2025-Q3,490000,,0
+Alexandra,2025-Q4,600000,,1
+Alexandra,2026-Q1,565000,15,0
+Alfredton,2025-Q1,602500,,0
+Alfredton,2025-Q2,605000,,0
+Alfredton,2025-Q3,622000,,0
+Alfredton,2025-Q4,650000,,0
+Alfredton,2026-Q1,690500,106,0
+Allansford,2025-Q1,837500,,1
+Allansford,2025-Q2,515000,,1
+Allansford,2025-Q3,525000,,1
+Allansford,2025-Q4,515000,,1
+Allansford,2026-Q1,515000,0,1
+Alphington,2025-Q1,1837500,,0
+Alphington,2025-Q2,1841300,,0
+Alphington,2025-Q3,2200000,,0
+Alphington,2025-Q4,2270000,,0
+Alphington,2026-Q1,1930000,11,0
+Altona,2025-Q1,1210000,,0
+Altona,2025-Q2,1173000,,0
+Altona,2025-Q3,1113000,,0
+Altona,2025-Q4,1295500,,0
+Altona,2026-Q1,1200000,22,0
+Altona East,2025-Q1,1010000,,1
+Altona East,2025-Q2,1076000,,1
+Altona East,2025-Q3,1250000,,0
+Altona East,2025-Q4,1072500,,0
+Altona East,2026-Q1,1085000,11,0
+Altona Meadows,2025-Q1,737000,,0
+Altona Meadows,2025-Q2,735000,,0
+Altona Meadows,2025-Q3,765000,,0
+Altona Meadows,2025-Q4,835500,,0
+Altona Meadows,2026-Q1,757500,22,0
+Altona North,2025-Q1,1003000,,0
+Altona North,2025-Q2,904000,,0
+Altona North,2025-Q3,963500,,0
+Altona North,2025-Q4,996500,,0
+Altona North,2026-Q1,952500,46,0
+Anglesea,2025-Q1,1375000,,0
+Anglesea,2025-Q2,1512500,,0
+Anglesea,2025-Q3,1275000,,0
+Anglesea,2025-Q4,1460000,,0
+Anglesea,2026-Q1,1120000,10,0
+Apollo Bay,2025-Q1,775000,,1
+Apollo Bay,2025-Q2,790000,,1
+Apollo Bay,2025-Q3,817500,,0
+Apollo Bay,2025-Q4,795000,,0
+Apollo Bay,2026-Q1,785000,11,0
+Ararat,2025-Q1,376000,,0
+Ararat,2025-Q2,341000,,0
+Ararat,2025-Q3,410000,,0
+Ararat,2025-Q4,430500,,0
+Ararat,2026-Q1,425500,59,0
+Ardeer,2025-Q1,695000,,0
+Ardeer,2025-Q2,740000,,0
+Ardeer,2025-Q3,679000,,0
+Ardeer,2025-Q4,711000,,0
+Ardeer,2026-Q1,745000,15,0
+Armadale,2025-Q1,3330000,,0
+Armadale,2025-Q2,2313000,,0
+Armadale,2025-Q3,2250000,,0
+Armadale,2025-Q4,2375000,,0
+Armadale,2026-Q1,2502500,14,0
+Armstrong Creek,2025-Q1,641000,,0
+Armstrong Creek,2025-Q2,667000,,0
+Armstrong Creek,2025-Q3,670000,,0
+Armstrong Creek,2025-Q4,680000,,0
+Armstrong Creek,2026-Q1,697000,137,0
+Ascot (greater Bendigo),2025-Q1,622500,,0
+Ascot (greater Bendigo),2025-Q2,630000,,0
+Ascot (greater Bendigo),2025-Q3,655000,,0
+Ascot (greater Bendigo),2025-Q4,646500,,0
+Ascot (greater Bendigo),2026-Q1,677000,5,1
+Ascot Vale,2025-Q1,1406500,,0
+Ascot Vale,2025-Q2,1400000,,0
+Ascot Vale,2025-Q3,1360000,,0
+Ascot Vale,2025-Q4,1365000,,0
+Ascot Vale,2026-Q1,1250000,49,0
+Ashburton,2025-Q1,1852000,,0
+Ashburton,2025-Q2,1905000,,0
+Ashburton,2025-Q3,1980000,,0
+Ashburton,2025-Q4,1980000,,0
+Ashburton,2026-Q1,2050000,25,0
+Ashwood,2025-Q1,1510000,,0
+Ashwood,2025-Q2,1570000,,0
+Ashwood,2025-Q3,1567500,,0
+Ashwood,2025-Q4,1440000,,0
+Ashwood,2026-Q1,1470000,17,0
+Aspendale,2025-Q1,1300000,,0
+Aspendale,2025-Q2,1380000,,0
+Aspendale,2025-Q3,1501300,,0
+Aspendale,2025-Q4,1492500,,0
+Aspendale,2026-Q1,1415000,22,0
+Aspendale Gardens,2025-Q1,1225000,,0
+Aspendale Gardens,2025-Q2,1265000,,1
+Aspendale Gardens,2025-Q3,1281800,,1
+Aspendale Gardens,2025-Q4,1365000,,0
+Aspendale Gardens,2026-Q1,1270000,8,1
+Attwood,2025-Q1,785000,,1
+Attwood,2025-Q2,739000,,1
+Attwood,2025-Q3,888500,,1
+Attwood,2025-Q4,895000,,0
+Attwood,2026-Q1,1000000,10,0
+Avenel,2025-Q1,569000,,1
+Avenel,2025-Q2,1150000,,1
+Avenel,2025-Q3,565000,,1
+Avenel,2025-Q4,580000,,0
+Avenel,2026-Q1,725000,4,1
+Avoca,2025-Q1,380000,,1
+Avoca,2025-Q2,415000,,0
+Avoca,2025-Q3,420000,,1
+Avoca,2025-Q4,344000,,1
+Avoca,2026-Q1,382500,10,0
+Avondale Heights,2025-Q1,935000,,0
+Avondale Heights,2025-Q2,994500,,0
+Avondale Heights,2025-Q3,1020000,,0
+Avondale Heights,2025-Q4,1085000,,0
+Avondale Heights,2026-Q1,1140000,34,0
+Bacchus Marsh,2025-Q1,620000,,0
+Bacchus Marsh,2025-Q2,618000,,0
+Bacchus Marsh,2025-Q3,616000,,0
+Bacchus Marsh,2025-Q4,652000,,0
+Bacchus Marsh,2026-Q1,657500,46,0
+Badger Creek,2025-Q1,697500,,1
+Badger Creek,2025-Q2,673000,,1
+Badger Creek,2025-Q3,715000,,1
+Badger Creek,2025-Q4,690000,,1
+Badger Creek,2026-Q1,703000,11,0
+Bairnsdale,2025-Q1,450000,,0
+Bairnsdale,2025-Q2,430000,,0
+Bairnsdale,2025-Q3,474500,,0
+Bairnsdale,2025-Q4,483800,,0
+Bairnsdale,2026-Q1,539000,67,0
+Balaclava,2025-Q1,1450000,,1
+Balaclava,2025-Q2,1205000,,1
+Balaclava,2025-Q3,1580000,,0
+Balaclava,2025-Q4,1267500,,0
+Balaclava,2026-Q1,1463500,8,1
+Balcombe,2025-Q1,1590000,,0
+Balcombe,2025-Q2,1714500,,0
+Balcombe,2025-Q3,1600000,,0
+Balcombe,2025-Q4,1657500,,0
+Balcombe,2026-Q1,1780000,23,0
+Ballan,2025-Q1,622500,,0
+Ballan,2025-Q2,568500,,0
+Ballan,2025-Q3,683500,,1
+Ballan,2025-Q4,636000,,0
+Ballan,2026-Q1,705000,15,0
+Ballarat Central,2025-Q1,635000,,0
+Ballarat Central,2025-Q2,583500,,0
+Ballarat Central,2025-Q3,650000,,0
+Ballarat Central,2025-Q4,750000,,0
+Ballarat Central,2026-Q1,655000,50,0
+Ballarat East,2025-Q1,497500,,0
+Ballarat East,2025-Q2,510000,,0
+Ballarat East,2025-Q3,537500,,0
+Ballarat East,2025-Q4,580000,,0
+Ballarat East,2026-Q1,569000,42,0
+Ballarat North,2025-Q1,515000,,0
+Ballarat North,2025-Q2,532500,,0
+Ballarat North,2025-Q3,575000,,0
+Ballarat North,2025-Q4,590500,,0
+Ballarat North,2026-Q1,620000,15,0
+Balnarring,2025-Q1,1280000,,1
+Balnarring,2025-Q2,1480000,,0
+Balnarring,2025-Q3,1405000,,1
+Balnarring,2025-Q4,1580000,,0
+Balnarring,2026-Q1,1087500,2,1
+Balnarring Beach,2025-Q1,1325000,,1
+Balnarring Beach,2025-Q2,1870000,,1
+Balnarring Beach,2025-Q3,2830000,,1
+Balnarring Beach,2025-Q4,2020000,,1
+Balnarring Beach,2026-Q1,1900000,5,1
+Balwyn,2025-Q1,3100000,,0
+Balwyn,2025-Q2,3125000,,0
+Balwyn,2025-Q3,2675500,,0
+Balwyn,2025-Q4,2734000,,0
+Balwyn,2026-Q1,2538000,24,0
+Balwyn North,2025-Q1,2369000,,0
+Balwyn North,2025-Q2,2150000,,0
+Balwyn North,2025-Q3,2410000,,0
+Balwyn North,2025-Q4,2357500,,0
+Balwyn North,2026-Q1,2200000,59,0
+Bandiana,2025-Q1,629000,,1
+Bandiana,2025-Q2,620000,,1
+Bandiana,2025-Q3,622000,,1
+Bandiana,2025-Q4,649500,,1
+Bandiana,2026-Q1,690000,2,1
+Bannockburn,2025-Q1,699500,,0
+Bannockburn,2025-Q2,707000,,0
+Bannockburn,2025-Q3,745000,,0
+Bannockburn,2025-Q4,712500,,0
+Bannockburn,2026-Q1,746000,18,0
+Baranduda,2025-Q1,585000,,0
+Baranduda,2025-Q2,625000,,0
+Baranduda,2025-Q3,675000,,0
+Baranduda,2025-Q4,750000,,0
+Baranduda,2026-Q1,700000,15,0
+Barwon Heads,2025-Q1,1465000,,0
+Barwon Heads,2025-Q2,1455000,,0
+Barwon Heads,2025-Q3,1400000,,0
+Barwon Heads,2025-Q4,1557500,,0
+Barwon Heads,2026-Q1,1325000,19,0
+Baxter,2025-Q1,752500,,0
+Baxter,2025-Q2,759000,,1
+Baxter,2025-Q3,820000,,1
+Baxter,2025-Q4,770000,,1
+Baxter,2026-Q1,780000,8,1
+Bayswater,2025-Q1,861000,,0
+Bayswater,2025-Q2,888900,,0
+Bayswater,2025-Q3,999000,,0
+Bayswater,2025-Q4,958500,,0
+Bayswater,2026-Q1,962500,24,0
+Bayswater North,2025-Q1,910000,,0
+Bayswater North,2025-Q2,920000,,0
+Bayswater North,2025-Q3,910500,,0
+Bayswater North,2025-Q4,947600,,0
+Bayswater North,2026-Q1,920000,17,0
+Beaconsfield,2025-Q1,815000,,0
+Beaconsfield,2025-Q2,945000,,0
+Beaconsfield,2025-Q3,1112500,,0
+Beaconsfield,2025-Q4,1005000,,0
+Beaconsfield,2026-Q1,1145000,17,0
+Beaconsfield Upper,2025-Q1,1552500,,1
+Beaconsfield Upper,2025-Q2,1262800,,1
+Beaconsfield Upper,2025-Q3,1130000,,1
+Beaconsfield Upper,2025-Q4,1270000,,1
+Beaconsfield Upper,2026-Q1,1100000,7,1
+Beaufort,2025-Q1,395000,,1
+Beaufort,2025-Q2,390000,,1
+Beaufort,2025-Q3,406300,,0
+Beaufort,2025-Q4,435000,,0
+Beaufort,2026-Q1,445000,8,1
+Beaumaris,2025-Q1,1943000,,0
+Beaumaris,2025-Q2,2100000,,0
+Beaumaris,2025-Q3,2275000,,0
+Beaumaris,2025-Q4,2100000,,0
+Beaumaris,2026-Q1,2165000,39,0
+Beechworth,2025-Q1,795000,,0
+Beechworth,2025-Q2,890000,,0
+Beechworth,2025-Q3,675000,,0
+Beechworth,2025-Q4,803800,,0
+Beechworth,2026-Q1,770000,17,0
+Belgrave,2025-Q1,861900,,0
+Belgrave,2025-Q2,760000,,0
+Belgrave,2025-Q3,825000,,0
+Belgrave,2025-Q4,824500,,0
+Belgrave,2026-Q1,862000,17,0
+Belgrave Heights,2025-Q1,1053100,,1
+Belgrave Heights,2025-Q2,1129000,,1
+Belgrave Heights,2025-Q3,861500,,1
+Belgrave Heights,2025-Q4,1005500,,1
+Belgrave Heights,2026-Q1,1035000,7,1
+Belgrave South,2025-Q1,855000,,1
+Belgrave South,2025-Q2,1002500,,1
+Belgrave South,2025-Q3,1470000,,1
+Belgrave South,2025-Q4,910000,,1
+Belgrave South,2026-Q1,1075000,3,1
+Bell Park,2025-Q1,645000,,0
+Bell Park,2025-Q2,620000,,0
+Bell Park,2025-Q3,690000,,0
+Bell Park,2025-Q4,700600,,0
+Bell Park,2026-Q1,740000,29,0
+Bell Post Hill,2025-Q1,650000,,0
+Bell Post Hill,2025-Q2,657500,,0
+Bell Post Hill,2025-Q3,711000,,0
+Bell Post Hill,2025-Q4,762000,,0
+Bell Post Hill,2026-Q1,742500,34,0
+Bellfield (banyule),2025-Q1,1050000,,1
+Bellfield (banyule),2025-Q2,991000,,0
+Bellfield (banyule),2025-Q3,995000,,0
+Bellfield (banyule),2025-Q4,1035000,,1
+Bellfield (banyule),2026-Q1,1055000,3,1
+Belmont,2025-Q1,670000,,0
+Belmont,2025-Q2,683000,,0
+Belmont,2025-Q3,703000,,0
+Belmont,2025-Q4,746000,,0
+Belmont,2026-Q1,770000,65,0
+Benalla,2025-Q1,465000,,0
+Benalla,2025-Q2,460000,,0
+Benalla,2025-Q3,510000,,0
+Benalla,2025-Q4,502500,,0
+Benalla,2026-Q1,578000,48,0
+Bendigo,2025-Q1,600000,,0
+Bendigo,2025-Q2,640000,,0
+Bendigo,2025-Q3,631300,,0
+Bendigo,2025-Q4,605000,,0
+Bendigo,2026-Q1,680000,34,0
+Bentleigh,2025-Q1,1732500,,0
+Bentleigh,2025-Q2,1760500,,0
+Bentleigh,2025-Q3,1725000,,0
+Bentleigh,2025-Q4,1700000,,0
+Bentleigh,2026-Q1,1812000,43,0
+Bentleigh East,2025-Q1,1440500,,0
+Bentleigh East,2025-Q2,1555000,,0
+Bentleigh East,2025-Q3,1540000,,0
+Bentleigh East,2025-Q4,1606000,,0
+Bentleigh East,2026-Q1,1480000,70,0
+Berwick,2025-Q1,880000,,0
+Berwick,2025-Q2,862900,,0
+Berwick,2025-Q3,907000,,0
+Berwick,2025-Q4,908500,,0
+Berwick,2026-Q1,950000,199,0
+Beveridge,2025-Q1,625000,,0
+Beveridge,2025-Q2,663500,,0
+Beveridge,2025-Q3,645000,,0
+Beveridge,2025-Q4,670000,,0
+Beveridge,2026-Q1,650000,92,0
+Birchip,2025-Q1,282500,,1
+Birchip,2025-Q2,180000,,1
+Birchip,2025-Q3,176000,,1
+Birchip,2025-Q4,176000,,1
+Birchip,2026-Q1,310000,6,1
+Birregurra,2025-Q1,605000,,1
+Birregurra,2025-Q2,659000,,1
+Birregurra,2025-Q3,765000,,1
+Birregurra,2025-Q4,765000,,1
+Birregurra,2026-Q1,665000,4,1
+Bittern,2025-Q1,905000,,0
+Bittern,2025-Q2,840000,,1
+Bittern,2025-Q3,1100000,,0
+Bittern,2025-Q4,845000,,0
+Bittern,2026-Q1,900000,6,1
+Black Hill,2025-Q1,540000,,0
+Black Hill,2025-Q2,495000,,1
+Black Hill,2025-Q3,572000,,0
+Black Hill,2025-Q4,581000,,1
+Black Hill,2026-Q1,612000,17,0
+Black Rock,2025-Q1,2620000,,0
+Black Rock,2025-Q2,2342500,,0
+Black Rock,2025-Q3,2150000,,0
+Black Rock,2025-Q4,2487500,,0
+Black Rock,2026-Q1,2432500,16,0
+Blackburn,2025-Q1,1638000,,0
+Blackburn,2025-Q2,1670000,,0
+Blackburn,2025-Q3,1600000,,0
+Blackburn,2025-Q4,1568500,,0
+Blackburn,2026-Q1,1815000,26,0
+Blackburn North,2025-Q1,1399000,,0
+Blackburn North,2025-Q2,1300000,,0
+Blackburn North,2025-Q3,1415000,,0
+Blackburn North,2025-Q4,1466800,,0
+Blackburn North,2026-Q1,1570000,22,0
+Blackburn South,2025-Q1,1422300,,0
+Blackburn South,2025-Q2,1373000,,0
+Blackburn South,2025-Q3,1398000,,0
+Blackburn South,2025-Q4,1360500,,0
+Blackburn South,2026-Q1,1425500,26,0
+Blairgowrie,2025-Q1,1350000,,0
+Blairgowrie,2025-Q2,1717500,,0
+Blairgowrie,2025-Q3,1355000,,0
+Blairgowrie,2025-Q4,1547500,,0
+Blairgowrie,2026-Q1,1368800,30,0
+Blind Bight,2025-Q1,830000,,1
+Blind Bight,2025-Q2,722500,,1
+Blind Bight,2025-Q3,750000,,1
+Blind Bight,2025-Q4,735000,,1
+Blind Bight,2026-Q1,895000,4,1
+Bonbeach,2025-Q1,1035000,,0
+Bonbeach,2025-Q2,1107500,,0
+Bonbeach,2025-Q3,1120000,,0
+Bonbeach,2025-Q4,1280000,,0
+Bonbeach,2026-Q1,1195000,7,1
+Bonnie Brook,2025-Q1,656500,,0
+Bonnie Brook,2025-Q2,655000,,0
+Bonnie Brook,2025-Q3,650000,,0
+Bonnie Brook,2025-Q4,695900,,0
+Bonnie Brook,2026-Q1,740500,26,0
+Bonshaw,2025-Q1,545000,,0
+Bonshaw,2025-Q2,560000,,0
+Bonshaw,2025-Q3,590000,,0
+Bonshaw,2025-Q4,605000,,0
+Bonshaw,2026-Q1,605000,23,0
+Boolarra,2025-Q1,447500,,1
+Boolarra,2025-Q2,779000,,1
+Boolarra,2025-Q3,490000,,1
+Boolarra,2025-Q4,422500,,1
+Boolarra,2026-Q1,431000,4,1
+Boort,2025-Q1,330000,,1
+Boort,2025-Q2,300000,,1
+Boort,2025-Q3,375000,,1
+Boort,2025-Q4,370000,,1
+Boort,2026-Q1,275000,6,1
+Boronia,2025-Q1,861000,,0
+Boronia,2025-Q2,860900,,0
+Boronia,2025-Q3,907500,,0
+Boronia,2025-Q4,923000,,0
+Boronia,2026-Q1,884000,48,0
+Botanic Ridge,2025-Q1,910000,,0
+Botanic Ridge,2025-Q2,858800,,0
+Botanic Ridge,2025-Q3,950000,,0
+Botanic Ridge,2025-Q4,957500,,0
+Botanic Ridge,2026-Q1,1052500,42,0
+Box Hill,2025-Q1,1725000,,1
+Box Hill,2025-Q2,1699000,,0
+Box Hill,2025-Q3,1690000,,0
+Box Hill,2025-Q4,1595500,,0
+Box Hill,2026-Q1,1757000,7,1
+Box Hill North,2025-Q1,1370000,,0
+Box Hill North,2025-Q2,1443500,,0
+Box Hill North,2025-Q3,1402500,,0
+Box Hill North,2025-Q4,1390000,,0
+Box Hill North,2026-Q1,1310000,31,0
+Box Hill South,2025-Q1,1350000,,0
+Box Hill South,2025-Q2,1535000,,0
+Box Hill South,2025-Q3,1481500,,0
+Box Hill South,2025-Q4,1562000,,0
+Box Hill South,2026-Q1,1557500,14,0
+Braybrook,2025-Q1,772500,,0
+Braybrook,2025-Q2,739000,,0
+Braybrook,2025-Q3,750000,,0
+Braybrook,2025-Q4,790000,,0
+Braybrook,2026-Q1,752500,26,0
+Breakwater,2025-Q1,500000,,1
+Breakwater,2025-Q2,602500,,1
+Breakwater,2025-Q3,550500,,1
+Breakwater,2025-Q4,570000,,0
+Breakwater,2026-Q1,560100,4,1
+Briar Hill,2025-Q1,1127800,,0
+Briar Hill,2025-Q2,960000,,0
+Briar Hill,2025-Q3,905000,,1
+Briar Hill,2025-Q4,996000,,0
+Briar Hill,2026-Q1,1077500,6,1
+Bright,2025-Q1,850000,,1
+Bright,2025-Q2,1065000,,0
+Bright,2025-Q3,1052500,,0
+Bright,2025-Q4,1175000,,0
+Bright,2026-Q1,1020000,11,0
+Brighton,2025-Q1,3350000,,0
+Brighton,2025-Q2,3700000,,0
+Brighton,2025-Q3,3368300,,0
+Brighton,2025-Q4,3420000,,0
+Brighton,2026-Q1,3060000,41,0
+Brighton East,2025-Q1,2325000,,0
+Brighton East,2025-Q2,2058000,,0
+Brighton East,2025-Q3,2170000,,0
+Brighton East,2025-Q4,2175000,,0
+Brighton East,2026-Q1,2250000,54,0
+Broadford,2025-Q1,562500,,0
+Broadford,2025-Q2,600000,,0
+Broadford,2025-Q3,594000,,0
+Broadford,2025-Q4,600000,,0
+Broadford,2026-Q1,610000,17,0
+Broadmeadows,2025-Q1,610000,,0
+Broadmeadows,2025-Q2,620000,,0
+Broadmeadows,2025-Q3,635000,,0
+Broadmeadows,2025-Q4,670000,,0
+Broadmeadows,2026-Q1,675000,28,0
+Brookfield,2025-Q1,565000,,0
+Brookfield,2025-Q2,590000,,0
+Brookfield,2025-Q3,601000,,0
+Brookfield,2025-Q4,626300,,0
+Brookfield,2026-Q1,640000,51,0
+Brooklyn,2025-Q1,857500,,1
+Brooklyn,2025-Q2,715000,,1
+Brooklyn,2025-Q3,970000,,1
+Brooklyn,2025-Q4,900000,,1
+Brooklyn,2026-Q1,885000,4,1
+Brown Hill,2025-Q1,610000,,0
+Brown Hill,2025-Q2,656300,,0
+Brown Hill,2025-Q3,652500,,0
+Brown Hill,2025-Q4,684000,,0
+Brown Hill,2026-Q1,615000,23,0
+Brunswick,2025-Q1,1320000,,0
+Brunswick,2025-Q2,1316500,,0
+Brunswick,2025-Q3,1312500,,0
+Brunswick,2025-Q4,1325000,,0
+Brunswick,2026-Q1,1350000,61,0
+Brunswick East,2025-Q1,1647500,,0
+Brunswick East,2025-Q2,1392500,,0
+Brunswick East,2025-Q3,1319000,,0
+Brunswick East,2025-Q4,1600000,,0
+Brunswick East,2026-Q1,1433000,22,0
+Brunswick West,2025-Q1,1282500,,0
+Brunswick West,2025-Q2,1295000,,0
+Brunswick West,2025-Q3,1337500,,0
+Brunswick West,2025-Q4,1358000,,0
+Brunswick West,2026-Q1,1355000,35,0
+Bulleen,2025-Q1,1365000,,0
+Bulleen,2025-Q2,1380000,,0
+Bulleen,2025-Q3,1365000,,0
+Bulleen,2025-Q4,1395000,,0
+Bulleen,2026-Q1,1302500,42,0
+Bundoora,2025-Q1,882000,,0
+Bundoora,2025-Q2,867500,,0
+Bundoora,2025-Q3,901000,,0
+Bundoora,2025-Q4,945000,,0
+Bundoora,2026-Q1,905000,51,0
+Buninyong,2025-Q1,725000,,0
+Buninyong,2025-Q2,730000,,0
+Buninyong,2025-Q3,682500,,0
+Buninyong,2025-Q4,725000,,0
+Buninyong,2026-Q1,750000,13,0
+Bunyip,2025-Q1,760000,,1
+Bunyip,2025-Q2,791500,,1
+Bunyip,2025-Q3,930000,,1
+Bunyip,2025-Q4,815000,,0
+Bunyip,2026-Q1,810000,5,1
+Burnside,2025-Q1,860000,,0
+Burnside,2025-Q2,797500,,0
+Burnside,2025-Q3,840000,,0
+Burnside,2025-Q4,780000,,0
+Burnside,2026-Q1,880000,15,0
+Burnside Heights,2025-Q1,730000,,0
+Burnside Heights,2025-Q2,802500,,0
+Burnside Heights,2025-Q3,734000,,0
+Burnside Heights,2025-Q4,770000,,0
+Burnside Heights,2026-Q1,832500,14,0
+Burwood,2025-Q1,1594400,,0
+Burwood,2025-Q2,1602000,,0
+Burwood,2025-Q3,1500000,,0
+Burwood,2025-Q4,1488000,,0
+Burwood,2026-Q1,1325000,29,0
+Burwood East,2025-Q1,1300000,,0
+Burwood East,2025-Q2,1332500,,0
+Burwood East,2025-Q3,1326500,,0
+Burwood East,2025-Q4,1386500,,0
+Burwood East,2026-Q1,1377500,28,0
+Cairnlea,2025-Q1,897000,,0
+Cairnlea,2025-Q2,835900,,0
+Cairnlea,2025-Q3,954000,,0
+Cairnlea,2025-Q4,981500,,0
+Cairnlea,2026-Q1,954300,26,0
+California Gully,2025-Q1,443500,,0
+California Gully,2025-Q2,510000,,0
+California Gully,2025-Q3,526000,,0
+California Gully,2025-Q4,562500,,0
+California Gully,2026-Q1,600000,25,0
+Camberwell,2025-Q1,2750000,,0
+Camberwell,2025-Q2,2610000,,0
+Camberwell,2025-Q3,2490000,,0
+Camberwell,2025-Q4,2540000,,0
+Camberwell,2026-Q1,2470000,47,0
+Campbellfield,2025-Q1,643000,,0
+Campbellfield,2025-Q2,678500,,0
+Campbellfield,2025-Q3,684000,,0
+Campbellfield,2025-Q4,730000,,0
+Campbellfield,2026-Q1,745000,9,1
+Campbells Creek,2025-Q1,799000,,1
+Campbells Creek,2025-Q2,730000,,0
+Campbells Creek,2025-Q3,650000,,0
+Campbells Creek,2025-Q4,685000,,0
+Campbells Creek,2026-Q1,680000,11,0
+Camperdown,2025-Q1,490000,,0
+Camperdown,2025-Q2,435000,,0
+Camperdown,2025-Q3,460000,,1
+Camperdown,2025-Q4,536000,,0
+Camperdown,2026-Q1,478300,20,0
+Canadian,2025-Q1,550000,,0
+Canadian,2025-Q2,522500,,0
+Canadian,2025-Q3,535000,,0
+Canadian,2025-Q4,593800,,0
+Canadian,2026-Q1,607500,26,0
+Canterbury,2025-Q1,4415000,,0
+Canterbury,2025-Q2,3784000,,0
+Canterbury,2025-Q3,3788800,,0
+Canterbury,2025-Q4,3060000,,0
+Canterbury,2026-Q1,3260000,25,0
+Cape Paterson,2025-Q1,692500,,0
+Cape Paterson,2025-Q2,745000,,1
+Cape Paterson,2025-Q3,693000,,1
+Cape Paterson,2025-Q4,865000,,0
+Cape Paterson,2026-Q1,750000,9,1
+Cape Schanck,2025-Q1,1717500,,1
+Cape Schanck,2025-Q2,1370000,,1
+Cape Schanck,2025-Q3,1010000,,1
+Cape Schanck,2025-Q4,914000,,1
+Cape Schanck,2026-Q1,1750000,1,1
+Capel Sound,2025-Q1,705000,,0
+Capel Sound,2025-Q2,780000,,0
+Capel Sound,2025-Q3,780000,,0
+Capel Sound,2025-Q4,738500,,0
+Capel Sound,2026-Q1,725000,23,0
+Cardigan,2025-Q1,1150000,,1
+Cardigan,2025-Q2,1550000,,1
+Cardigan,2025-Q3,1244000,,1
+Cardigan,2025-Q4,1115000,,1
+Cardigan,2026-Q1,1270000,2,1
+Cardigan Village,2025-Q1,410000,,1
+Cardigan Village,2025-Q2,484000,,1
+Cardigan Village,2025-Q3,575000,,1
+Cardigan Village,2025-Q4,910000,,1
+Cardigan Village,2026-Q1,910000,0,1
+Carisbrook,2025-Q1,432500,,1
+Carisbrook,2025-Q2,456000,,1
+Carisbrook,2025-Q3,525000,,1
+Carisbrook,2025-Q4,465000,,1
+Carisbrook,2026-Q1,448500,8,1
+Carlton,2025-Q1,1360000,,0
+Carlton,2025-Q2,1692500,,0
+Carlton,2025-Q3,1350000,,0
+Carlton,2025-Q4,1750000,,0
+Carlton,2026-Q1,1502500,6,1
+Carlton North,2025-Q1,1730000,,0
+Carlton North,2025-Q2,1826000,,0
+Carlton North,2025-Q3,1620000,,0
+Carlton North,2025-Q4,1800000,,0
+Carlton North,2026-Q1,1320000,22,0
+Carnegie,2025-Q1,1720000,,0
+Carnegie,2025-Q2,1662000,,0
+Carnegie,2025-Q3,1825000,,0
+Carnegie,2025-Q4,1700000,,0
+Carnegie,2026-Q1,1725000,25,0
+Caroline Springs,2025-Q1,750000,,0
+Caroline Springs,2025-Q2,750000,,0
+Caroline Springs,2025-Q3,790000,,0
+Caroline Springs,2025-Q4,835000,,0
+Caroline Springs,2026-Q1,797500,72,0
+Carrum,2025-Q1,881000,,1
+Carrum,2025-Q2,1101000,,0
+Carrum,2025-Q3,1170000,,0
+Carrum,2025-Q4,1020000,,1
+Carrum,2026-Q1,972000,11,0
+Carrum Downs,2025-Q1,745000,,0
+Carrum Downs,2025-Q2,775000,,0
+Carrum Downs,2025-Q3,807500,,0
+Carrum Downs,2025-Q4,843500,,0
+Carrum Downs,2026-Q1,840000,77,0
+Casterton,2025-Q1,375000,,1
+Casterton,2025-Q2,278000,,1
+Casterton,2025-Q3,245000,,0
+Casterton,2025-Q4,325000,,0
+Casterton,2026-Q1,345000,16,0
+Castlemaine,2025-Q1,782500,,0
+Castlemaine,2025-Q2,722500,,0
+Castlemaine,2025-Q3,745000,,0
+Castlemaine,2025-Q4,745000,,0
+Castlemaine,2026-Q1,650000,34,0
+Caulfield,2025-Q1,2080000,,1
+Caulfield,2025-Q2,2685000,,1
+Caulfield,2025-Q3,1850000,,1
+Caulfield,2025-Q4,1930000,,1
+Caulfield,2026-Q1,1890000,11,0
+Caulfield East,2025-Q1,1819000,,1
+Caulfield East,2025-Q2,1819000,,1
+Caulfield East,2025-Q3,1435000,,1
+Caulfield East,2025-Q4,1550000,,1
+Caulfield East,2026-Q1,1795000,4,1
+Caulfield North,2025-Q1,2675000,,0
+Caulfield North,2025-Q2,2480000,,0
+Caulfield North,2025-Q3,2605000,,0
+Caulfield North,2025-Q4,2290000,,0
+Caulfield North,2026-Q1,2600500,16,0
+Caulfield South,2025-Q1,1770000,,0
+Caulfield South,2025-Q2,2070000,,0
+Caulfield South,2025-Q3,2075000,,0
+Caulfield South,2025-Q4,1950000,,0
+Caulfield South,2026-Q1,1865000,19,0
+Chadstone,2025-Q1,1190000,,0
+Chadstone,2025-Q2,1235000,,0
+Chadstone,2025-Q3,1352900,,0
+Chadstone,2025-Q4,1430000,,0
+Chadstone,2026-Q1,1327500,10,0
+Charlemont,2025-Q1,600000,,0
+Charlemont,2025-Q2,653000,,0
+Charlemont,2025-Q3,640000,,0
+Charlemont,2025-Q4,630000,,0
+Charlemont,2026-Q1,695500,38,0
+Charlton,2025-Q1,265000,,1
+Charlton,2025-Q2,250000,,1
+Charlton,2025-Q3,342500,,1
+Charlton,2025-Q4,320000,,0
+Charlton,2026-Q1,296500,8,1
+Chelsea,2025-Q1,985100,,0
+Chelsea,2025-Q2,1137500,,0
+Chelsea,2025-Q3,1115000,,0
+Chelsea,2025-Q4,1125000,,0
+Chelsea,2026-Q1,1310000,15,0
+Chelsea Heights,2025-Q1,985000,,0
+Chelsea Heights,2025-Q2,1029300,,0
+Chelsea Heights,2025-Q3,1007500,,0
+Chelsea Heights,2025-Q4,990000,,0
+Chelsea Heights,2026-Q1,1122300,12,0
+Cheltenham,2025-Q1,1260500,,0
+Cheltenham,2025-Q2,1310000,,0
+Cheltenham,2025-Q3,1425000,,0
+Cheltenham,2025-Q4,1385000,,0
+Cheltenham,2026-Q1,1378000,29,0
+Cheltenham East,2025-Q1,1245000,,0
+Cheltenham East,2025-Q2,1130000,,0
+Cheltenham East,2025-Q3,1293100,,0
+Cheltenham East,2025-Q4,1287000,,0
+Cheltenham East,2026-Q1,1205000,20,0
+Cheltenham North,2025-Q1,1100000,,0
+Cheltenham North,2025-Q2,1042500,,0
+Cheltenham North,2025-Q3,866000,,0
+Cheltenham North,2025-Q4,1190000,,0
+Cheltenham North,2026-Q1,1155000,12,0
+Chewton,2025-Q1,600000,,1
+Chewton,2025-Q2,1075000,,1
+Chewton,2025-Q3,630000,,1
+Chewton,2025-Q4,852500,,1
+Chewton,2026-Q1,685000,2,1
+Chiltern,2025-Q1,465000,,1
+Chiltern,2025-Q2,660000,,1
+Chiltern,2025-Q3,545000,,1
+Chiltern,2025-Q4,525000,,1
+Chiltern,2026-Q1,705000,4,1
+Chirnside Park,2025-Q1,900000,,0
+Chirnside Park,2025-Q2,932500,,0
+Chirnside Park,2025-Q3,953900,,0
+Chirnside Park,2025-Q4,980000,,0
+Chirnside Park,2026-Q1,975000,40,0
+Churchill,2025-Q1,374500,,0
+Churchill,2025-Q2,365000,,0
+Churchill,2025-Q3,386000,,0
+Churchill,2025-Q4,447500,,0
+Churchill,2026-Q1,470000,32,0
+Clarinda,2025-Q1,1101000,,0
+Clarinda,2025-Q2,1050000,,0
+Clarinda,2025-Q3,1170000,,1
+Clarinda,2025-Q4,1047000,,0
+Clarinda,2026-Q1,1125000,7,1
+Clayton,2025-Q1,1225000,,0
+Clayton,2025-Q2,1285000,,0
+Clayton,2025-Q3,1391700,,0
+Clayton,2025-Q4,1203000,,0
+Clayton,2026-Q1,1276300,18,0
+Clayton North,2025-Q1,1520000,,1
+Clayton North,2025-Q2,1331000,,1
+Clayton North,2025-Q3,1199300,,1
+Clayton North,2025-Q4,1600000,,1
+Clayton North,2026-Q1,1150000,5,1
+Clayton South,2025-Q1,986000,,1
+Clayton South,2025-Q2,1022400,,0
+Clayton South,2025-Q3,1125000,,0
+Clayton South,2025-Q4,992500,,0
+Clayton South,2026-Q1,1000000,15,0
+Clifton Hill,2025-Q1,1778800,,0
+Clifton Hill,2025-Q2,1735000,,0
+Clifton Hill,2025-Q3,1585000,,0
+Clifton Hill,2025-Q4,1605000,,0
+Clifton Hill,2026-Q1,1675000,21,0
+Clifton Springs,2025-Q1,641000,,0
+Clifton Springs,2025-Q2,667500,,0
+Clifton Springs,2025-Q3,660000,,0
+Clifton Springs,2025-Q4,710000,,0
+Clifton Springs,2026-Q1,745500,50,0
+Clunes,2025-Q1,440000,,1
+Clunes,2025-Q2,415000,,1
+Clunes,2025-Q3,480100,,1
+Clunes,2025-Q4,540000,,0
+Clunes,2026-Q1,547500,8,1
+Clyde,2025-Q1,675000,,0
+Clyde,2025-Q2,700000,,0
+Clyde,2025-Q3,705000,,0
+Clyde,2025-Q4,725000,,0
+Clyde,2026-Q1,737500,153,0
+Clyde North,2025-Q1,743000,,0
+Clyde North,2025-Q2,733000,,0
+Clyde North,2025-Q3,742000,,0
+Clyde North,2025-Q4,760000,,0
+Clyde North,2026-Q1,780000,278,0
+Cobblebank,2025-Q1,629000,,0
+Cobblebank,2025-Q2,602500,,0
+Cobblebank,2025-Q3,625000,,0
+Cobblebank,2025-Q4,647500,,0
+Cobblebank,2026-Q1,633000,26,0
+Cobden,2025-Q1,367500,,1
+Cobden,2025-Q2,410000,,1
+Cobden,2025-Q3,400000,,1
+Cobden,2025-Q4,455000,,0
+Cobden,2026-Q1,355000,7,1
+Cobram,2025-Q1,425000,,0
+Cobram,2025-Q2,445000,,0
+Cobram,2025-Q3,457500,,0
+Cobram,2025-Q4,485000,,0
+Cobram,2026-Q1,510000,26,0
+Coburg,2025-Q1,1250000,,0
+Coburg,2025-Q2,1230000,,0
+Coburg,2025-Q3,1222000,,0
+Coburg,2025-Q4,1275000,,0
+Coburg,2026-Q1,1300000,52,0
+Coburg East,2025-Q1,1030000,,0
+Coburg East,2025-Q2,1145000,,0
+Coburg East,2025-Q3,1150000,,0
+Coburg East,2025-Q4,1175000,,0
+Coburg East,2026-Q1,1140000,13,0
+Coburg North,2025-Q1,975000,,0
+Coburg North,2025-Q2,1212000,,0
+Coburg North,2025-Q3,989500,,0
+Coburg North,2025-Q4,1160000,,0
+Coburg North,2026-Q1,1020000,13,0
+Cockatoo,2025-Q1,725000,,0
+Cockatoo,2025-Q2,685000,,1
+Cockatoo,2025-Q3,775000,,0
+Cockatoo,2025-Q4,802500,,0
+Cockatoo,2026-Q1,855000,15,0
+Cohuna,2025-Q1,362500,,0
+Cohuna,2025-Q2,320000,,0
+Cohuna,2025-Q3,358000,,0
+Cohuna,2025-Q4,417500,,0
+Cohuna,2026-Q1,365000,8,1
+Colac,2025-Q1,460000,,0
+Colac,2025-Q2,480000,,0
+Colac,2025-Q3,458800,,0
+Colac,2025-Q4,520000,,0
+Colac,2026-Q1,507500,52,0
+Coldstream,2025-Q1,800000,,1
+Coldstream,2025-Q2,840000,,1
+Coldstream,2025-Q3,875000,,1
+Coldstream,2025-Q4,894600,,1
+Coldstream,2026-Q1,1085000,5,1
+Coleraine,2025-Q1,245000,,1
+Coleraine,2025-Q2,245000,,1
+Coleraine,2025-Q3,275000,,1
+Coleraine,2025-Q4,351000,,1
+Coleraine,2026-Q1,351000,0,1
+Collingwood,2025-Q1,1200000,,1
+Collingwood,2025-Q2,1580000,,0
+Collingwood,2025-Q3,1160000,,0
+Collingwood,2025-Q4,1336500,,0
+Collingwood,2026-Q1,1270000,11,0
+Connewarre,2025-Q1,1925000,,1
+Connewarre,2025-Q2,2200000,,1
+Connewarre,2025-Q3,1785000,,1
+Connewarre,2025-Q4,1831000,,1
+Connewarre,2026-Q1,1815000,3,1
+Coolaroo,2025-Q1,601500,,0
+Coolaroo,2025-Q2,601300,,0
+Coolaroo,2025-Q3,630000,,0
+Coolaroo,2025-Q4,662000,,1
+Coolaroo,2026-Q1,660000,10,0
+Coonans Hill,2025-Q1,1545000,,1
+Coonans Hill,2025-Q2,1125000,,0
+Coonans Hill,2025-Q3,1212500,,0
+Coonans Hill,2025-Q4,1260000,,0
+Coonans Hill,2026-Q1,1512500,8,1
+Coongulla,2025-Q1,475000,,1
+Coongulla,2025-Q2,516000,,1
+Coongulla,2025-Q3,470000,,1
+Coongulla,2025-Q4,665000,,1
+Coongulla,2026-Q1,514000,4,1
+Corinella,2025-Q1,643000,,0
+Corinella,2025-Q2,670000,,0
+Corinella,2025-Q3,698800,,0
+Corinella,2025-Q4,686000,,0
+Corinella,2026-Q1,720000,13,0
+Corio,2025-Q1,482500,,0
+Corio,2025-Q2,513500,,0
+Corio,2025-Q3,550000,,0
+Corio,2025-Q4,595000,,0
+Corio,2026-Q1,600000,89,0
+Coronet Bay,2025-Q1,535000,,0
+Coronet Bay,2025-Q2,505000,,0
+Coronet Bay,2025-Q3,596000,,0
+Coronet Bay,2025-Q4,620000,,0
+Coronet Bay,2026-Q1,575000,15,0
+Corryong,2025-Q1,440000,,1
+Corryong,2025-Q2,400000,,1
+Corryong,2025-Q3,375000,,1
+Corryong,2025-Q4,362500,,1
+Corryong,2026-Q1,385000,6,1
+Cowes,2025-Q1,775000,,0
+Cowes,2025-Q2,760000,,1
+Cowes,2025-Q3,815000,,1
+Cowes,2025-Q4,680000,,0
+Cowes,2026-Q1,875000,12,0
+Cowes West,2025-Q1,672500,,0
+Cowes West,2025-Q2,697500,,0
+Cowes West,2025-Q3,690000,,0
+Cowes West,2025-Q4,662500,,0
+Cowes West,2026-Q1,725000,46,0
+Craigieburn,2025-Q1,676500,,0
+Craigieburn,2025-Q2,700000,,0
+Craigieburn,2025-Q3,718000,,0
+Craigieburn,2025-Q4,731000,,0
+Craigieburn,2026-Q1,730000,270,0
+Cranbourne,2025-Q1,659300,,0
+Cranbourne,2025-Q2,710000,,0
+Cranbourne,2025-Q3,715000,,0
+Cranbourne,2025-Q4,718000,,0
+Cranbourne,2026-Q1,737500,90,0
+Cranbourne East,2025-Q1,713500,,0
+Cranbourne East,2025-Q2,730000,,0
+Cranbourne East,2025-Q3,745000,,0
+Cranbourne East,2025-Q4,755000,,0
+Cranbourne East,2026-Q1,765000,97,0
+Cranbourne North,2025-Q1,732500,,0
+Cranbourne North,2025-Q2,770500,,0
+Cranbourne North,2025-Q3,770000,,0
+Cranbourne North,2025-Q4,811000,,0
+Cranbourne North,2026-Q1,813900,76,0
+Cranbourne South,2025-Q1,700000,,0
+Cranbourne South,2025-Q2,700000,,0
+Cranbourne South,2025-Q3,805000,,0
+Cranbourne South,2025-Q4,930000,,0
+Cranbourne South,2026-Q1,840000,21,0
+Cranbourne West,2025-Q1,700000,,0
+Cranbourne West,2025-Q2,700000,,0
+Cranbourne West,2025-Q3,725000,,0
+Cranbourne West,2025-Q4,740000,,0
+Cranbourne West,2026-Q1,760000,79,0
+Cremorne,2025-Q1,1310000,,1
+Cremorne,2025-Q2,1322500,,1
+Cremorne,2025-Q3,1200000,,1
+Cremorne,2025-Q4,1250000,,1
+Cremorne,2026-Q1,1287500,12,0
+Creswick,2025-Q1,575000,,0
+Creswick,2025-Q2,555000,,0
+Creswick,2025-Q3,531300,,0
+Creswick,2025-Q4,595000,,0
+Creswick,2026-Q1,575000,15,0
+Crib Point,2025-Q1,710000,,1
+Crib Point,2025-Q2,835000,,0
+Crib Point,2025-Q3,780000,,0
+Crib Point,2025-Q4,731000,,0
+Crib Point,2026-Q1,887500,12,0
+Croydon,2025-Q1,900000,,0
+Croydon,2025-Q2,885000,,0
+Croydon,2025-Q3,1001500,,0
+Croydon,2025-Q4,985000,,0
+Croydon,2026-Q1,930000,67,0
+Croydon Hills,2025-Q1,1131200,,0
+Croydon Hills,2025-Q2,1152000,,0
+Croydon Hills,2025-Q3,1295000,,0
+Croydon Hills,2025-Q4,1180000,,0
+Croydon Hills,2026-Q1,1138000,11,0
+Croydon North,2025-Q1,968000,,0
+Croydon North,2025-Q2,1100500,,0
+Croydon North,2025-Q3,1180000,,0
+Croydon North,2025-Q4,1212000,,0
+Croydon North,2026-Q1,1137500,12,0
+Croydon South,2025-Q1,917000,,0
+Croydon South,2025-Q2,967500,,0
+Croydon South,2025-Q3,959000,,0
+Croydon South,2025-Q4,985000,,0
+Croydon South,2026-Q1,977500,23,0
+Curlewis,2025-Q1,640800,,0
+Curlewis,2025-Q2,630000,,0
+Curlewis,2025-Q3,691300,,0
+Curlewis,2025-Q4,727500,,0
+Curlewis,2026-Q1,710000,39,0
+Dallas,2025-Q1,519000,,0
+Dallas,2025-Q2,561000,,0
+Dallas,2025-Q3,590000,,0
+Dallas,2025-Q4,640000,,0
+Dallas,2026-Q1,620000,22,0
+Dalyston,2025-Q1,553500,,1
+Dalyston,2025-Q2,500000,,0
+Dalyston,2025-Q3,566300,,1
+Dalyston,2025-Q4,595000,,0
+Dalyston,2026-Q1,557500,8,1
+Dandenong,2025-Q1,726000,,0
+Dandenong,2025-Q2,762500,,0
+Dandenong,2025-Q3,777500,,0
+Dandenong,2025-Q4,761500,,0
+Dandenong,2026-Q1,780000,39,0
+Dandenong North,2025-Q1,750000,,0
+Dandenong North,2025-Q2,790000,,0
+Dandenong North,2025-Q3,783500,,0
+Dandenong North,2025-Q4,832500,,0
+Dandenong North,2026-Q1,840000,51,0
+Darley,2025-Q1,650000,,0
+Darley,2025-Q2,596300,,0
+Darley,2025-Q3,650000,,0
+Darley,2025-Q4,682500,,0
+Darley,2026-Q1,708500,34,0
+Daylesford,2025-Q1,960000,,0
+Daylesford,2025-Q2,700000,,0
+Daylesford,2025-Q3,842500,,0
+Daylesford,2025-Q4,800000,,0
+Daylesford,2026-Q1,700000,13,0
+Deanside,2025-Q1,676000,,0
+Deanside,2025-Q2,686500,,0
+Deanside,2025-Q3,697000,,0
+Deanside,2025-Q4,702000,,0
+Deanside,2026-Q1,685000,71,0
+Deepdene,2025-Q1,2592500,,1
+Deepdene,2025-Q2,3600000,,1
+Deepdene,2025-Q3,3310000,,1
+Deepdene,2025-Q4,2865000,,0
+Deepdene,2026-Q1,2098800,4,1
+Deer Park,2025-Q1,671000,,0
+Deer Park,2025-Q2,680000,,0
+Deer Park,2025-Q3,680500,,0
+Deer Park,2025-Q4,711000,,0
+Deer Park,2026-Q1,714000,43,0
+Delacombe,2025-Q1,513500,,0
+Delacombe,2025-Q2,545000,,0
+Delacombe,2025-Q3,577500,,0
+Delacombe,2025-Q4,623000,,0
+Delacombe,2026-Q1,560000,23,0
+Delahey,2025-Q1,671000,,0
+Delahey,2025-Q2,689000,,0
+Delahey,2025-Q3,753800,,0
+Delahey,2025-Q4,750000,,0
+Delahey,2026-Q1,741000,17,0
+Dennington,2025-Q1,617300,,1
+Dennington,2025-Q2,610000,,0
+Dennington,2025-Q3,640000,,1
+Dennington,2025-Q4,645000,,0
+Dennington,2026-Q1,653500,8,1
+Derrimut,2025-Q1,805000,,0
+Derrimut,2025-Q2,796000,,0
+Derrimut,2025-Q3,823500,,0
+Derrimut,2025-Q4,825000,,0
+Derrimut,2026-Q1,881900,22,0
+Diamond Creek,2025-Q1,1025000,,0
+Diamond Creek,2025-Q2,1065000,,0
+Diamond Creek,2025-Q3,1130000,,0
+Diamond Creek,2025-Q4,1047500,,0
+Diamond Creek,2026-Q1,1070000,39,0
+Diggers Rest,2025-Q1,620000,,0
+Diggers Rest,2025-Q2,672500,,0
+Diggers Rest,2025-Q3,620000,,0
+Diggers Rest,2025-Q4,680000,,0
+Diggers Rest,2026-Q1,670000,41,0
+Dimboola,2025-Q1,250000,,1
+Dimboola,2025-Q2,252500,,0
+Dimboola,2025-Q3,386500,,1
+Dimboola,2025-Q4,306000,,0
+Dimboola,2026-Q1,320000,9,1
+Dingley Village,2025-Q1,1055000,,0
+Dingley Village,2025-Q2,1194000,,0
+Dingley Village,2025-Q3,1246000,,0
+Dingley Village,2025-Q4,1207500,,0
+Dingley Village,2026-Q1,1185000,22,0
+Dinner Plain,2025-Q2,847500,,1
+Dinner Plain,2025-Q3,780000,,1
+Dinner Plain,2025-Q4,825000,,1
+Dinner Plain,2026-Q1,835000,5,1
+Donald,2025-Q1,260000,,1
+Donald,2025-Q2,337500,,1
+Donald,2025-Q3,275000,,1
+Donald,2025-Q4,345000,,1
+Donald,2026-Q1,321000,8,1
+Doncaster,2025-Q1,1510000,,0
+Doncaster,2025-Q2,1590000,,0
+Doncaster,2025-Q3,1590000,,0
+Doncaster,2025-Q4,1555000,,0
+Doncaster,2026-Q1,1500000,45,0
+Doncaster East,2025-Q1,1570000,,0
+Doncaster East,2025-Q2,1555000,,0
+Doncaster East,2025-Q3,1667500,,0
+Doncaster East,2025-Q4,1650000,,0
+Doncaster East,2026-Q1,1613000,69,0
+Donnybrook,2025-Q1,650200,,0
+Donnybrook,2025-Q2,650000,,0
+Donnybrook,2025-Q3,666000,,0
+Donnybrook,2025-Q4,660500,,0
+Donnybrook,2026-Q1,670000,135,0
+Donvale,2025-Q1,1460000,,0
+Donvale,2025-Q2,1507500,,0
+Donvale,2025-Q3,1617500,,0
+Donvale,2025-Q4,1567500,,0
+Donvale,2026-Q1,1300000,14,0
+Doreen,2025-Q1,771000,,0
+Doreen,2025-Q2,757500,,0
+Doreen,2025-Q3,795000,,0
+Doreen,2025-Q4,835000,,0
+Doreen,2026-Q1,860000,95,0
+Doveton,2025-Q1,610000,,0
+Doveton,2025-Q2,628000,,0
+Doveton,2025-Q3,633000,,0
+Doveton,2025-Q4,665000,,0
+Doveton,2026-Q1,660000,40,0
+Dromana,2025-Q1,950000,,0
+Dromana,2025-Q2,1000000,,0
+Dromana,2025-Q3,891300,,0
+Dromana,2025-Q4,1050000,,0
+Dromana,2026-Q1,965000,29,0
+Drouin,2025-Q1,625000,,0
+Drouin,2025-Q2,640000,,0
+Drouin,2025-Q3,630000,,0
+Drouin,2025-Q4,651000,,0
+Drouin,2026-Q1,650000,88,0
+Drysdale,2025-Q1,633800,,0
+Drysdale,2025-Q2,745000,,0
+Drysdale,2025-Q3,730000,,0
+Drysdale,2025-Q4,696500,,0
+Drysdale,2026-Q1,711000,18,0
+Dunkeld,2025-Q1,440000,,1
+Dunkeld,2025-Q2,417500,,1
+Dunkeld,2025-Q3,575000,,1
+Dunkeld,2025-Q4,522500,,1
+Dunkeld,2026-Q1,322500,2,1
+Dunolly,2025-Q1,332500,,1
+Dunolly,2025-Q2,310000,,1
+Dunolly,2025-Q3,380000,,1
+Dunolly,2025-Q4,355000,,1
+Dunolly,2026-Q1,328500,2,1
+Eagle Point,2025-Q1,637500,,1
+Eagle Point,2025-Q2,557500,,1
+Eagle Point,2025-Q3,755000,,1
+Eagle Point,2025-Q4,569000,,1
+Eagle Point,2026-Q1,651300,6,1
+Eaglehawk,2025-Q1,531300,,0
+Eaglehawk,2025-Q2,587500,,0
+Eaglehawk,2025-Q3,567500,,0
+Eaglehawk,2025-Q4,615000,,0
+Eaglehawk,2026-Q1,627000,21,0
+Eaglemont,2025-Q1,2805000,,1
+Eaglemont,2025-Q2,2280000,,0
+Eaglemont,2025-Q3,2360000,,0
+Eaglemont,2025-Q4,2581000,,0
+Eaglemont,2026-Q1,2600000,15,0
+East Bairnsdale,2025-Q1,335000,,1
+East Bairnsdale,2025-Q2,362500,,0
+East Bairnsdale,2025-Q3,487000,,1
+East Bairnsdale,2025-Q4,410000,,0
+East Bairnsdale,2026-Q1,470000,5,1
+East Bendigo,2025-Q1,502500,,0
+East Bendigo,2025-Q2,520000,,0
+East Bendigo,2025-Q3,527500,,0
+East Bendigo,2025-Q4,620000,,0
+East Bendigo,2026-Q1,780000,15,0
+East Geelong,2025-Q1,746300,,0
+East Geelong,2025-Q2,790000,,0
+East Geelong,2025-Q3,880000,,0
+East Geelong,2025-Q4,902500,,0
+East Geelong,2026-Q1,822500,20,0
+East Melbourne,2025-Q1,1702000,,1
+East Melbourne,2025-Q2,3050000,,1
+East Melbourne,2025-Q3,1885000,,1
+East Melbourne,2025-Q4,3212500,,1
+East Melbourne,2026-Q1,3176300,2,1
+East Warburton,2025-Q1,600000,,1
+East Warburton,2025-Q2,695000,,1
+East Warburton,2025-Q3,640000,,1
+East Warburton,2025-Q4,640000,,1
+East Warburton,2026-Q1,732500,4,1
+Eastwood,2025-Q1,632500,,0
+Eastwood,2025-Q2,590000,,0
+Eastwood,2025-Q3,635000,,0
+Eastwood,2025-Q4,689000,,0
+Eastwood,2026-Q1,596000,14,0
+Echuca,2025-Q1,579000,,0
+Echuca,2025-Q2,631300,,0
+Echuca,2025-Q3,615000,,0
+Echuca,2025-Q4,600000,,0
+Echuca,2026-Q1,615000,59,0
+Edenhope,2025-Q1,307500,,1
+Edenhope,2025-Q2,240000,,1
+Edenhope,2025-Q3,209500,,1
+Edenhope,2025-Q4,310000,,1
+Edenhope,2026-Q1,315000,4,1
+Edithvale,2025-Q1,1379900,,0
+Edithvale,2025-Q2,1280000,,0
+Edithvale,2025-Q3,1347500,,0
+Edithvale,2025-Q4,1305000,,0
+Edithvale,2026-Q1,1385000,19,0
+Eildon,2025-Q1,457500,,1
+Eildon,2025-Q2,322500,,1
+Eildon,2025-Q3,381000,,1
+Eildon,2025-Q4,317500,,0
+Eildon,2026-Q1,467500,6,1
+Elliminyt,2025-Q1,612500,,1
+Elliminyt,2025-Q2,735000,,0
+Elliminyt,2025-Q3,570000,,0
+Elliminyt,2025-Q4,675000,,0
+Elliminyt,2026-Q1,707500,12,0
+Elmore,2025-Q1,455000,,1
+Elmore,2025-Q2,435000,,1
+Elmore,2025-Q3,447500,,1
+Elmore,2025-Q4,510000,,1
+Elmore,2026-Q1,431000,8,1
+Elsternwick,2025-Q1,2030000,,0
+Elsternwick,2025-Q2,1902000,,0
+Elsternwick,2025-Q3,2300000,,0
+Elsternwick,2025-Q4,2275000,,0
+Elsternwick,2026-Q1,1925000,15,0
+Eltham,2025-Q1,1200000,,0
+Eltham,2025-Q2,1263500,,0
+Eltham,2025-Q3,1251000,,0
+Eltham,2025-Q4,1273000,,0
+Eltham,2026-Q1,1288500,40,0
+Eltham North,2025-Q1,1216000,,0
+Eltham North,2025-Q2,1331000,,0
+Eltham North,2025-Q3,1270000,,0
+Eltham North,2025-Q4,1218900,,0
+Eltham North,2026-Q1,1210000,21,0
+Elwood,2025-Q1,2542500,,0
+Elwood,2025-Q2,2332500,,0
+Elwood,2025-Q3,2150000,,0
+Elwood,2025-Q4,1910000,,0
+Elwood,2026-Q1,2230000,25,0
+Emerald,2025-Q1,937000,,0
+Emerald,2025-Q2,925000,,0
+Emerald,2025-Q3,920000,,0
+Emerald,2025-Q4,890000,,0
+Emerald,2026-Q1,895300,12,0
+Endeavour Hills,2025-Q1,802500,,0
+Endeavour Hills,2025-Q2,797500,,0
+Endeavour Hills,2025-Q3,849500,,0
+Endeavour Hills,2025-Q4,900000,,0
+Endeavour Hills,2026-Q1,890000,63,0
+Epping,2025-Q1,652000,,0
+Epping,2025-Q2,723000,,0
+Epping,2025-Q3,736000,,0
+Epping,2025-Q4,760000,,0
+Epping,2026-Q1,750000,91,0
+Epsom,2025-Q1,585000,,0
+Epsom,2025-Q2,632500,,0
+Epsom,2025-Q3,642500,,0
+Epsom,2025-Q4,667800,,0
+Epsom,2026-Q1,672500,18,0
+Essendon,2025-Q1,1560000,,0
+Essendon,2025-Q2,1715000,,0
+Essendon,2025-Q3,1796800,,0
+Essendon,2025-Q4,2050000,,0
+Essendon,2026-Q1,1858500,50,0
+Essendon North,2025-Q1,1180000,,1
+Essendon North,2025-Q2,981000,,1
+Essendon North,2025-Q3,1630000,,1
+Essendon North,2025-Q4,1370000,,1
+Essendon North,2026-Q1,1584000,6,1
+Essendon West,2025-Q1,1525000,,1
+Essendon West,2025-Q2,1581300,,1
+Essendon West,2025-Q3,1575000,,1
+Essendon West,2025-Q4,1390000,,1
+Essendon West,2026-Q1,1850000,1,1
+Eumemmerring,2025-Q1,690000,,1
+Eumemmerring,2025-Q2,720000,,1
+Eumemmerring,2025-Q3,740000,,1
+Eumemmerring,2025-Q4,731500,,1
+Eumemmerring,2026-Q1,550000,2,1
+Eureka,2025-Q1,500000,,1
+Eureka,2025-Q2,337000,,1
+Eureka,2025-Q3,485000,,1
+Eureka,2025-Q4,533800,,1
+Eureka,2026-Q1,470800,4,1
+Euroa,2025-Q1,480000,,0
+Euroa,2025-Q2,465000,,0
+Euroa,2025-Q3,409400,,0
+Euroa,2025-Q4,545000,,0
+Euroa,2026-Q1,545000,22,0
+Eynesbury,2025-Q1,749000,,0
+Eynesbury,2025-Q2,710000,,0
+Eynesbury,2025-Q3,667500,,0
+Eynesbury,2025-Q4,740000,,0
+Eynesbury,2026-Q1,652500,28,0
+Fairfield,2025-Q1,1647000,,0
+Fairfield,2025-Q2,2050000,,0
+Fairfield,2025-Q3,1800000,,0
+Fairfield,2025-Q4,1800000,,0
+Fairfield,2026-Q1,2125000,8,1
+Fairhaven,2025-Q1,2306500,,1
+Fairhaven,2025-Q2,1725000,,1
+Fairhaven,2025-Q3,1565000,,1
+Fairhaven,2025-Q4,775000,,1
+Fairhaven,2026-Q1,1882500,6,1
+Fawkner,2025-Q1,812000,,0
+Fawkner,2025-Q2,800000,,0
+Fawkner,2025-Q3,825000,,0
+Fawkner,2025-Q4,871000,,0
+Fawkner,2026-Q1,880000,41,0
+Ferntree Gully,2025-Q1,902000,,0
+Ferntree Gully,2025-Q2,899800,,0
+Ferntree Gully,2025-Q3,931000,,0
+Ferntree Gully,2025-Q4,960000,,0
+Ferntree Gully,2026-Q1,970000,62,0
+Ferny Creek,2025-Q1,1012000,,1
+Ferny Creek,2025-Q2,1020000,,1
+Ferny Creek,2025-Q3,1342500,,1
+Ferny Creek,2025-Q4,1045000,,1
+Ferny Creek,2026-Q1,1320000,5,1
+Fingal,2025-Q1,1242500,,1
+Fingal,2025-Q2,1870000,,1
+Fingal,2025-Q3,2005000,,1
+Fingal,2025-Q4,1780000,,1
+Fingal,2026-Q1,2137500,2,1
+Fitzroy,2025-Q1,1635000,,0
+Fitzroy,2025-Q2,1887500,,0
+Fitzroy,2025-Q3,1600000,,0
+Fitzroy,2025-Q4,1350000,,0
+Fitzroy,2026-Q1,1760000,21,0
+Fitzroy North,2025-Q1,1415000,,0
+Fitzroy North,2025-Q2,1790500,,0
+Fitzroy North,2025-Q3,1605000,,0
+Fitzroy North,2025-Q4,1799000,,0
+Fitzroy North,2026-Q1,1782500,48,0
+Flemington,2025-Q1,1140300,,0
+Flemington,2025-Q2,1165500,,0
+Flemington,2025-Q3,1185000,,0
+Flemington,2025-Q4,1100000,,0
+Flemington,2026-Q1,1100000,21,0
+Flinders,2025-Q1,3250000,,1
+Flinders,2025-Q2,1805000,,1
+Flinders,2025-Q3,2587500,,1
+Flinders,2025-Q4,1850000,,0
+Flinders,2026-Q1,2491500,4,1
+Flora Hill,2025-Q1,520500,,0
+Flora Hill,2025-Q2,634000,,0
+Flora Hill,2025-Q3,590000,,0
+Flora Hill,2025-Q4,591000,,0
+Flora Hill,2026-Q1,612500,17,0
+Footscray,2025-Q1,955000,,0
+Footscray,2025-Q2,880000,,0
+Footscray,2025-Q3,980000,,0
+Footscray,2025-Q4,950000,,0
+Footscray,2026-Q1,890000,37,0
+Forest Hill,2025-Q1,1210000,,0
+Forest Hill,2025-Q2,1180000,,0
+Forest Hill,2025-Q3,1237500,,0
+Forest Hill,2025-Q4,1279000,,0
+Forest Hill,2026-Q1,1298000,26,0
+Foster,2025-Q1,485000,,1
+Foster,2025-Q2,620000,,1
+Foster,2025-Q3,665000,,1
+Foster,2025-Q4,427500,,1
+Foster,2026-Q1,488500,8,1
+Frankston,2025-Q1,750000,,0
+Frankston,2025-Q2,810000,,0
+Frankston,2025-Q3,850000,,0
+Frankston,2025-Q4,882500,,0
+Frankston,2026-Q1,881000,126,0
+Frankston North,2025-Q1,625000,,0
+Frankston North,2025-Q2,670000,,0
+Frankston North,2025-Q3,700000,,0
+Frankston North,2025-Q4,738500,,0
+Frankston North,2026-Q1,706500,36,0
+Frankston South,2025-Q1,1200000,,0
+Frankston South,2025-Q2,1220000,,0
+Frankston South,2025-Q3,1210000,,0
+Frankston South,2025-Q4,1201000,,0
+Frankston South,2026-Q1,1311000,49,0
+Fraser Rise,2025-Q1,699000,,0
+Fraser Rise,2025-Q2,700000,,0
+Fraser Rise,2025-Q3,680000,,0
+Fraser Rise,2025-Q4,698000,,0
+Fraser Rise,2026-Q1,698000,119,0
+Fyansford,2025-Q1,965000,,1
+Fyansford,2025-Q2,955000,,0
+Fyansford,2025-Q3,960000,,1
+Fyansford,2025-Q4,895000,,0
+Fyansford,2026-Q1,945000,9,1
+Garden City,2025-Q1,2214000,,1
+Garden City,2025-Q2,1875000,,1
+Garden City,2025-Q3,1850000,,1
+Garden City,2025-Q4,2188500,,1
+Garden City,2026-Q1,1790000,4,1
+Gardenvale,2025-Q1,2221000,,1
+Gardenvale,2025-Q2,1764000,,1
+Gardenvale,2025-Q3,2530000,,1
+Gardenvale,2025-Q4,2530000,,1
+Gardenvale,2026-Q1,1855000,2,1
+Garfield,2025-Q1,862500,,1
+Garfield,2025-Q2,847500,,1
+Garfield,2025-Q3,726300,,1
+Garfield,2025-Q4,850000,,0
+Garfield,2026-Q1,720000,5,1
+Geelong,2025-Q1,915000,,0
+Geelong,2025-Q2,865500,,0
+Geelong,2025-Q3,860000,,0
+Geelong,2025-Q4,960000,,0
+Geelong,2026-Q1,825000,19,0
+Geelong West,2025-Q1,910000,,0
+Geelong West,2025-Q2,810000,,0
+Geelong West,2025-Q3,842500,,0
+Geelong West,2025-Q4,840500,,0
+Geelong West,2026-Q1,885000,35,0
+Gembrook,2025-Q1,1012300,,1
+Gembrook,2025-Q2,721800,,1
+Gembrook,2025-Q3,1032500,,1
+Gembrook,2025-Q4,867500,,1
+Gembrook,2026-Q1,800000,5,1
+Gisborne,2025-Q1,1065000,,0
+Gisborne,2025-Q2,967500,,0
+Gisborne,2025-Q3,1000000,,0
+Gisborne,2025-Q4,960000,,0
+Gisborne,2026-Q1,983000,40,0
+Gladstone Park,2025-Q1,805000,,0
+Gladstone Park,2025-Q2,752000,,0
+Gladstone Park,2025-Q3,796500,,0
+Gladstone Park,2025-Q4,850000,,0
+Gladstone Park,2026-Q1,800000,23,0
+Glen Huntly,2025-Q1,1907000,,1
+Glen Huntly,2025-Q2,1517500,,1
+Glen Huntly,2025-Q3,2353000,,1
+Glen Huntly,2025-Q4,1970000,,1
+Glen Huntly,2026-Q1,1928000,2,1
+Glen Iris,2025-Q1,2211500,,0
+Glen Iris,2025-Q2,2775000,,0
+Glen Iris,2025-Q3,2667500,,0
+Glen Iris,2025-Q4,2750000,,0
+Glen Iris,2026-Q1,2120000,30,0
+Glen Waverley,2025-Q1,1632900,,0
+Glen Waverley,2025-Q2,1728500,,0
+Glen Waverley,2025-Q3,1788900,,0
+Glen Waverley,2025-Q4,1800000,,0
+Glen Waverley,2026-Q1,1702500,74,0
+Glengarry,2025-Q1,789500,,1
+Glengarry,2025-Q2,505000,,1
+Glengarry,2025-Q3,660000,,1
+Glengarry,2025-Q4,567500,,1
+Glengarry,2026-Q1,600000,5,1
+Glenrowan,2025-Q1,580000,,1
+Glenrowan,2025-Q2,680000,,1
+Glenrowan,2025-Q3,670000,,1
+Glenrowan,2025-Q4,420000,,1
+Glenrowan,2026-Q1,562500,4,1
+Glenroy,2025-Q1,875000,,0
+Glenroy,2025-Q2,825000,,0
+Glenroy,2025-Q3,851100,,0
+Glenroy,2025-Q4,911000,,0
+Glenroy,2026-Q1,950000,40,0
+Golden Beach,2025-Q1,335000,,1
+Golden Beach,2025-Q2,400000,,1
+Golden Beach,2025-Q3,310000,,1
+Golden Beach,2025-Q4,390000,,1
+Golden Beach,2026-Q1,350000,5,1
+Golden Point (ballarat),2025-Q1,476000,,0
+Golden Point (ballarat),2025-Q2,525000,,0
+Golden Point (ballarat),2025-Q3,516500,,0
+Golden Point (ballarat),2025-Q4,549000,,0
+Golden Point (ballarat),2026-Q1,505000,28,0
+Golden Square,2025-Q1,525000,,0
+Golden Square,2025-Q2,550000,,0
+Golden Square,2025-Q3,565000,,0
+Golden Square,2025-Q4,610000,,0
+Golden Square,2026-Q1,620000,52,0
+Gordon,2025-Q1,627500,,1
+Gordon,2025-Q2,850000,,1
+Gordon,2025-Q3,655000,,1
+Gordon,2025-Q4,850000,,1
+Gordon,2026-Q1,810000,4,1
+Gowanbrae,2025-Q1,992500,,1
+Gowanbrae,2025-Q2,880000,,1
+Gowanbrae,2025-Q3,1097000,,1
+Gowanbrae,2025-Q4,960000,,1
+Gowanbrae,2026-Q1,1246000,3,1
+Grantville,2025-Q1,588000,,1
+Grantville,2025-Q2,605000,,1
+Grantville,2025-Q3,575000,,1
+Grantville,2025-Q4,630000,,1
+Grantville,2026-Q1,585000,7,1
+Green Lake,2025-Q1,556000,,1
+Green Lake,2025-Q2,442500,,1
+Green Lake,2025-Q3,518100,,1
+Green Lake,2025-Q4,517000,,1
+Green Lake,2026-Q1,523000,6,1
+Greensborough,2025-Q1,1005500,,0
+Greensborough,2025-Q2,1032000,,0
+Greensborough,2025-Q3,1030000,,0
+Greensborough,2025-Q4,1015000,,0
+Greensborough,2026-Q1,1042500,56,0
+Greenvale,2025-Q1,867500,,0
+Greenvale,2025-Q2,880000,,0
+Greenvale,2025-Q3,860000,,0
+Greenvale,2025-Q4,913800,,0
+Greenvale,2026-Q1,883500,117,0
+Grovedale,2025-Q1,650000,,0
+Grovedale,2025-Q2,675000,,0
+Grovedale,2025-Q3,695000,,0
+Grovedale,2025-Q4,740500,,0
+Grovedale,2026-Q1,749500,66,0
+Hadfield,2025-Q1,900500,,0
+Hadfield,2025-Q2,821000,,0
+Hadfield,2025-Q3,930000,,0
+Hadfield,2025-Q4,912500,,0
+Hadfield,2026-Q1,962500,20,0
+Hallam,2025-Q1,752500,,0
+Hallam,2025-Q2,740000,,0
+Hallam,2025-Q3,792500,,0
+Hallam,2025-Q4,830000,,0
+Hallam,2026-Q1,805000,22,0
+Halls Gap,2025-Q1,582500,,1
+Halls Gap,2025-Q2,720000,,1
+Halls Gap,2025-Q3,505000,,1
+Halls Gap,2025-Q4,681000,,1
+Halls Gap,2026-Q1,540000,3,1
+Hamilton,2025-Q1,420000,,0
+Hamilton,2025-Q2,389000,,0
+Hamilton,2025-Q3,390000,,0
+Hamilton,2025-Q4,445000,,0
+Hamilton,2026-Q1,417900,61,0
+Hamlyn Heights,2025-Q1,743500,,0
+Hamlyn Heights,2025-Q2,722500,,0
+Hamlyn Heights,2025-Q3,733000,,0
+Hamlyn Heights,2025-Q4,760000,,0
+Hamlyn Heights,2026-Q1,788300,36,0
+Hampton,2025-Q1,2310000,,0
+Hampton,2025-Q2,2250000,,0
+Hampton,2025-Q3,2442500,,0
+Hampton,2025-Q4,2269000,,0
+Hampton,2026-Q1,2384000,30,0
+Hampton East,2025-Q1,1450000,,0
+Hampton East,2025-Q2,1642500,,0
+Hampton East,2025-Q3,1451500,,0
+Hampton East,2025-Q4,1526000,,0
+Hampton East,2026-Q1,1835000,11,0
+Hampton Park,2025-Q1,660000,,0
+Hampton Park,2025-Q2,675000,,0
+Hampton Park,2025-Q3,720000,,0
+Hampton Park,2025-Q4,735000,,0
+Hampton Park,2026-Q1,730000,85,0
+Harcourt,2025-Q1,360000,,1
+Harcourt,2025-Q2,500000,,1
+Harcourt,2025-Q3,715000,,1
+Harcourt,2025-Q4,730000,,1
+Harcourt,2026-Q1,741800,2,1
+Harkness,2025-Q1,563000,,0
+Harkness,2025-Q2,590000,,0
+Harkness,2025-Q3,570000,,0
+Harkness,2025-Q4,637000,,0
+Harkness,2026-Q1,650000,78,0
+Hastings,2025-Q1,672500,,0
+Hastings,2025-Q2,723800,,0
+Hastings,2025-Q3,810000,,0
+Hastings,2025-Q4,742500,,0
+Hastings,2026-Q1,780000,26,0
+Hastings West,2025-Q1,652500,,1
+Hastings West,2025-Q2,665000,,0
+Hastings West,2025-Q3,695000,,1
+Hastings West,2025-Q4,657500,,1
+Hastings West,2026-Q1,715000,12,0
+Hawthorn,2025-Q1,3210000,,0
+Hawthorn,2025-Q2,3330000,,0
+Hawthorn,2025-Q3,2877500,,0
+Hawthorn,2025-Q4,3222500,,0
+Hawthorn,2026-Q1,2325000,40,0
+Hawthorn East,2025-Q1,2605000,,0
+Hawthorn East,2025-Q2,2645000,,0
+Hawthorn East,2025-Q3,2500000,,0
+Hawthorn East,2025-Q4,2950000,,0
+Hawthorn East,2026-Q1,2098500,26,0
+Healesville,2025-Q1,790000,,0
+Healesville,2025-Q2,805000,,0
+Healesville,2025-Q3,806000,,0
+Healesville,2025-Q4,850000,,0
+Healesville,2026-Q1,810000,19,0
+Heathcote,2025-Q1,468000,,0
+Heathcote,2025-Q2,440000,,0
+Heathcote,2025-Q3,487500,,0
+Heathcote,2025-Q4,550000,,0
+Heathcote,2026-Q1,497500,12,0
+Heatherton,2025-Q1,1050000,,1
+Heatherton,2025-Q2,1065000,,1
+Heatherton,2025-Q3,1160000,,1
+Heatherton,2025-Q4,1152500,,1
+Heatherton,2026-Q1,1117000,8,1
+Heathmont,2025-Q1,1115000,,0
+Heathmont,2025-Q2,1120000,,0
+Heathmont,2025-Q3,1070000,,0
+Heathmont,2025-Q4,1162500,,0
+Heathmont,2026-Q1,989800,26,0
+Heidelberg,2025-Q1,1437500,,0
+Heidelberg,2025-Q2,1472500,,0
+Heidelberg,2025-Q3,1678000,,0
+Heidelberg,2025-Q4,1602800,,1
+Heidelberg,2026-Q1,1493000,8,1
+Heidelberg Heights,2025-Q1,900000,,0
+Heidelberg Heights,2025-Q2,891500,,0
+Heidelberg Heights,2025-Q3,887500,,0
+Heidelberg Heights,2025-Q4,1052500,,0
+Heidelberg Heights,2026-Q1,1050000,11,0
+Heidelberg West,2025-Q1,847500,,0
+Heidelberg West,2025-Q2,803800,,0
+Heidelberg West,2025-Q3,803000,,0
+Heidelberg West,2025-Q4,730000,,0
+Heidelberg West,2026-Q1,811000,17,0
+Hepburn Springs,2025-Q1,825000,,1
+Hepburn Springs,2025-Q2,756000,,1
+Hepburn Springs,2025-Q3,750000,,1
+Hepburn Springs,2025-Q4,772500,,1
+Hepburn Springs,2026-Q1,690000,2,1
+Herne Hill,2025-Q1,710000,,0
+Herne Hill,2025-Q2,705000,,0
+Herne Hill,2025-Q3,802500,,0
+Herne Hill,2025-Q4,800000,,0
+Herne Hill,2026-Q1,812500,20,0
+Heyfield,2025-Q1,400000,,0
+Heyfield,2025-Q2,396000,,1
+Heyfield,2025-Q3,462500,,0
+Heyfield,2025-Q4,357500,,1
+Heyfield,2026-Q1,399000,16,0
+Heywood,2025-Q1,322500,,1
+Heywood,2025-Q2,353000,,0
+Heywood,2025-Q3,340000,,1
+Heywood,2025-Q4,430000,,1
+Heywood,2026-Q1,320000,4,1
+Highett,2025-Q1,1442000,,0
+Highett,2025-Q2,1490000,,0
+Highett,2025-Q3,1495000,,0
+Highett,2025-Q4,1505000,,0
+Highett,2026-Q1,1350000,41,0
+Highton,2025-Q1,846000,,0
+Highton,2025-Q2,902500,,0
+Highton,2025-Q3,895000,,0
+Highton,2025-Q4,894000,,0
+Highton,2026-Q1,906000,77,0
+Hillside (greater Melbourne),2025-Q1,545000,,1
+Hillside (greater Melbourne),2025-Q2,734500,,1
+Hillside (greater Melbourne),2025-Q3,800000,,1
+Hillside (greater Melbourne),2025-Q4,812500,,1
+Hillside (greater Melbourne),2026-Q1,653000,2,1
+Hillside (melton),2025-Q1,825000,,0
+Hillside (melton),2025-Q2,789300,,0
+Hillside (melton),2025-Q3,815000,,0
+Hillside (melton),2025-Q4,847500,,0
+Hillside (melton),2026-Q1,835000,40,0
+Hopetoun,2025-Q1,185000,,1
+Hopetoun,2025-Q2,155000,,1
+Hopetoun,2025-Q3,255000,,1
+Hopetoun,2025-Q4,200000,,1
+Hopetoun,2026-Q1,299500,2,1
+Hoppers Crossing,2025-Q1,620000,,0
+Hoppers Crossing,2025-Q2,660000,,0
+Hoppers Crossing,2025-Q3,685000,,0
+Hoppers Crossing,2025-Q4,700000,,0
+Hoppers Crossing,2026-Q1,720000,132,0
+Horsham,2025-Q1,413100,,0
+Horsham,2025-Q2,380000,,0
+Horsham,2025-Q3,449500,,0
+Horsham,2025-Q4,481000,,0
+Horsham,2026-Q1,455000,73,0
+Hughesdale,2025-Q1,1445000,,0
+Hughesdale,2025-Q2,1500000,,0
+Hughesdale,2025-Q3,1530000,,0
+Hughesdale,2025-Q4,1735000,,0
+Hughesdale,2026-Q1,1571000,6,1
+Huntingdale,2025-Q1,1260500,,1
+Huntingdale,2025-Q2,1140300,,0
+Huntingdale,2025-Q3,1295000,,1
+Huntingdale,2025-Q4,1280000,,1
+Huntingdale,2026-Q1,1361000,4,1
+Huntly,2025-Q1,549000,,0
+Huntly,2025-Q2,571300,,0
+Huntly,2025-Q3,610000,,0
+Huntly,2025-Q4,650000,,0
+Huntly,2026-Q1,664500,35,0
+Hurstbridge,2025-Q1,990000,,1
+Hurstbridge,2025-Q2,930000,,0
+Hurstbridge,2025-Q3,950000,,1
+Hurstbridge,2025-Q4,991000,,0
+Hurstbridge,2026-Q1,980000,3,1
+Indented Head,2025-Q1,730000,,0
+Indented Head,2025-Q2,827500,,1
+Indented Head,2025-Q3,625000,,1
+Indented Head,2025-Q4,600800,,0
+Indented Head,2026-Q1,712500,18,0
+Inglewood,2025-Q1,425000,,1
+Inglewood,2025-Q2,422500,,1
+Inglewood,2025-Q3,415000,,1
+Inglewood,2025-Q4,377500,,1
+Inglewood,2026-Q1,490000,4,1
+Inverloch,2025-Q1,850000,,0
+Inverloch,2025-Q2,792500,,0
+Inverloch,2025-Q3,952500,,0
+Inverloch,2025-Q4,835000,,0
+Inverloch,2026-Q1,838500,50,0
+Invermay Park,2025-Q1,605000,,1
+Invermay Park,2025-Q2,700000,,1
+Invermay Park,2025-Q3,660000,,0
+Invermay Park,2025-Q4,625000,,1
+Invermay Park,2026-Q1,790000,7,1
+Ironbark,2025-Q1,475000,,1
+Ironbark,2025-Q2,645000,,1
+Ironbark,2025-Q3,495000,,1
+Ironbark,2025-Q4,525000,,0
+Ironbark,2026-Q1,582500,6,1
+Irymple,2025-Q1,645000,,0
+Irymple,2025-Q2,625000,,0
+Irymple,2025-Q3,636000,,0
+Irymple,2025-Q4,635000,,0
+Irymple,2026-Q1,690000,25,0
+Ivanhoe,2025-Q1,2162500,,0
+Ivanhoe,2025-Q2,2025000,,0
+Ivanhoe,2025-Q3,1840000,,0
+Ivanhoe,2025-Q4,1998000,,0
+Ivanhoe,2026-Q1,1793000,22,0
+Ivanhoe East,2025-Q1,2355000,,1
+Ivanhoe East,2025-Q2,2640000,,0
+Ivanhoe East,2025-Q3,2454000,,1
+Ivanhoe East,2025-Q4,2387500,,0
+Ivanhoe East,2026-Q1,2300000,3,1
+Jacana,2025-Q1,623500,,0
+Jacana,2025-Q2,610000,,1
+Jacana,2025-Q3,730000,,1
+Jacana,2025-Q4,660000,,1
+Jacana,2026-Q1,550000,3,1
+Jackass Flat,2025-Q1,545000,,1
+Jackass Flat,2025-Q2,632300,,0
+Jackass Flat,2025-Q3,638500,,0
+Jackass Flat,2025-Q4,645000,,0
+Jackass Flat,2026-Q1,695500,9,1
+Jamieson,2025-Q1,565000,,1
+Jamieson,2025-Q2,525000,,1
+Jamieson,2025-Q3,400000,,1
+Jamieson,2025-Q4,590000,,1
+Jamieson,2026-Q1,500000,3,1
+Jan Juc,2025-Q1,1230000,,0
+Jan Juc,2025-Q2,1320000,,0
+Jan Juc,2025-Q3,1390000,,0
+Jan Juc,2025-Q4,1500000,,0
+Jan Juc,2026-Q1,1305000,13,0
+Jeeralang North,2025-Q1,458500,,1
+Jeeralang North,2025-Q2,442500,,0
+Jeeralang North,2025-Q3,550000,,0
+Jeeralang North,2025-Q4,421000,,0
+Jeeralang North,2026-Q1,442000,9,1
+Jeparit,2025-Q1,191500,,1
+Jeparit,2025-Q2,149000,,1
+Jeparit,2025-Q3,157500,,1
+Jeparit,2025-Q4,212000,,1
+Jeparit,2026-Q1,130000,3,1
+Junction Village,2025-Q1,660000,,1
+Junction Village,2025-Q2,700000,,0
+Junction Village,2025-Q3,695000,,0
+Junction Village,2025-Q4,662500,,1
+Junction Village,2026-Q1,785000,13,0
+Junortoun,2025-Q1,806000,,0
+Junortoun,2025-Q2,967500,,1
+Junortoun,2025-Q3,815000,,0
+Junortoun,2025-Q4,857000,,0
+Junortoun,2026-Q1,934300,4,1
+Kalimna,2025-Q1,557500,,1
+Kalimna,2025-Q2,470000,,0
+Kalimna,2025-Q3,580000,,1
+Kalimna,2025-Q4,540000,,1
+Kalimna,2026-Q1,575000,7,1
+Kalkallo,2025-Q1,630000,,0
+Kalkallo,2025-Q2,635000,,0
+Kalkallo,2025-Q3,610000,,0
+Kalkallo,2025-Q4,658000,,0
+Kalkallo,2026-Q1,667500,100,0
+Kallista,2025-Q1,900000,,1
+Kallista,2025-Q2,890000,,1
+Kallista,2025-Q3,742900,,1
+Kallista,2025-Q4,820500,,1
+Kallista,2026-Q1,1031500,6,1
+Kalorama,2025-Q1,815000,,1
+Kalorama,2025-Q2,1121500,,1
+Kalorama,2025-Q3,923500,,1
+Kalorama,2025-Q4,857000,,0
+Kalorama,2026-Q1,787500,6,1
+Kangaroo Flat,2025-Q1,556300,,0
+Kangaroo Flat,2025-Q2,555000,,0
+Kangaroo Flat,2025-Q3,574000,,0
+Kangaroo Flat,2025-Q4,601500,,0
+Kangaroo Flat,2026-Q1,632500,38,0
+Kangaroo Ground South,2025-Q1,1001000,,1
+Kangaroo Ground South,2025-Q2,1362500,,1
+Kangaroo Ground South,2025-Q3,1312500,,1
+Kangaroo Ground South,2025-Q4,1700500,,1
+Kangaroo Ground South,2026-Q1,1107500,6,1
+Kaniva,2025-Q1,156000,,1
+Kaniva,2025-Q2,182000,,0
+Kaniva,2025-Q3,182000,,1
+Kaniva,2025-Q4,190000,,1
+Kaniva,2026-Q1,230500,4,1
+Kealba,2025-Q1,707500,,1
+Kealba,2025-Q2,773000,,0
+Kealba,2025-Q3,745000,,0
+Kealba,2025-Q4,752000,,0
+Kealba,2026-Q1,790000,11,0
+Keilor,2025-Q1,1262000,,0
+Keilor,2025-Q2,1095000,,0
+Keilor,2025-Q3,1055500,,0
+Keilor,2025-Q4,1203000,,0
+Keilor,2026-Q1,1230000,13,0
+Keilor Downs,2025-Q1,815000,,0
+Keilor Downs,2025-Q2,888800,,0
+Keilor Downs,2025-Q3,811500,,0
+Keilor Downs,2025-Q4,891000,,0
+Keilor Downs,2026-Q1,875000,17,0
+Keilor East,2025-Q1,930000,,0
+Keilor East,2025-Q2,1040000,,0
+Keilor East,2025-Q3,1067500,,0
+Keilor East,2025-Q4,1145000,,0
+Keilor East,2026-Q1,1150000,39,0
+Keilor Lodge,2025-Q1,1007500,,1
+Keilor Lodge,2025-Q2,1160000,,1
+Keilor Lodge,2025-Q3,890000,,1
+Keilor Lodge,2025-Q4,1090500,,1
+Keilor Lodge,2026-Q1,1095500,6,1
+Keilor Park,2025-Q1,850000,,1
+Keilor Park,2025-Q2,821000,,0
+Keilor Park,2025-Q3,860500,,1
+Keilor Park,2025-Q4,936300,,0
+Keilor Park,2026-Q1,960000,15,0
+Kennington,2025-Q1,587500,,0
+Kennington,2025-Q2,600000,,0
+Kennington,2025-Q3,605000,,0
+Kennington,2025-Q4,654000,,0
+Kennington,2026-Q1,666000,21,0
+Kensington,2025-Q1,1048000,,0
+Kensington,2025-Q2,1138300,,0
+Kensington,2025-Q3,1200000,,0
+Kensington,2025-Q4,1074000,,0
+Kensington,2026-Q1,1100000,33,0
+Kerang,2025-Q1,357000,,0
+Kerang,2025-Q2,312500,,0
+Kerang,2025-Q3,275000,,0
+Kerang,2025-Q4,412500,,0
+Kerang,2026-Q1,325000,18,0
+Kew,2025-Q1,2950000,,0
+Kew,2025-Q2,2832500,,0
+Kew,2025-Q3,2700000,,0
+Kew,2025-Q4,2630000,,0
+Kew,2026-Q1,2240000,48,0
+Kew North,2025-Q1,2150000,,0
+Kew North,2025-Q2,2250000,,0
+Kew North,2025-Q3,2220000,,0
+Kew North,2025-Q4,2390000,,0
+Kew North,2026-Q1,2115000,14,0
+Keysborough,2025-Q1,950000,,0
+Keysborough,2025-Q2,980000,,0
+Keysborough,2025-Q3,965000,,0
+Keysborough,2025-Q4,1005900,,0
+Keysborough,2026-Q1,983000,70,0
+Kialla,2025-Q1,708000,,0
+Kialla,2025-Q2,677500,,0
+Kialla,2025-Q3,677500,,0
+Kialla,2025-Q4,665000,,0
+Kialla,2026-Q1,727000,31,0
+Killara (wodonga),2025-Q1,641500,,0
+Killara (wodonga),2025-Q2,648900,,1
+Killara (wodonga),2025-Q3,665500,,1
+Killara (wodonga),2025-Q4,740100,,0
+Killara (wodonga),2026-Q1,739000,4,1
+Kilmore,2025-Q1,600000,,0
+Kilmore,2025-Q2,590000,,0
+Kilmore,2025-Q3,640000,,0
+Kilmore,2025-Q4,615000,,0
+Kilmore,2026-Q1,605000,50,0
+Kilsyth,2025-Q1,790000,,0
+Kilsyth,2025-Q2,837500,,0
+Kilsyth,2025-Q3,828200,,0
+Kilsyth,2025-Q4,870000,,0
+Kilsyth,2026-Q1,877000,34,0
+Kilsyth South,2025-Q1,1190000,,1
+Kilsyth South,2025-Q2,994000,,1
+Kilsyth South,2025-Q3,1010000,,1
+Kilsyth South,2025-Q4,995500,,1
+Kilsyth South,2026-Q1,1292500,4,1
+Kinglake,2025-Q1,730000,,0
+Kinglake,2025-Q2,780000,,1
+Kinglake,2025-Q3,737500,,1
+Kinglake,2025-Q4,692000,,1
+Kinglake,2026-Q1,670000,3,1
+Kings Park,2025-Q1,620000,,0
+Kings Park,2025-Q2,652500,,0
+Kings Park,2025-Q3,662500,,0
+Kings Park,2025-Q4,669000,,0
+Kings Park,2026-Q1,680000,17,0
+Kingsbury,2025-Q1,791800,,0
+Kingsbury,2025-Q2,845000,,0
+Kingsbury,2025-Q3,860000,,0
+Kingsbury,2025-Q4,896000,,0
+Kingsbury,2026-Q1,871000,6,1
+Kingsville,2025-Q1,1337500,,0
+Kingsville,2025-Q2,1200000,,0
+Kingsville,2025-Q3,1200000,,0
+Kingsville,2025-Q4,1061000,,0
+Kingsville,2026-Q1,1050000,12,0
+Knoxfield,2025-Q1,1115000,,0
+Knoxfield,2025-Q2,1170000,,0
+Knoxfield,2025-Q3,1040000,,0
+Knoxfield,2025-Q4,1069400,,0
+Knoxfield,2026-Q1,971500,12,0
+Koo Wee Rup,2025-Q1,735000,,0
+Koo Wee Rup,2025-Q2,695000,,0
+Koo Wee Rup,2025-Q3,775000,,0
+Koo Wee Rup,2025-Q4,720000,,0
+Koo Wee Rup,2026-Q1,750000,17,0
+Koondrook,2025-Q1,510000,,1
+Koondrook,2025-Q2,350000,,1
+Koondrook,2025-Q3,532500,,1
+Koondrook,2025-Q4,507500,,1
+Koondrook,2026-Q1,597500,4,1
+Koroit,2025-Q1,625000,,1
+Koroit,2025-Q2,595000,,1
+Koroit,2025-Q3,525000,,1
+Koroit,2025-Q4,665000,,0
+Koroit,2026-Q1,650000,11,0
+Korumburra,2025-Q1,572500,,0
+Korumburra,2025-Q2,520000,,0
+Korumburra,2025-Q3,547800,,0
+Korumburra,2025-Q4,610000,,0
+Korumburra,2026-Q1,620000,18,0
+Kurunjang,2025-Q1,542000,,0
+Kurunjang,2025-Q2,551000,,0
+Kurunjang,2025-Q3,600000,,0
+Kurunjang,2025-Q4,610000,,0
+Kurunjang,2026-Q1,625000,62,0
+Kyabram,2025-Q1,453500,,0
+Kyabram,2025-Q2,495000,,0
+Kyabram,2025-Q3,500000,,0
+Kyabram,2025-Q4,485000,,0
+Kyabram,2026-Q1,520000,37,0
+Kyneton,2025-Q1,799000,,0
+Kyneton,2025-Q2,811000,,0
+Kyneton,2025-Q3,770000,,0
+Kyneton,2025-Q4,810000,,0
+Kyneton,2026-Q1,800000,21,0
+Lake Boga,2025-Q1,310000,,1
+Lake Boga,2025-Q2,370000,,1
+Lake Boga,2025-Q3,377500,,1
+Lake Boga,2025-Q4,330000,,1
+Lake Boga,2026-Q1,350000,5,1
+Lake Gardens,2025-Q1,701000,,1
+Lake Gardens,2025-Q2,601500,,1
+Lake Gardens,2025-Q3,730000,,1
+Lake Gardens,2025-Q4,709900,,1
+Lake Gardens,2026-Q1,750000,11,0
+Lake Tyers Beach,2025-Q1,500000,,1
+Lake Tyers Beach,2025-Q2,602500,,1
+Lake Tyers Beach,2025-Q3,550000,,1
+Lake Tyers Beach,2025-Q4,587500,,1
+Lake Tyers Beach,2026-Q1,485000,8,1
+Lake Wendouree,2025-Q1,725000,,1
+Lake Wendouree,2025-Q2,795000,,0
+Lake Wendouree,2025-Q3,1032500,,0
+Lake Wendouree,2025-Q4,1245000,,0
+Lake Wendouree,2026-Q1,1575000,10,0
+Lakes Entrance,2025-Q1,475000,,0
+Lakes Entrance,2025-Q2,530000,,0
+Lakes Entrance,2025-Q3,552500,,0
+Lakes Entrance,2025-Q4,485000,,0
+Lakes Entrance,2026-Q1,515000,45,0
+Lalor,2025-Q1,717500,,0
+Lalor,2025-Q2,738000,,0
+Lalor,2025-Q3,780000,,0
+Lalor,2025-Q4,789300,,0
+Lalor,2026-Q1,775000,62,0
+Lancefield,2025-Q1,607500,,1
+Lancefield,2025-Q2,740000,,0
+Lancefield,2025-Q3,715000,,1
+Lancefield,2025-Q4,792500,,1
+Lancefield,2026-Q1,689200,10,0
+Lang Lang,2025-Q1,715000,,0
+Lang Lang,2025-Q2,720000,,0
+Lang Lang,2025-Q3,735000,,0
+Lang Lang,2025-Q4,755000,,0
+Lang Lang,2026-Q1,740000,23,0
+Langwarrin,2025-Q1,845000,,0
+Langwarrin,2025-Q2,872000,,0
+Langwarrin,2025-Q3,901000,,0
+Langwarrin,2025-Q4,912500,,0
+Langwarrin,2026-Q1,913500,66,0
+Lara,2025-Q1,655000,,0
+Lara,2025-Q2,684000,,0
+Lara,2025-Q3,675000,,0
+Lara,2025-Q4,715000,,0
+Lara,2026-Q1,732000,63,0
+Lara Lake,2025-Q1,676500,,0
+Lara Lake,2025-Q2,690000,,0
+Lara Lake,2025-Q3,707500,,0
+Lara Lake,2025-Q4,713000,,0
+Lara Lake,2026-Q1,750000,60,0
+Launching Place,2025-Q1,702500,,1
+Launching Place,2025-Q2,706300,,0
+Launching Place,2025-Q3,765000,,1
+Launching Place,2025-Q4,798800,,0
+Launching Place,2026-Q1,750000,7,1
+Laverton,2025-Q1,601000,,0
+Laverton,2025-Q2,605000,,0
+Laverton,2025-Q3,615000,,0
+Laverton,2025-Q4,641000,,0
+Laverton,2026-Q1,635000,22,0
+Laverton South,2025-Q1,710500,,0
+Laverton South,2025-Q2,755000,,0
+Laverton South,2025-Q3,785000,,0
+Laverton South,2025-Q4,815000,,0
+Laverton South,2026-Q1,790000,22,0
+Leneva,2025-Q1,657500,,0
+Leneva,2025-Q2,727500,,1
+Leneva,2025-Q3,736000,,0
+Leneva,2025-Q4,712000,,0
+Leneva,2026-Q1,747000,14,0
+Leongatha,2025-Q1,556500,,0
+Leongatha,2025-Q2,630000,,0
+Leongatha,2025-Q3,525000,,0
+Leongatha,2025-Q4,595000,,0
+Leongatha,2026-Q1,605000,39,0
+Leopold,2025-Q1,651000,,0
+Leopold,2025-Q2,675000,,0
+Leopold,2025-Q3,665000,,0
+Leopold,2025-Q4,732500,,0
+Leopold,2026-Q1,728000,74,0
+Lilydale,2025-Q1,870500,,0
+Lilydale,2025-Q2,958800,,0
+Lilydale,2025-Q3,970000,,0
+Lilydale,2025-Q4,931500,,0
+Lilydale,2026-Q1,955300,40,0
+Lismore,2025-Q1,210000,,1
+Lismore,2025-Q2,210000,,1
+Lismore,2025-Q3,240000,,1
+Lismore,2025-Q4,410000,,1
+Lismore,2026-Q1,332500,2,1
+Loch Sport,2025-Q1,408500,,0
+Loch Sport,2025-Q2,315000,,0
+Loch Sport,2025-Q3,379000,,0
+Loch Sport,2025-Q4,395000,,0
+Loch Sport,2026-Q1,350000,23,0
+Lockington,2025-Q1,390000,,1
+Lockington,2025-Q2,362500,,1
+Lockington,2025-Q3,355000,,1
+Lockington,2025-Q4,355000,,1
+Lockington,2026-Q1,510000,1,1
+Long Gully,2025-Q1,470500,,0
+Long Gully,2025-Q2,480000,,0
+Long Gully,2025-Q3,520000,,0
+Long Gully,2025-Q4,490000,,0
+Long Gully,2026-Q1,560000,15,0
+Longwarry,2025-Q1,613800,,0
+Longwarry,2025-Q2,585000,,0
+Longwarry,2025-Q3,605000,,0
+Longwarry,2025-Q4,628000,,0
+Longwarry,2026-Q1,621500,20,0
+Lorne,2025-Q1,2100000,,1
+Lorne,2025-Q2,1900000,,0
+Lorne,2025-Q3,1650000,,0
+Lorne,2025-Q4,2623500,,1
+Lorne,2026-Q1,1605000,12,0
+Lovely Banks,2025-Q1,710000,,1
+Lovely Banks,2025-Q2,698000,,1
+Lovely Banks,2025-Q3,715000,,1
+Lovely Banks,2025-Q4,790000,,0
+Lovely Banks,2026-Q1,787000,9,1
+Lower Plenty,2025-Q1,1600000,,1
+Lower Plenty,2025-Q2,1223800,,1
+Lower Plenty,2025-Q3,1330000,,1
+Lower Plenty,2025-Q4,1200000,,1
+Lower Plenty,2026-Q1,2225000,2,1
+Lucas,2025-Q1,620000,,0
+Lucas,2025-Q2,635000,,0
+Lucas,2025-Q3,630000,,0
+Lucas,2025-Q4,649000,,0
+Lucas,2026-Q1,655000,61,0
+Lucknow,2025-Q1,515000,,1
+Lucknow,2025-Q2,630000,,1
+Lucknow,2025-Q3,453100,,1
+Lucknow,2025-Q4,498000,,0
+Lucknow,2026-Q1,550000,13,0
+Lynbrook,2025-Q1,840000,,0
+Lynbrook,2025-Q2,835000,,0
+Lynbrook,2025-Q3,860000,,0
+Lynbrook,2025-Q4,958500,,0
+Lynbrook,2026-Q1,905000,23,0
+Lyndhurst,2025-Q1,937500,,0
+Lyndhurst,2025-Q2,942500,,0
+Lyndhurst,2025-Q3,950000,,0
+Lyndhurst,2025-Q4,1055000,,0
+Lyndhurst,2026-Q1,965000,19,0
+Lysterfield,2025-Q1,1460000,,0
+Lysterfield,2025-Q2,1275000,,0
+Lysterfield,2025-Q3,1180000,,0
+Lysterfield,2025-Q4,1522000,,1
+Lysterfield,2026-Q1,1425000,12,0
+Lysterfield South,2025-Q1,2101300,,1
+Lysterfield South,2025-Q2,1805000,,1
+Lysterfield South,2025-Q3,1832500,,1
+Lysterfield South,2025-Q4,1950000,,1
+Lysterfield South,2026-Q1,1540000,2,1
+Macarthur,2025-Q1,310000,,1
+Macarthur,2025-Q2,475000,,1
+Macarthur,2025-Q3,180000,,1
+Macarthur,2025-Q4,242500,,1
+Macarthur,2026-Q1,242500,0,1
+Macedon,2025-Q1,660000,,1
+Macedon,2025-Q2,700000,,1
+Macedon,2025-Q3,1105000,,1
+Macedon,2025-Q4,1040000,,0
+Macedon,2026-Q1,785000,3,1
+Macleod,2025-Q1,1028500,,0
+Macleod,2025-Q2,1160000,,0
+Macleod,2025-Q3,1245000,,0
+Macleod,2025-Q4,1101000,,0
+Macleod,2026-Q1,1410000,19,0
+Maddingley,2025-Q1,607500,,0
+Maddingley,2025-Q2,644500,,0
+Maddingley,2025-Q3,647500,,0
+Maddingley,2025-Q4,638500,,0
+Maddingley,2026-Q1,659000,36,0
+Maffra,2025-Q1,495000,,0
+Maffra,2025-Q2,425000,,0
+Maffra,2025-Q3,485000,,0
+Maffra,2025-Q4,441500,,0
+Maffra,2026-Q1,538000,26,0
+Maiden Gully,2025-Q1,780000,,0
+Maiden Gully,2025-Q2,795000,,0
+Maiden Gully,2025-Q3,765000,,0
+Maiden Gully,2025-Q4,874000,,0
+Maiden Gully,2026-Q1,970000,11,0
+Maidstone,2025-Q1,845000,,0
+Maidstone,2025-Q2,949000,,0
+Maidstone,2025-Q3,910000,,0
+Maidstone,2025-Q4,850000,,0
+Maidstone,2026-Q1,892500,20,0
+Maldon,2025-Q1,690000,,1
+Maldon,2025-Q2,595000,,1
+Maldon,2025-Q3,860000,,1
+Maldon,2025-Q4,730000,,1
+Maldon,2026-Q1,730000,0,1
+Mallacoota,2025-Q1,400000,,1
+Mallacoota,2025-Q2,613000,,1
+Mallacoota,2025-Q3,400000,,1
+Mallacoota,2025-Q4,565000,,1
+Mallacoota,2026-Q1,540000,3,1
+Malmsbury,2025-Q1,765000,,1
+Malmsbury,2025-Q2,717500,,1
+Malmsbury,2025-Q3,700000,,1
+Malmsbury,2025-Q4,835000,,1
+Malmsbury,2026-Q1,705000,2,1
+Malvern,2025-Q1,3245000,,0
+Malvern,2025-Q2,2531000,,0
+Malvern,2025-Q3,2690000,,0
+Malvern,2025-Q4,2690000,,0
+Malvern,2026-Q1,3500000,21,0
+Malvern East,2025-Q1,2000200,,0
+Malvern East,2025-Q2,2500000,,0
+Malvern East,2025-Q3,2010000,,0
+Malvern East,2025-Q4,2217500,,0
+Malvern East,2026-Q1,2175000,46,0
+Mambourin,2025-Q1,610000,,0
+Mambourin,2025-Q2,610000,,0
+Mambourin,2025-Q3,630000,,0
+Mambourin,2025-Q4,635000,,0
+Mambourin,2026-Q1,650000,27,0
+Manifold Heights,2025-Q1,923800,,1
+Manifold Heights,2025-Q2,1200000,,0
+Manifold Heights,2025-Q3,920000,,0
+Manifold Heights,2025-Q4,1020000,,0
+Manifold Heights,2026-Q1,1300000,10,0
+Manor Lakes,2025-Q1,641500,,0
+Manor Lakes,2025-Q2,645000,,0
+Manor Lakes,2025-Q3,650000,,0
+Manor Lakes,2025-Q4,660000,,0
+Manor Lakes,2026-Q1,677500,82,0
+Mansfield,2025-Q1,750000,,0
+Mansfield,2025-Q2,820000,,0
+Mansfield,2025-Q3,720000,,0
+Mansfield,2025-Q4,775000,,0
+Mansfield,2026-Q1,707500,22,0
+Maribyrnong,2025-Q1,1088500,,0
+Maribyrnong,2025-Q2,1300000,,0
+Maribyrnong,2025-Q3,1145000,,0
+Maribyrnong,2025-Q4,1260000,,0
+Maribyrnong,2026-Q1,1220000,17,0
+Marlo,2025-Q1,570000,,1
+Marlo,2025-Q2,730000,,1
+Marlo,2025-Q3,515000,,1
+Marlo,2025-Q4,410900,,1
+Marlo,2026-Q1,465000,5,1
+Marong,2025-Q1,600000,,1
+Marong,2025-Q2,672500,,0
+Marong,2025-Q3,686000,,0
+Marong,2025-Q4,673800,,0
+Marong,2026-Q1,725000,4,1
+Marshall,2025-Q1,662500,,1
+Marshall,2025-Q2,660000,,0
+Marshall,2025-Q3,650000,,1
+Marshall,2025-Q4,657500,,1
+Marshall,2026-Q1,675000,14,0
+Maryborough,2025-Q1,382500,,0
+Maryborough,2025-Q2,379500,,0
+Maryborough,2025-Q3,390000,,0
+Maryborough,2025-Q4,435000,,0
+Maryborough,2026-Q1,445000,63,0
+Marysville,2025-Q1,710000,,1
+Marysville,2025-Q2,610000,,1
+Marysville,2025-Q3,675000,,1
+Marysville,2025-Q4,640000,,1
+Marysville,2026-Q1,635000,7,1
+Mccrae,2025-Q1,1200000,,0
+Mccrae,2025-Q2,1455000,,0
+Mccrae,2025-Q3,1350000,,0
+Mccrae,2025-Q4,1164000,,0
+Mccrae,2026-Q1,1190000,21,0
+Mckenzie Hill,2025-Q1,760000,,1
+Mckenzie Hill,2025-Q2,860000,,1
+Mckenzie Hill,2025-Q3,730000,,1
+Mckenzie Hill,2025-Q4,747500,,1
+Mckenzie Hill,2026-Q1,720000,7,1
+Mckinnon,2025-Q1,1875000,,1
+Mckinnon,2025-Q2,1850000,,0
+Mckinnon,2025-Q3,1900000,,0
+Mckinnon,2025-Q4,1900000,,0
+Mckinnon,2026-Q1,1800000,17,0
+Meadow Heights,2025-Q1,645000,,0
+Meadow Heights,2025-Q2,670000,,0
+Meadow Heights,2025-Q3,680000,,0
+Meadow Heights,2025-Q4,700500,,0
+Meadow Heights,2026-Q1,675000,35,0
+Melton,2025-Q1,490000,,0
+Melton,2025-Q2,510000,,0
+Melton,2025-Q3,548600,,0
+Melton,2025-Q4,577500,,0
+Melton,2026-Q1,565000,38,0
+Melton South,2025-Q1,558800,,0
+Melton South,2025-Q2,530000,,0
+Melton South,2025-Q3,595000,,0
+Melton South,2025-Q4,580000,,0
+Melton South,2026-Q1,600000,62,0
+Melton West,2025-Q1,545000,,0
+Melton West,2025-Q2,563500,,0
+Melton West,2025-Q3,610000,,0
+Melton West,2025-Q4,647000,,0
+Melton West,2026-Q1,615000,41,0
+Mentone,2025-Q1,1295000,,0
+Mentone,2025-Q2,1487000,,0
+Mentone,2025-Q3,1360500,,0
+Mentone,2025-Q4,1347500,,0
+Mentone,2026-Q1,1350000,29,0
+Merbein,2025-Q1,356300,,0
+Merbein,2025-Q2,420000,,0
+Merbein,2025-Q3,439300,,0
+Merbein,2025-Q4,457400,,0
+Merbein,2026-Q1,450000,17,0
+Merinda Park,2025-Q1,660000,,1
+Merinda Park,2025-Q2,650000,,1
+Merinda Park,2025-Q3,710000,,0
+Merinda Park,2025-Q4,700000,,1
+Merinda Park,2026-Q1,652500,5,1
+Mernda,2025-Q1,730000,,0
+Mernda,2025-Q2,725000,,0
+Mernda,2025-Q3,730000,,0
+Mernda,2025-Q4,750000,,0
+Mernda,2026-Q1,748800,91,0
+Metung,2025-Q1,682500,,0
+Metung,2025-Q2,520000,,1
+Metung,2025-Q3,637000,,1
+Metung,2025-Q4,591500,,0
+Metung,2026-Q1,600000,13,0
+Mickleham,2025-Q1,685000,,0
+Mickleham,2025-Q2,700000,,0
+Mickleham,2025-Q3,700000,,0
+Mickleham,2025-Q4,721000,,0
+Mickleham,2026-Q1,696000,205,0
+Middle Park,2025-Q1,3210000,,0
+Middle Park,2025-Q2,2400000,,0
+Middle Park,2025-Q3,2782500,,0
+Middle Park,2025-Q4,3337500,,0
+Middle Park,2026-Q1,3510000,13,0
+Mildura,2025-Q1,485000,,0
+Mildura,2025-Q2,519300,,0
+Mildura,2025-Q3,550000,,0
+Mildura,2025-Q4,575000,,0
+Mildura,2026-Q1,605000,206,0
+Mill Park,2025-Q1,815500,,0
+Mill Park,2025-Q2,830000,,0
+Mill Park,2025-Q3,865000,,0
+Mill Park,2025-Q4,890000,,0
+Mill Park,2026-Q1,840000,71,0
+Millgrove,2025-Q1,607500,,0
+Millgrove,2025-Q2,620000,,0
+Millgrove,2025-Q3,625000,,1
+Millgrove,2025-Q4,626800,,0
+Millgrove,2026-Q1,630000,9,1
+Miners Rest,2025-Q1,540000,,0
+Miners Rest,2025-Q2,587500,,0
+Miners Rest,2025-Q3,605000,,0
+Miners Rest,2025-Q4,650000,,0
+Miners Rest,2026-Q1,680000,29,0
+Mirboo North,2025-Q1,527500,,1
+Mirboo North,2025-Q2,495000,,1
+Mirboo North,2025-Q3,495000,,1
+Mirboo North,2025-Q4,487500,,1
+Mirboo North,2026-Q1,625000,7,1
+Mitcham,2025-Q1,1234000,,0
+Mitcham,2025-Q2,1235000,,0
+Mitcham,2025-Q3,1300000,,0
+Mitcham,2025-Q4,1307300,,0
+Mitcham,2026-Q1,1220000,35,0
+Mitchell Park,2025-Q1,440000,,1
+Mitchell Park,2025-Q2,467500,,1
+Mitchell Park,2025-Q3,495000,,1
+Mitchell Park,2025-Q4,470000,,1
+Mitchell Park,2026-Q1,525000,5,1
+Moe,2025-Q1,345000,,0
+Moe,2025-Q2,431000,,0
+Moe,2025-Q3,412500,,0
+Moe,2025-Q4,420000,,0
+Moe,2026-Q1,450500,78,0
+Monbulk,2025-Q1,715000,,1
+Monbulk,2025-Q2,795000,,0
+Monbulk,2025-Q3,735000,,0
+Monbulk,2025-Q4,802000,,0
+Monbulk,2026-Q1,907500,12,0
+Mont Albert,2025-Q1,2620000,,1
+Mont Albert,2025-Q2,2817500,,1
+Mont Albert,2025-Q3,2620000,,0
+Mont Albert,2025-Q4,2310000,,0
+Mont Albert,2026-Q1,2350000,7,1
+Mont Albert North,2025-Q1,1922500,,0
+Mont Albert North,2025-Q2,1421500,,0
+Mont Albert North,2025-Q3,1920000,,0
+Mont Albert North,2025-Q4,1710000,,0
+Mont Albert North,2026-Q1,1780000,17,0
+Montmorency,2025-Q1,1165000,,0
+Montmorency,2025-Q2,1152500,,0
+Montmorency,2025-Q3,1200000,,0
+Montmorency,2025-Q4,1182500,,0
+Montmorency,2026-Q1,1167500,16,0
+Montrose,2025-Q1,910000,,0
+Montrose,2025-Q2,985000,,0
+Montrose,2025-Q3,940000,,0
+Montrose,2025-Q4,975000,,0
+Montrose,2026-Q1,1142000,15,0
+Moonee Ponds,2025-Q1,1395000,,0
+Moonee Ponds,2025-Q2,1585000,,0
+Moonee Ponds,2025-Q3,1495000,,0
+Moonee Ponds,2025-Q4,1682500,,0
+Moonee Ponds,2026-Q1,1550000,39,0
+Moorabbin,2025-Q1,1232500,,0
+Moorabbin,2025-Q2,1225000,,0
+Moorabbin,2025-Q3,1338000,,0
+Moorabbin,2025-Q4,1290000,,0
+Moorabbin,2026-Q1,1307500,15,0
+Mooroolbark,2025-Q1,862000,,0
+Mooroolbark,2025-Q2,880000,,0
+Mooroolbark,2025-Q3,870000,,0
+Mooroolbark,2025-Q4,902500,,0
+Mooroolbark,2026-Q1,953500,70,0
+Mooroopna,2025-Q1,465000,,0
+Mooroopna,2025-Q2,432500,,0
+Mooroopna,2025-Q3,472500,,0
+Mooroopna,2025-Q4,465000,,0
+Mooroopna,2026-Q1,515000,47,0
+Mordialloc,2025-Q1,1390000,,0
+Mordialloc,2025-Q2,1400000,,0
+Mordialloc,2025-Q3,1551000,,0
+Mordialloc,2025-Q4,1390000,,0
+Mordialloc,2026-Q1,1255000,16,0
+Mornington,2025-Q1,1059600,,0
+Mornington,2025-Q2,930000,,0
+Mornington,2025-Q3,1105000,,0
+Mornington,2025-Q4,1200000,,0
+Mornington,2026-Q1,1240000,70,0
+Mortlake,2025-Q1,385000,,1
+Mortlake,2025-Q2,220000,,1
+Mortlake,2025-Q3,320000,,1
+Mortlake,2025-Q4,375000,,1
+Mortlake,2026-Q1,387500,6,1
+Morwell,2025-Q1,350000,,0
+Morwell,2025-Q2,356300,,0
+Morwell,2025-Q3,385000,,0
+Morwell,2025-Q4,392500,,0
+Morwell,2026-Q1,435000,135,0
+Mount Beauty,2025-Q1,542500,,1
+Mount Beauty,2025-Q2,480000,,1
+Mount Beauty,2025-Q3,535000,,1
+Mount Beauty,2025-Q4,610000,,1
+Mount Beauty,2026-Q1,430000,5,1
+Mount Clear,2025-Q1,587600,,0
+Mount Clear,2025-Q2,536000,,0
+Mount Clear,2025-Q3,545000,,0
+Mount Clear,2025-Q4,590900,,0
+Mount Clear,2026-Q1,650000,21,0
+Mount Cottrell,2025-Q1,439500,,1
+Mount Cottrell,2025-Q2,749000,,1
+Mount Cottrell,2025-Q3,799800,,0
+Mount Cottrell,2025-Q4,750000,,0
+Mount Cottrell,2026-Q1,795000,11,0
+Mount Dandenong,2025-Q1,820000,,1
+Mount Dandenong,2025-Q2,1100000,,1
+Mount Dandenong,2025-Q3,1210000,,1
+Mount Dandenong,2025-Q4,1142500,,1
+Mount Dandenong,2026-Q1,810000,7,1
+Mount Duneed,2025-Q1,710000,,0
+Mount Duneed,2025-Q2,710000,,0
+Mount Duneed,2025-Q3,708500,,0
+Mount Duneed,2025-Q4,720000,,0
+Mount Duneed,2026-Q1,730000,84,0
+Mount Eliza,2025-Q1,1632500,,0
+Mount Eliza,2025-Q2,1580000,,0
+Mount Eliza,2025-Q3,1625000,,0
+Mount Eliza,2025-Q4,1792500,,0
+Mount Eliza,2026-Q1,1610500,50,0
+Mount Evelyn,2025-Q1,865000,,0
+Mount Evelyn,2025-Q2,845000,,0
+Mount Evelyn,2025-Q3,892000,,0
+Mount Evelyn,2025-Q4,882500,,0
+Mount Evelyn,2026-Q1,920000,30,0
+Mount Helen,2025-Q1,580000,,0
+Mount Helen,2025-Q2,597500,,0
+Mount Helen,2025-Q3,705000,,0
+Mount Helen,2025-Q4,722500,,0
+Mount Helen,2026-Q1,722500,8,1
+Mount Macedon,2025-Q1,1507500,,1
+Mount Macedon,2025-Q2,770000,,1
+Mount Macedon,2025-Q3,1410000,,1
+Mount Macedon,2025-Q4,1538000,,1
+Mount Macedon,2026-Q1,1185000,5,1
+Mount Martha,2025-Q1,1575000,,0
+Mount Martha,2025-Q2,1855000,,0
+Mount Martha,2025-Q3,1745000,,0
+Mount Martha,2025-Q4,1900000,,0
+Mount Martha,2026-Q1,1500000,23,0
+Mount Pleasant,2025-Q1,505000,,1
+Mount Pleasant,2025-Q2,500000,,0
+Mount Pleasant,2025-Q3,483000,,0
+Mount Pleasant,2025-Q4,565000,,0
+Mount Pleasant,2026-Q1,551000,20,0
+Mount Waverley,2025-Q1,1600000,,0
+Mount Waverley,2025-Q2,1641500,,0
+Mount Waverley,2025-Q3,1680000,,0
+Mount Waverley,2025-Q4,1600000,,0
+Mount Waverley,2026-Q1,1563000,74,0
+Mulgrave,2025-Q1,1142500,,0
+Mulgrave,2025-Q2,1097500,,0
+Mulgrave,2025-Q3,1123000,,0
+Mulgrave,2025-Q4,1135000,,0
+Mulgrave,2026-Q1,1150000,64,0
+Murchison,2025-Q1,400000,,1
+Murchison,2025-Q2,432500,,1
+Murchison,2025-Q3,450000,,1
+Murchison,2025-Q4,425000,,1
+Murchison,2026-Q1,400000,3,1
+Murrumbeena,2025-Q1,1599500,,0
+Murrumbeena,2025-Q2,1930000,,0
+Murrumbeena,2025-Q3,1660000,,0
+Murrumbeena,2025-Q4,1870000,,0
+Murrumbeena,2026-Q1,1420000,8,1
+Murtoa,2025-Q1,529000,,1
+Murtoa,2025-Q2,175000,,1
+Murtoa,2025-Q3,180000,,1
+Murtoa,2025-Q4,307500,,1
+Murtoa,2026-Q1,290000,3,1
+Myrtleford,2025-Q1,520000,,0
+Myrtleford,2025-Q2,750000,,0
+Myrtleford,2025-Q3,583800,,1
+Myrtleford,2025-Q4,650000,,0
+Myrtleford,2026-Q1,622500,12,0
+Nagambie,2025-Q1,628500,,0
+Nagambie,2025-Q2,559000,,0
+Nagambie,2025-Q3,640000,,0
+Nagambie,2025-Q4,567500,,0
+Nagambie,2026-Q1,672500,10,0
+Nar Nar Goon North,2025-Q1,730000,,1
+Nar Nar Goon North,2025-Q2,749000,,1
+Nar Nar Goon North,2025-Q3,769500,,1
+Nar Nar Goon North,2025-Q4,710000,,1
+Nar Nar Goon North,2026-Q1,720000,3,1
+Narre Warren,2025-Q1,755500,,0
+Narre Warren,2025-Q2,790000,,0
+Narre Warren,2025-Q3,802000,,0
+Narre Warren,2025-Q4,835800,,0
+Narre Warren,2026-Q1,800000,100,0
+Narre Warren North,2025-Q1,1500000,,0
+Narre Warren North,2025-Q2,1700000,,0
+Narre Warren North,2025-Q3,1400000,,1
+Narre Warren North,2025-Q4,1500000,,0
+Narre Warren North,2026-Q1,1755000,16,0
+Narre Warren South,2025-Q1,796800,,0
+Narre Warren South,2025-Q2,820000,,0
+Narre Warren South,2025-Q3,868000,,0
+Narre Warren South,2025-Q4,861000,,0
+Narre Warren South,2026-Q1,905500,84,0
+Nathalia,2025-Q1,449000,,1
+Nathalia,2025-Q2,378500,,1
+Nathalia,2025-Q3,382500,,1
+Nathalia,2025-Q4,372500,,0
+Nathalia,2026-Q1,485000,11,0
+Neerim South,2025-Q1,690000,,1
+Neerim South,2025-Q2,640000,,1
+Neerim South,2025-Q3,668000,,1
+Neerim South,2025-Q4,645000,,1
+Neerim South,2026-Q1,615000,7,1
+Nerrina,2025-Q1,580000,,1
+Nerrina,2025-Q2,803000,,1
+Nerrina,2025-Q3,710000,,1
+Nerrina,2025-Q4,850000,,1
+Nerrina,2026-Q1,1152000,5,1
+New Gisborne,2025-Q1,776000,,1
+New Gisborne,2025-Q2,915000,,1
+New Gisborne,2025-Q3,857500,,0
+New Gisborne,2025-Q4,876000,,0
+New Gisborne,2026-Q1,835000,3,1
+Newborough,2025-Q1,457500,,0
+Newborough,2025-Q2,475500,,0
+Newborough,2025-Q3,450000,,0
+Newborough,2025-Q4,480000,,0
+Newborough,2026-Q1,515000,39,0
+Newcomb,2025-Q1,550000,,0
+Newcomb,2025-Q2,570000,,0
+Newcomb,2025-Q3,607800,,0
+Newcomb,2025-Q4,617000,,0
+Newcomb,2026-Q1,650000,34,0
+Newington,2025-Q1,611000,,0
+Newington,2025-Q2,645000,,0
+Newington,2025-Q3,583000,,0
+Newington,2025-Q4,560000,,0
+Newington,2026-Q1,685000,9,1
+Newlands Arm,2025-Q1,580000,,1
+Newlands Arm,2025-Q2,820000,,1
+Newlands Arm,2025-Q3,605000,,1
+Newlands Arm,2025-Q4,585000,,1
+Newlands Arm,2026-Q1,545000,4,1
+Newport,2025-Q1,1345000,,0
+Newport,2025-Q2,1250000,,0
+Newport,2025-Q3,1171300,,0
+Newport,2025-Q4,1350000,,0
+Newport,2026-Q1,1270000,31,0
+Newstead,2025-Q1,650000,,1
+Newstead,2025-Q2,418500,,1
+Newstead,2025-Q3,517500,,1
+Newstead,2025-Q4,520000,,1
+Newstead,2026-Q1,760000,3,1
+Newtown (greater Geelong),2025-Q1,980000,,0
+Newtown (greater Geelong),2025-Q2,1035000,,0
+Newtown (greater Geelong),2025-Q3,1160000,,0
+Newtown (greater Geelong),2025-Q4,1127500,,0
+Newtown (greater Geelong),2026-Q1,1260000,37,0
+Nhill,2025-Q1,270000,,0
+Nhill,2025-Q2,203000,,0
+Nhill,2025-Q3,277500,,0
+Nhill,2025-Q4,220000,,1
+Nhill,2026-Q1,295000,9,1
+Nichols Point,2025-Q1,540000,,1
+Nichols Point,2025-Q2,540000,,1
+Nichols Point,2025-Q3,715000,,1
+Nichols Point,2025-Q4,715000,,1
+Nichols Point,2026-Q1,770000,7,1
+Niddrie,2025-Q1,1271500,,0
+Niddrie,2025-Q2,1405000,,0
+Niddrie,2025-Q3,1275000,,0
+Niddrie,2025-Q4,1250000,,0
+Niddrie,2026-Q1,1200500,14,0
+Noble Park,2025-Q1,785000,,0
+Noble Park,2025-Q2,820000,,0
+Noble Park,2025-Q3,831000,,0
+Noble Park,2025-Q4,847000,,0
+Noble Park,2026-Q1,830000,45,0
+Noble Park North,2025-Q1,767500,,0
+Noble Park North,2025-Q2,806500,,0
+Noble Park North,2025-Q3,805000,,0
+Noble Park North,2025-Q4,815000,,0
+Noble Park North,2026-Q1,836000,21,0
+Norlane,2025-Q1,445000,,0
+Norlane,2025-Q2,466000,,0
+Norlane,2025-Q3,500000,,0
+Norlane,2025-Q4,540000,,0
+Norlane,2026-Q1,543000,50,0
+North Bendigo,2025-Q1,497500,,0
+North Bendigo,2025-Q2,568000,,0
+North Bendigo,2025-Q3,535500,,0
+North Bendigo,2025-Q4,596500,,0
+North Bendigo,2026-Q1,600000,21,0
+North Geelong,2025-Q1,650000,,0
+North Geelong,2025-Q2,641000,,0
+North Geelong,2025-Q3,688500,,0
+North Geelong,2025-Q4,711000,,0
+North Geelong,2026-Q1,710500,18,0
+North Melbourne,2025-Q1,1267000,,0
+North Melbourne,2025-Q2,1326000,,0
+North Melbourne,2025-Q3,1360000,,0
+North Melbourne,2025-Q4,1366500,,0
+North Melbourne,2026-Q1,1200000,25,0
+North Shore,2025-Q1,677500,,1
+North Shore,2025-Q2,830000,,1
+North Shore,2025-Q3,625000,,1
+North Shore,2025-Q4,1180000,,1
+North Shore,2026-Q1,1060000,4,1
+North Wonthaggi,2025-Q1,512500,,0
+North Wonthaggi,2025-Q2,614500,,0
+North Wonthaggi,2025-Q3,592500,,0
+North Wonthaggi,2025-Q4,595000,,0
+North Wonthaggi,2026-Q1,640000,31,0
+Northcote,2025-Q1,1720000,,0
+Northcote,2025-Q2,1731000,,0
+Northcote,2025-Q3,1700000,,0
+Northcote,2025-Q4,1631000,,0
+Northcote,2026-Q1,1690000,53,0
+Notting Hill,2025-Q1,1228000,,1
+Notting Hill,2025-Q2,1175000,,1
+Notting Hill,2025-Q3,1295000,,1
+Notting Hill,2025-Q4,1213000,,1
+Notting Hill,2026-Q1,1092600,1,1
+Numurkah,2025-Q1,420000,,0
+Numurkah,2025-Q2,380000,,0
+Numurkah,2025-Q3,429000,,0
+Numurkah,2025-Q4,420000,,0
+Numurkah,2026-Q1,478800,20,0
+Nunawading,2025-Q1,1175000,,0
+Nunawading,2025-Q2,1167500,,0
+Nunawading,2025-Q3,1180000,,0
+Nunawading,2025-Q4,1260000,,0
+Nunawading,2026-Q1,1225000,32,0
+Nyah,2025-Q1,315000,,1
+Nyah,2025-Q2,290000,,1
+Nyah,2025-Q3,350000,,1
+Nyah,2025-Q4,412500,,1
+Nyah,2026-Q1,412500,0,1
+Nyah West,2025-Q1,277500,,1
+Nyah West,2025-Q2,70000,,1
+Nyah West,2025-Q3,310000,,1
+Nyah West,2025-Q4,345000,,1
+Nyah West,2026-Q1,300000,3,1
+Oak Park,2025-Q1,1153500,,0
+Oak Park,2025-Q2,1167500,,0
+Oak Park,2025-Q3,1222500,,0
+Oak Park,2025-Q4,1125000,,0
+Oak Park,2026-Q1,1070000,19,0
+Oakleigh,2025-Q1,1260000,,0
+Oakleigh,2025-Q2,1360500,,0
+Oakleigh,2025-Q3,1362500,,0
+Oakleigh,2025-Q4,1430000,,0
+Oakleigh,2026-Q1,1371500,14,0
+Oakleigh East,2025-Q1,1200000,,0
+Oakleigh East,2025-Q2,1120000,,0
+Oakleigh East,2025-Q3,1220000,,0
+Oakleigh East,2025-Q4,1215000,,0
+Oakleigh East,2026-Q1,1300000,5,1
+Oakleigh South,2025-Q1,1170000,,0
+Oakleigh South,2025-Q2,1245300,,0
+Oakleigh South,2025-Q3,1221500,,0
+Oakleigh South,2025-Q4,1316000,,0
+Oakleigh South,2026-Q1,1384300,18,0
+Ocean Grove,2025-Q1,910000,,0
+Ocean Grove,2025-Q2,972000,,0
+Ocean Grove,2025-Q3,950000,,0
+Ocean Grove,2025-Q4,895000,,0
+Ocean Grove,2026-Q1,1065000,69,0
+Officer,2025-Q1,730000,,0
+Officer,2025-Q2,750000,,0
+Officer,2025-Q3,763500,,0
+Officer,2025-Q4,771000,,0
+Officer,2026-Q1,751000,136,0
+Officer South,2025-Q1,915000,,1
+Officer South,2025-Q2,915000,,0
+Officer South,2025-Q3,864500,,0
+Officer South,2025-Q4,890000,,0
+Officer South,2026-Q1,940000,10,0
+Olinda,2025-Q1,1000000,,0
+Olinda,2025-Q2,942500,,0
+Olinda,2025-Q3,877500,,1
+Olinda,2025-Q4,1062500,,1
+Olinda,2026-Q1,875000,5,1
+Orbost,2025-Q1,308000,,1
+Orbost,2025-Q2,360000,,0
+Orbost,2025-Q3,450000,,0
+Orbost,2025-Q4,369000,,0
+Orbost,2026-Q1,334500,18,0
+Ormond,2025-Q1,1854000,,0
+Ormond,2025-Q2,1737500,,0
+Ormond,2025-Q3,1773000,,1
+Ormond,2025-Q4,2015000,,0
+Ormond,2026-Q1,1975000,12,0
+Osborne,2025-Q1,1170000,,0
+Osborne,2025-Q2,1011500,,0
+Osborne,2025-Q3,1095000,,0
+Osborne,2025-Q4,1130000,,0
+Osborne,2026-Q1,1180000,26,0
+Ouyen,2025-Q1,260000,,1
+Ouyen,2025-Q2,200000,,0
+Ouyen,2025-Q3,280000,,1
+Ouyen,2025-Q4,299000,,1
+Ouyen,2026-Q1,231500,2,1
+Pakenham,2025-Q1,670000,,0
+Pakenham,2025-Q2,694000,,0
+Pakenham,2025-Q3,709000,,0
+Pakenham,2025-Q4,725000,,0
+Pakenham,2026-Q1,725000,230,0
+Paradise Beach,2025-Q1,270000,,1
+Paradise Beach,2025-Q2,335000,,1
+Paradise Beach,2025-Q3,342500,,1
+Paradise Beach,2025-Q4,460000,,1
+Paradise Beach,2026-Q1,288000,5,1
+Park Orchards,2025-Q1,2205000,,1
+Park Orchards,2025-Q2,1970000,,1
+Park Orchards,2025-Q3,2105000,,1
+Park Orchards,2025-Q4,1800000,,1
+Park Orchards,2026-Q1,2260000,4,1
+Parkdale,2025-Q1,1524900,,0
+Parkdale,2025-Q2,1595000,,0
+Parkdale,2025-Q3,1590000,,0
+Parkdale,2025-Q4,1635000,,0
+Parkdale,2026-Q1,1850000,15,0
+Parkville,2025-Q1,1635000,,1
+Parkville,2025-Q2,2100000,,1
+Parkville,2025-Q3,1680000,,1
+Parkville,2025-Q4,1914400,,0
+Parkville,2026-Q1,2375000,6,1
+Pascoe Vale,2025-Q1,1170000,,0
+Pascoe Vale,2025-Q2,1226000,,0
+Pascoe Vale,2025-Q3,1212500,,0
+Pascoe Vale,2025-Q4,1085000,,0
+Pascoe Vale,2026-Q1,1155000,37,0
+Pascoe Vale South,2025-Q1,1222500,,0
+Pascoe Vale South,2025-Q2,1300000,,0
+Pascoe Vale South,2025-Q3,1300000,,0
+Pascoe Vale South,2025-Q4,1270000,,0
+Pascoe Vale South,2026-Q1,1325000,18,0
+Patterson Gardens,2025-Q1,1140000,,1
+Patterson Gardens,2025-Q2,1265000,,1
+Patterson Gardens,2025-Q3,1160000,,1
+Patterson Gardens,2025-Q4,1365500,,0
+Patterson Gardens,2026-Q1,1317500,2,1
+Patterson Lakes,2025-Q1,1023000,,0
+Patterson Lakes,2025-Q2,1650000,,0
+Patterson Lakes,2025-Q3,1187500,,0
+Patterson Lakes,2025-Q4,1450000,,0
+Patterson Lakes,2026-Q1,1415000,20,0
+Paynesville,2025-Q1,555000,,0
+Paynesville,2025-Q2,525000,,0
+Paynesville,2025-Q3,525000,,0
+Paynesville,2025-Q4,510000,,0
+Paynesville,2026-Q1,555000,46,0
+Pearcedale,2025-Q1,820000,,0
+Pearcedale,2025-Q2,952500,,0
+Pearcedale,2025-Q3,892000,,1
+Pearcedale,2025-Q4,921500,,1
+Pearcedale,2026-Q1,750000,5,1
+Peterborough,2025-Q1,820000,,1
+Peterborough,2025-Q2,650000,,1
+Peterborough,2025-Q3,790000,,1
+Peterborough,2025-Q4,775000,,1
+Peterborough,2026-Q1,610000,3,1
+Pioneer Bay,2025-Q1,458000,,1
+Pioneer Bay,2025-Q2,510500,,1
+Pioneer Bay,2025-Q3,545000,,1
+Pioneer Bay,2025-Q4,500000,,1
+Pioneer Bay,2026-Q1,460000,3,1
+Plenty,2025-Q1,1450000,,1
+Plenty,2025-Q2,1755000,,1
+Plenty,2025-Q3,1558000,,1
+Plenty,2025-Q4,1655000,,1
+Plenty,2026-Q1,1580000,7,1
+Point Cook,2025-Q1,812500,,0
+Point Cook,2025-Q2,800000,,0
+Point Cook,2025-Q3,823500,,0
+Point Cook,2025-Q4,842000,,0
+Point Cook,2026-Q1,855500,166,0
+Point Lonsdale,2025-Q1,1215000,,0
+Point Lonsdale,2025-Q2,1200000,,0
+Point Lonsdale,2025-Q3,1200000,,0
+Point Lonsdale,2025-Q4,1112500,,0
+Point Lonsdale,2026-Q1,1235000,24,0
+Porepunkah,2025-Q1,1100000,,1
+Porepunkah,2025-Q2,925000,,1
+Porepunkah,2025-Q3,958000,,1
+Porepunkah,2025-Q4,875000,,1
+Porepunkah,2026-Q1,835000,7,1
+Port Fairy,2025-Q1,835000,,0
+Port Fairy,2025-Q2,950000,,0
+Port Fairy,2025-Q3,817500,,0
+Port Fairy,2025-Q4,800000,,0
+Port Fairy,2026-Q1,1070000,13,0
+Port Melbourne,2025-Q1,1630000,,0
+Port Melbourne,2025-Q2,1477500,,0
+Port Melbourne,2025-Q3,1720000,,0
+Port Melbourne,2025-Q4,1527500,,0
+Port Melbourne,2026-Q1,1585000,30,0
+Portarlington,2025-Q1,830000,,0
+Portarlington,2025-Q2,865000,,0
+Portarlington,2025-Q3,789300,,0
+Portarlington,2025-Q4,820000,,0
+Portarlington,2026-Q1,800000,38,0
+Portland,2025-Q1,445000,,0
+Portland,2025-Q2,397700,,0
+Portland,2025-Q3,420000,,0
+Portland,2025-Q4,450000,,0
+Portland,2026-Q1,542500,68,0
+Portland North,2025-Q1,735000,,1
+Portland North,2025-Q2,727500,,1
+Portland North,2025-Q3,550000,,1
+Portland North,2025-Q4,716000,,1
+Portland North,2026-Q1,710000,3,1
+Portsea,2025-Q1,4180000,,0
+Portsea,2025-Q2,2850000,,1
+Portsea,2025-Q3,4125000,,1
+Portsea,2025-Q4,2925000,,0
+Portsea,2026-Q1,2137500,6,1
+Prahran,2025-Q1,1825000,,0
+Prahran,2025-Q2,1700000,,0
+Prahran,2025-Q3,1749500,,0
+Prahran,2025-Q4,1510000,,0
+Prahran,2026-Q1,1425000,20,0
+Preston,2025-Q1,1102500,,0
+Preston,2025-Q2,1235000,,0
+Preston,2025-Q3,1125000,,0
+Preston,2025-Q4,1235000,,0
+Preston,2026-Q1,1285000,76,0
+Princes Hill,2025-Q1,1467500,,1
+Princes Hill,2025-Q2,1800000,,1
+Princes Hill,2025-Q3,1735000,,1
+Princes Hill,2025-Q4,2257500,,1
+Princes Hill,2026-Q1,2317500,6,1
+Quarry Hill,2025-Q1,541500,,0
+Quarry Hill,2025-Q2,625000,,0
+Quarry Hill,2025-Q3,620000,,0
+Quarry Hill,2025-Q4,715000,,0
+Quarry Hill,2026-Q1,607500,14,0
+Queenscliff,2025-Q1,1800000,,1
+Queenscliff,2025-Q2,1450000,,1
+Queenscliff,2025-Q3,1200000,,1
+Queenscliff,2025-Q4,1000000,,1
+Queenscliff,2026-Q1,1150000,5,1
+Rainbow,2025-Q1,300000,,1
+Rainbow,2025-Q2,220000,,1
+Rainbow,2025-Q3,190000,,1
+Rainbow,2025-Q4,207500,,1
+Rainbow,2026-Q1,192000,3,1
+Rawson,2025-Q1,402500,,1
+Rawson,2025-Q2,358500,,1
+Rawson,2025-Q3,392500,,1
+Rawson,2025-Q4,387500,,1
+Rawson,2026-Q1,502000,2,1
+Raymond Island,2025-Q1,437000,,1
+Raymond Island,2025-Q2,580000,,1
+Raymond Island,2025-Q3,532500,,1
+Raymond Island,2025-Q4,452000,,1
+Raymond Island,2026-Q1,535000,4,1
+Red Cliffs,2025-Q1,420000,,0
+Red Cliffs,2025-Q2,408800,,0
+Red Cliffs,2025-Q3,442500,,0
+Red Cliffs,2025-Q4,406000,,0
+Red Cliffs,2026-Q1,530000,25,0
+Red Hill,2025-Q1,1595000,,1
+Red Hill,2025-Q2,1232500,,1
+Red Hill,2025-Q3,1420000,,1
+Red Hill,2025-Q4,1714000,,1
+Red Hill,2026-Q1,3800000,2,1
+Redan,2025-Q1,472500,,0
+Redan,2025-Q2,470000,,0
+Redan,2025-Q3,480000,,0
+Redan,2025-Q4,507500,,0
+Redan,2026-Q1,517500,18,0
+Research,2025-Q1,1500000,,1
+Research,2025-Q2,1530500,,0
+Research,2025-Q3,1041000,,1
+Research,2025-Q4,1215000,,1
+Research,2026-Q1,1761000,9,1
+Reservoir,2025-Q1,930000,,0
+Reservoir,2025-Q2,920000,,0
+Reservoir,2025-Q3,972000,,0
+Reservoir,2025-Q4,982000,,0
+Reservoir,2026-Q1,972500,92,0
+Rhyll,2025-Q1,840000,,1
+Rhyll,2025-Q2,730500,,1
+Rhyll,2025-Q3,745000,,1
+Rhyll,2025-Q4,895000,,1
+Rhyll,2026-Q1,1000000,5,1
+Richmond,2025-Q1,1425500,,0
+Richmond,2025-Q2,1501500,,0
+Richmond,2025-Q3,1382500,,0
+Richmond,2025-Q4,1346000,,0
+Richmond,2026-Q1,1373000,65,0
+Riddells Creek,2025-Q1,805000,,0
+Riddells Creek,2025-Q2,715000,,0
+Riddells Creek,2025-Q3,1048000,,1
+Riddells Creek,2025-Q4,820000,,0
+Riddells Creek,2026-Q1,777500,12,0
+Ringwood,2025-Q1,1085300,,0
+Ringwood,2025-Q2,1020000,,0
+Ringwood,2025-Q3,1057500,,0
+Ringwood,2025-Q4,1059400,,0
+Ringwood,2026-Q1,1054500,29,0
+Ringwood East,2025-Q1,1090000,,0
+Ringwood East,2025-Q2,1075000,,0
+Ringwood East,2025-Q3,1075000,,0
+Ringwood East,2025-Q4,1025000,,0
+Ringwood East,2026-Q1,963500,24,0
+Ringwood North,2025-Q1,1220000,,0
+Ringwood North,2025-Q2,1182000,,0
+Ringwood North,2025-Q3,1265000,,0
+Ringwood North,2025-Q4,1270000,,0
+Ringwood North,2026-Q1,1226500,34,0
+Rippleside,2025-Q1,2032500,,1
+Rippleside,2025-Q2,1320000,,1
+Rippleside,2025-Q3,1195000,,1
+Rippleside,2025-Q4,995000,,1
+Rippleside,2026-Q1,826000,4,1
+Ripponlea,2025-Q1,1815000,,1
+Ripponlea,2025-Q2,1870000,,1
+Ripponlea,2025-Q3,1395000,,1
+Ripponlea,2025-Q4,1845000,,1
+Ripponlea,2026-Q1,1845000,0,1
+Robinvale,2025-Q1,477000,,1
+Robinvale,2025-Q2,364400,,1
+Robinvale,2025-Q3,452500,,1
+Robinvale,2025-Q4,419000,,1
+Robinvale,2026-Q1,429000,6,1
+Rochester,2025-Q1,475000,,0
+Rochester,2025-Q2,442500,,0
+Rochester,2025-Q3,420000,,0
+Rochester,2025-Q4,477500,,0
+Rochester,2026-Q1,407500,16,0
+Rockbank,2025-Q1,580000,,0
+Rockbank,2025-Q2,621500,,0
+Rockbank,2025-Q3,621500,,0
+Rockbank,2025-Q4,644000,,0
+Rockbank,2026-Q1,694800,38,0
+Romsey,2025-Q1,766000,,0
+Romsey,2025-Q2,705000,,0
+Romsey,2025-Q3,850000,,0
+Romsey,2025-Q4,832500,,0
+Romsey,2026-Q1,840000,23,0
+Rosanna,2025-Q1,1325000,,0
+Rosanna,2025-Q2,1370000,,0
+Rosanna,2025-Q3,1600000,,0
+Rosanna,2025-Q4,1419000,,0
+Rosanna,2026-Q1,1430000,21,0
+Rosebud,2025-Q1,730000,,0
+Rosebud,2025-Q2,756300,,0
+Rosebud,2025-Q3,776000,,0
+Rosebud,2025-Q4,730000,,0
+Rosebud,2026-Q1,768800,70,0
+Rosebud South,2025-Q1,1062500,,0
+Rosebud South,2025-Q2,980000,,0
+Rosebud South,2025-Q3,870000,,0
+Rosebud South,2025-Q4,1071500,,0
+Rosebud South,2026-Q1,1007500,24,0
+Rosedale,2025-Q1,525000,,1
+Rosedale,2025-Q2,440000,,1
+Rosedale,2025-Q3,460000,,1
+Rosedale,2025-Q4,455000,,1
+Rosedale,2026-Q1,518500,6,1
+Rowville,2025-Q1,1090000,,0
+Rowville,2025-Q2,1120000,,0
+Rowville,2025-Q3,1194000,,0
+Rowville,2025-Q4,1220000,,0
+Rowville,2026-Q1,1175500,80,0
+Roxburgh Park,2025-Q1,685000,,0
+Roxburgh Park,2025-Q2,683000,,0
+Roxburgh Park,2025-Q3,711000,,0
+Roxburgh Park,2025-Q4,735000,,0
+Roxburgh Park,2026-Q1,741000,59,0
+Rupanyup,2025-Q1,165000,,1
+Rupanyup,2025-Q2,185000,,1
+Rupanyup,2025-Q3,220000,,1
+Rupanyup,2025-Q4,337500,,1
+Rupanyup,2026-Q1,337500,0,1
+Rushworth,2025-Q1,300000,,1
+Rushworth,2025-Q2,300000,,1
+Rushworth,2025-Q3,300000,,1
+Rushworth,2025-Q4,308800,,1
+Rushworth,2026-Q1,387000,8,1
+Rutherglen,2025-Q1,561500,,1
+Rutherglen,2025-Q2,545000,,0
+Rutherglen,2025-Q3,560000,,0
+Rutherglen,2025-Q4,570000,,0
+Rutherglen,2026-Q1,550000,7,1
+Rye,2025-Q1,920000,,0
+Rye,2025-Q2,960000,,0
+Rye,2025-Q3,921300,,0
+Rye,2025-Q4,950000,,0
+Rye,2026-Q1,985000,75,0
+Safety Beach,2025-Q1,1127500,,0
+Safety Beach,2025-Q2,1190000,,0
+Safety Beach,2025-Q3,1185000,,0
+Safety Beach,2025-Q4,1190000,,0
+Safety Beach,2026-Q1,1150000,40,0
+Sailors Gully,2025-Q1,404000,,1
+Sailors Gully,2025-Q2,460000,,1
+Sailors Gully,2025-Q3,691000,,1
+Sailors Gully,2025-Q4,550000,,1
+Sailors Gully,2026-Q1,515000,4,1
+Sale,2025-Q1,510000,,0
+Sale,2025-Q2,486000,,0
+Sale,2025-Q3,510000,,0
+Sale,2025-Q4,550000,,0
+Sale,2026-Q1,590000,119,0
+San Remo,2025-Q1,925000,,0
+San Remo,2025-Q2,965000,,0
+San Remo,2025-Q3,850000,,1
+San Remo,2025-Q4,792000,,0
+San Remo,2026-Q1,872500,10,0
+Sanctuary Lakes,2025-Q1,797500,,0
+Sanctuary Lakes,2025-Q2,852900,,0
+Sanctuary Lakes,2025-Q3,795000,,0
+Sanctuary Lakes,2025-Q4,855000,,0
+Sanctuary Lakes,2026-Q1,860000,93,0
+Sandhurst,2025-Q1,1100000,,0
+Sandhurst,2025-Q2,1100000,,0
+Sandhurst,2025-Q3,1062500,,0
+Sandhurst,2025-Q4,1102500,,0
+Sandhurst,2026-Q1,1182000,19,0
+Sandringham,2025-Q1,2077500,,0
+Sandringham,2025-Q2,2065000,,0
+Sandringham,2025-Q3,2210000,,0
+Sandringham,2025-Q4,2620000,,0
+Sandringham,2026-Q1,2030000,22,0
+Sandy Point,2025-Q1,1231000,,1
+Sandy Point,2025-Q2,630000,,1
+Sandy Point,2025-Q3,770000,,1
+Sandy Point,2025-Q4,805000,,1
+Sandy Point,2026-Q1,615000,1,1
+Sassafras,2025-Q1,930000,,1
+Sassafras,2025-Q2,940000,,1
+Sassafras,2025-Q3,940000,,1
+Sassafras,2025-Q4,1012500,,1
+Sassafras,2026-Q1,845000,3,1
+Scoresby,2025-Q1,971000,,0
+Scoresby,2025-Q2,1000000,,0
+Scoresby,2025-Q3,1086000,,0
+Scoresby,2025-Q4,975000,,0
+Scoresby,2026-Q1,1046000,18,0
+Sea Lake,2025-Q1,328500,,1
+Sea Lake,2025-Q2,230000,,1
+Sea Lake,2025-Q3,190000,,1
+Sea Lake,2025-Q4,300000,,1
+Sea Lake,2026-Q1,240000,5,1
+Seabrook,2025-Q1,765000,,0
+Seabrook,2025-Q2,745000,,0
+Seabrook,2025-Q3,755000,,0
+Seabrook,2025-Q4,811000,,0
+Seabrook,2026-Q1,827500,12,0
+Seaford,2025-Q1,853000,,0
+Seaford,2025-Q2,880000,,0
+Seaford,2025-Q3,942000,,0
+Seaford,2025-Q4,942000,,0
+Seaford,2026-Q1,945500,50,0
+Seaholme,2025-Q1,1110000,,1
+Seaholme,2025-Q2,1055000,,1
+Seaholme,2025-Q3,1339000,,1
+Seaholme,2025-Q4,1350000,,1
+Seaholme,2026-Q1,1218800,6,1
+Seaspray,2025-Q1,362500,,1
+Seaspray,2025-Q2,387500,,1
+Seaspray,2025-Q3,663800,,1
+Seaspray,2025-Q4,484000,,1
+Seaspray,2026-Q1,490000,5,1
+Sebastopol,2025-Q1,447500,,0
+Sebastopol,2025-Q2,465000,,0
+Sebastopol,2025-Q3,485000,,0
+Sebastopol,2025-Q4,515000,,0
+Sebastopol,2026-Q1,520000,53,0
+Seddon,2025-Q1,1062500,,0
+Seddon,2025-Q2,1100000,,0
+Seddon,2025-Q3,1132000,,0
+Seddon,2025-Q4,1020000,,0
+Seddon,2026-Q1,1175000,25,0
+Selby,2025-Q1,810000,,1
+Selby,2025-Q2,930000,,1
+Selby,2025-Q3,823800,,1
+Selby,2025-Q4,885000,,1
+Selby,2026-Q1,870000,5,1
+Seville,2025-Q1,790000,,1
+Seville,2025-Q2,885000,,1
+Seville,2025-Q3,810000,,1
+Seville,2025-Q4,895600,,1
+Seville,2026-Q1,787000,5,1
+Seville East,2025-Q1,757500,,1
+Seville East,2025-Q2,741500,,1
+Seville East,2025-Q3,645000,,1
+Seville East,2025-Q4,730000,,1
+Seville East,2026-Q1,985000,1,1
+Seymour,2025-Q1,431500,,0
+Seymour,2025-Q2,467500,,0
+Seymour,2025-Q3,431000,,0
+Seymour,2025-Q4,450000,,0
+Seymour,2026-Q1,483800,44,0
+Shepparton,2025-Q1,475000,,0
+Shepparton,2025-Q2,475000,,0
+Shepparton,2025-Q3,512000,,0
+Shepparton,2025-Q4,537000,,0
+Shepparton,2026-Q1,545000,153,0
+Shepparton North,2025-Q1,600000,,1
+Shepparton North,2025-Q2,688000,,0
+Shepparton North,2025-Q3,600000,,0
+Shepparton North,2025-Q4,720000,,0
+Shepparton North,2026-Q1,682500,6,1
+Shoreham,2025-Q1,1925000,,1
+Shoreham,2025-Q2,1637500,,1
+Shoreham,2025-Q3,2010000,,1
+Shoreham,2025-Q4,1635000,,1
+Shoreham,2026-Q1,1635000,0,1
+Silverleaves,2025-Q1,502500,,1
+Silverleaves,2025-Q2,750000,,1
+Silverleaves,2025-Q3,1175000,,1
+Silverleaves,2025-Q4,720000,,1
+Silverleaves,2026-Q1,790000,7,1
+Skipton,2025-Q1,212500,,1
+Skipton,2025-Q2,485000,,1
+Skipton,2025-Q3,300000,,1
+Skipton,2025-Q4,462500,,1
+Skipton,2026-Q1,363500,2,1
+Skye,2025-Q1,795000,,0
+Skye,2025-Q2,817000,,0
+Skye,2025-Q3,850000,,0
+Skye,2025-Q4,872500,,0
+Skye,2026-Q1,860000,19,0
+Smiths Beach,2025-Q1,1025000,,1
+Smiths Beach,2025-Q2,846000,,1
+Smiths Beach,2025-Q3,1050000,,1
+Smiths Beach,2025-Q4,799000,,1
+Smiths Beach,2026-Q1,662000,5,1
+Smythes Creek,2025-Q1,506500,,0
+Smythes Creek,2025-Q2,559000,,1
+Smythes Creek,2025-Q3,572500,,0
+Smythes Creek,2025-Q4,609000,,0
+Smythes Creek,2026-Q1,605000,18,0
+Smythesdale,2025-Q1,470000,,1
+Smythesdale,2025-Q2,555000,,1
+Smythesdale,2025-Q3,775000,,1
+Smythesdale,2025-Q4,622500,,1
+Smythesdale,2026-Q1,705000,1,1
+Soldiers Hill,2025-Q1,520000,,0
+Soldiers Hill,2025-Q2,575000,,0
+Soldiers Hill,2025-Q3,527500,,0
+Soldiers Hill,2025-Q4,617500,,0
+Soldiers Hill,2026-Q1,673500,12,0
+Somers,2025-Q1,1187500,,1
+Somers,2025-Q2,1275000,,1
+Somers,2025-Q3,1490000,,1
+Somers,2025-Q4,1420000,,0
+Somers,2026-Q1,1310000,8,1
+Somerville,2025-Q1,890000,,0
+Somerville,2025-Q2,816000,,0
+Somerville,2025-Q3,887500,,0
+Somerville,2025-Q4,875000,,0
+Somerville,2026-Q1,910000,25,0
+Sorrento,2025-Q1,1790000,,0
+Sorrento,2025-Q2,1650000,,0
+Sorrento,2025-Q3,1750000,,0
+Sorrento,2025-Q4,1842500,,0
+Sorrento,2026-Q1,1875000,15,0
+South Dudley,2025-Q1,467500,,1
+South Dudley,2025-Q2,489500,,1
+South Dudley,2025-Q3,377500,,1
+South Dudley,2025-Q4,450000,,1
+South Dudley,2026-Q1,490000,3,1
+South Geelong,2025-Q1,635000,,1
+South Geelong,2025-Q2,682500,,1
+South Geelong,2025-Q3,677500,,1
+South Geelong,2025-Q4,775000,,1
+South Geelong,2026-Q1,863000,6,1
+South Kingsville,2025-Q1,1256000,,1
+South Kingsville,2025-Q2,1160000,,0
+South Kingsville,2025-Q3,990000,,0
+South Kingsville,2025-Q4,1800000,,1
+South Kingsville,2026-Q1,978600,13,0
+South Melbourne,2025-Q1,1620000,,0
+South Melbourne,2025-Q2,1790000,,0
+South Melbourne,2025-Q3,1430000,,0
+South Melbourne,2025-Q4,1965000,,0
+South Melbourne,2026-Q1,1650000,21,0
+South Morang,2025-Q1,739500,,0
+South Morang,2025-Q2,807500,,0
+South Morang,2025-Q3,800000,,0
+South Morang,2025-Q4,811500,,0
+South Morang,2026-Q1,852000,73,0
+South Yarra,2025-Q1,1620000,,0
+South Yarra,2025-Q2,2305000,,0
+South Yarra,2025-Q3,2265000,,0
+South Yarra,2025-Q4,2075000,,0
+South Yarra,2026-Q1,2025000,26,0
+Spotswood,2025-Q1,1387500,,0
+Spotswood,2025-Q2,1270000,,0
+Spotswood,2025-Q3,1132500,,0
+Spotswood,2025-Q4,1000000,,1
+Spotswood,2026-Q1,1160000,18,0
+Spring Gully,2025-Q1,605000,,0
+Spring Gully,2025-Q2,616300,,0
+Spring Gully,2025-Q3,650000,,1
+Spring Gully,2025-Q4,715000,,0
+Spring Gully,2026-Q1,740500,15,0
+Springvale,2025-Q1,860000,,0
+Springvale,2025-Q2,911500,,0
+Springvale,2025-Q3,950000,,0
+Springvale,2025-Q4,972000,,0
+Springvale,2026-Q1,950000,23,0
+Springvale South,2025-Q1,785000,,0
+Springvale South,2025-Q2,830000,,0
+Springvale South,2025-Q3,865000,,0
+Springvale South,2025-Q4,859300,,0
+Springvale South,2026-Q1,925000,15,0
+St Albans,2025-Q1,650000,,0
+St Albans,2025-Q2,680000,,0
+St Albans,2025-Q3,720500,,0
+St Albans,2025-Q4,730000,,0
+St Albans,2026-Q1,743300,100,0
+St Albans Park,2025-Q1,608800,,0
+St Albans Park,2025-Q2,651300,,0
+St Albans Park,2025-Q3,650000,,0
+St Albans Park,2025-Q4,692700,,0
+St Albans Park,2026-Q1,715000,31,0
+St Andrews Beach,2025-Q1,1250000,,1
+St Andrews Beach,2025-Q2,1355000,,1
+St Andrews Beach,2025-Q3,1482500,,1
+St Andrews Beach,2025-Q4,1300000,,1
+St Andrews Beach,2026-Q1,1632500,8,1
+St Arnaud,2025-Q1,300000,,0
+St Arnaud,2025-Q2,317500,,0
+St Arnaud,2025-Q3,280000,,1
+St Arnaud,2025-Q4,262500,,0
+St Arnaud,2026-Q1,340000,11,0
+St Helena,2025-Q1,1167800,,1
+St Helena,2025-Q2,1070000,,1
+St Helena,2025-Q3,1091000,,0
+St Helena,2025-Q4,1320000,,0
+St Helena,2026-Q1,1251000,4,1
+St Kilda,2025-Q1,1423000,,1
+St Kilda,2025-Q2,1810000,,0
+St Kilda,2025-Q3,1450000,,0
+St Kilda,2025-Q4,1750000,,0
+St Kilda,2026-Q1,1600000,17,0
+St Kilda East,2025-Q1,1703300,,0
+St Kilda East,2025-Q2,1587500,,0
+St Kilda East,2025-Q3,1805000,,0
+St Kilda East,2025-Q4,1752500,,0
+St Kilda East,2026-Q1,1410000,15,0
+St Kilda West,2025-Q1,2760000,,1
+St Kilda West,2025-Q2,2300000,,1
+St Kilda West,2025-Q3,1820000,,1
+St Kilda West,2025-Q4,3175000,,1
+St Kilda West,2026-Q1,1685000,5,1
+St Leonards,2025-Q1,702500,,0
+St Leonards,2025-Q2,675000,,0
+St Leonards,2025-Q3,722500,,0
+St Leonards,2025-Q4,740000,,0
+St Leonards,2026-Q1,755000,48,0
+Stawell,2025-Q1,337500,,0
+Stawell,2025-Q2,380000,,0
+Stawell,2025-Q3,335000,,0
+Stawell,2025-Q4,382000,,0
+Stawell,2026-Q1,370000,32,0
+Stratford,2025-Q1,497500,,0
+Stratford,2025-Q2,486500,,0
+Stratford,2025-Q3,519000,,0
+Stratford,2025-Q4,550000,,0
+Stratford,2026-Q1,645000,23,0
+Strathdale,2025-Q1,685000,,0
+Strathdale,2025-Q2,660000,,0
+Strathdale,2025-Q3,677500,,0
+Strathdale,2025-Q4,750000,,0
+Strathdale,2026-Q1,710500,26,0
+Strathfieldsaye,2025-Q1,703500,,0
+Strathfieldsaye,2025-Q2,690000,,0
+Strathfieldsaye,2025-Q3,745000,,0
+Strathfieldsaye,2025-Q4,790500,,0
+Strathfieldsaye,2026-Q1,770000,30,0
+Strathmore,2025-Q1,1555000,,0
+Strathmore,2025-Q2,1705000,,0
+Strathmore,2025-Q3,1500000,,0
+Strathmore,2025-Q4,1450000,,0
+Strathmore,2026-Q1,1750000,27,0
+Strathmore Heights,2025-Q1,1075000,,1
+Strathmore Heights,2025-Q2,1080000,,0
+Strathmore Heights,2025-Q3,1115000,,1
+Strathmore Heights,2025-Q4,1450000,,1
+Strathmore Heights,2026-Q1,1100000,5,1
+Strathtulloh,2025-Q1,625000,,0
+Strathtulloh,2025-Q2,636500,,0
+Strathtulloh,2025-Q3,635000,,0
+Strathtulloh,2025-Q4,615000,,0
+Strathtulloh,2026-Q1,635000,49,0
+Studfield,2025-Q1,1105000,,0
+Studfield,2025-Q2,1043500,,0
+Studfield,2025-Q3,1079000,,0
+Studfield,2025-Q4,1125000,,0
+Studfield,2026-Q1,1055000,8,1
+Sunbury,2025-Q1,675000,,0
+Sunbury,2025-Q2,677800,,0
+Sunbury,2025-Q3,700000,,0
+Sunbury,2025-Q4,740000,,0
+Sunbury,2026-Q1,737800,220,0
+Sunderland Bay,2025-Q1,617500,,1
+Sunderland Bay,2025-Q2,635000,,1
+Sunderland Bay,2025-Q3,707500,,1
+Sunderland Bay,2025-Q4,659000,,1
+Sunderland Bay,2026-Q1,765000,2,1
+Sunnycliffs,2025-Q1,341500,,1
+Sunnycliffs,2025-Q2,430000,,1
+Sunnycliffs,2025-Q3,388800,,1
+Sunnycliffs,2025-Q4,502500,,1
+Sunnycliffs,2026-Q1,445000,1,1
+Sunset Strip,2025-Q1,530000,,1
+Sunset Strip,2025-Q2,590000,,1
+Sunset Strip,2025-Q3,612500,,1
+Sunset Strip,2025-Q4,613500,,1
+Sunset Strip,2026-Q1,525000,4,1
+Sunshine,2025-Q1,750000,,0
+Sunshine,2025-Q2,833000,,0
+Sunshine,2025-Q3,826000,,0
+Sunshine,2025-Q4,885000,,0
+Sunshine,2026-Q1,900000,19,0
+Sunshine North,2025-Q1,720000,,0
+Sunshine North,2025-Q2,755000,,0
+Sunshine North,2025-Q3,803000,,0
+Sunshine North,2025-Q4,780000,,0
+Sunshine North,2026-Q1,761500,32,0
+Sunshine West,2025-Q1,710500,,0
+Sunshine West,2025-Q2,710000,,0
+Sunshine West,2025-Q3,740000,,0
+Sunshine West,2025-Q4,809400,,0
+Sunshine West,2026-Q1,840000,41,0
+Surf Beach,2025-Q1,700000,,1
+Surf Beach,2025-Q2,740000,,1
+Surf Beach,2025-Q3,870000,,1
+Surf Beach,2025-Q4,720000,,1
+Surf Beach,2026-Q1,850300,4,1
+Surrey Hills,2025-Q1,2520000,,0
+Surrey Hills,2025-Q2,2245000,,0
+Surrey Hills,2025-Q3,2325000,,0
+Surrey Hills,2025-Q4,2200000,,0
+Surrey Hills,2026-Q1,2205000,29,0
+Swan Hill,2025-Q1,545000,,0
+Swan Hill,2025-Q2,480300,,0
+Swan Hill,2025-Q3,500000,,0
+Swan Hill,2025-Q4,470000,,0
+Swan Hill,2026-Q1,550000,44,0
+Swan Reach,2025-Q1,655000,,1
+Swan Reach,2025-Q2,638500,,1
+Swan Reach,2025-Q3,682500,,1
+Swan Reach,2025-Q4,601300,,1
+Swan Reach,2026-Q1,720000,1,1
+Sydenham,2025-Q1,690000,,0
+Sydenham,2025-Q2,755300,,0
+Sydenham,2025-Q3,715000,,0
+Sydenham,2025-Q4,752000,,0
+Sydenham,2026-Q1,755000,14,0
+Syndal,2025-Q1,1736000,,0
+Syndal,2025-Q2,1754000,,0
+Syndal,2025-Q3,2150000,,0
+Syndal,2025-Q4,1900000,,0
+Syndal,2026-Q1,2199000,7,1
+Tallangatta,2025-Q1,402000,,1
+Tallangatta,2025-Q2,535000,,1
+Tallangatta,2025-Q3,450000,,1
+Tallangatta,2025-Q4,623000,,1
+Tallangatta,2026-Q1,507500,4,1
+Tangambalanga,2025-Q1,700000,,1
+Tangambalanga,2025-Q2,715000,,1
+Tangambalanga,2025-Q3,620000,,1
+Tangambalanga,2025-Q4,644500,,1
+Tangambalanga,2026-Q1,730000,4,1
+Tarneit,2025-Q1,651000,,0
+Tarneit,2025-Q2,670000,,0
+Tarneit,2025-Q3,675000,,0
+Tarneit,2025-Q4,675000,,0
+Tarneit,2026-Q1,670000,423,0
+Tatura,2025-Q1,506000,,0
+Tatura,2025-Q2,521000,,0
+Tatura,2025-Q3,519000,,0
+Tatura,2025-Q4,500000,,0
+Tatura,2026-Q1,550000,11,0
+Tawonga South,2025-Q1,602000,,1
+Tawonga South,2025-Q2,840000,,1
+Tawonga South,2025-Q3,590000,,1
+Tawonga South,2025-Q4,604500,,1
+Tawonga South,2026-Q1,745000,7,1
+Taylors Hill,2025-Q1,948500,,0
+Taylors Hill,2025-Q2,956000,,0
+Taylors Hill,2025-Q3,907500,,0
+Taylors Hill,2025-Q4,938000,,0
+Taylors Hill,2026-Q1,950000,23,0
+Taylors Lakes,2025-Q1,1038000,,0
+Taylors Lakes,2025-Q2,908000,,0
+Taylors Lakes,2025-Q3,980000,,0
+Taylors Lakes,2025-Q4,935000,,0
+Taylors Lakes,2026-Q1,1060000,25,0
+Tecoma,2025-Q1,860000,,1
+Tecoma,2025-Q2,912500,,1
+Tecoma,2025-Q3,840000,,1
+Tecoma,2025-Q4,1093500,,1
+Tecoma,2026-Q1,870000,10,0
+Templestowe,2025-Q1,1604000,,0
+Templestowe,2025-Q2,1605000,,0
+Templestowe,2025-Q3,1559000,,0
+Templestowe,2025-Q4,1757500,,0
+Templestowe,2026-Q1,1627500,34,0
+Templestowe Lower,2025-Q1,1344000,,0
+Templestowe Lower,2025-Q2,1347500,,0
+Templestowe Lower,2025-Q3,1350500,,0
+Templestowe Lower,2025-Q4,1381000,,0
+Templestowe Lower,2026-Q1,1450000,27,0
+Terang,2025-Q1,515000,,0
+Terang,2025-Q2,365000,,1
+Terang,2025-Q3,435000,,1
+Terang,2025-Q4,372500,,0
+Terang,2026-Q1,389500,10,0
+The Basin,2025-Q1,865000,,0
+The Basin,2025-Q2,875000,,0
+The Basin,2025-Q3,830000,,0
+The Basin,2025-Q4,957900,,0
+The Basin,2026-Q1,970000,13,0
+Thomastown,2025-Q1,730000,,0
+Thomastown,2025-Q2,762500,,0
+Thomastown,2025-Q3,807000,,0
+Thomastown,2025-Q4,812500,,0
+Thomastown,2026-Q1,772500,67,0
+Thomson (greater Geelong),2025-Q1,497000,,1
+Thomson (greater Geelong),2025-Q2,583000,,0
+Thomson (greater Geelong),2025-Q3,585000,,1
+Thomson (greater Geelong),2025-Q4,615000,,0
+Thomson (greater Geelong),2026-Q1,650000,3,1
+Thornbury,2025-Q1,1415000,,0
+Thornbury,2025-Q2,1400000,,0
+Thornbury,2025-Q3,1518800,,0
+Thornbury,2025-Q4,1475000,,0
+Thornbury,2026-Q1,1392000,35,0
+Thornhill Park,2025-Q1,610000,,0
+Thornhill Park,2025-Q2,612500,,0
+Thornhill Park,2025-Q3,620000,,0
+Thornhill Park,2025-Q4,608500,,0
+Thornhill Park,2026-Q1,635000,71,0
+Timboon,2025-Q1,447000,,1
+Timboon,2025-Q2,577500,,1
+Timboon,2025-Q3,425000,,1
+Timboon,2025-Q4,490000,,1
+Timboon,2026-Q1,527500,8,1
+Tongala,2025-Q1,450000,,1
+Tongala,2025-Q2,420000,,1
+Tongala,2025-Q3,422500,,1
+Tongala,2025-Q4,495000,,1
+Tongala,2026-Q1,452000,6,1
+Toongabbie,2025-Q1,430000,,1
+Toongabbie,2025-Q2,690000,,1
+Toongabbie,2025-Q3,498500,,1
+Toongabbie,2025-Q4,624000,,1
+Toongabbie,2026-Q1,520000,6,1
+Tooradin,2025-Q1,731000,,1
+Tooradin,2025-Q2,805000,,1
+Tooradin,2025-Q3,851300,,1
+Tooradin,2025-Q4,1067500,,1
+Tooradin,2026-Q1,1120000,4,1
+Toorak,2025-Q1,6100000,,0
+Toorak,2025-Q2,5725300,,0
+Toorak,2025-Q3,7854000,,0
+Toorak,2025-Q4,6500000,,0
+Toorak,2026-Q1,4075000,16,0
+Tootgarook,2025-Q1,817500,,0
+Tootgarook,2025-Q2,911000,,0
+Tootgarook,2025-Q3,887500,,0
+Tootgarook,2025-Q4,881500,,0
+Tootgarook,2026-Q1,900000,31,0
+Torquay,2025-Q1,1212500,,0
+Torquay,2025-Q2,1180000,,0
+Torquay,2025-Q3,1250000,,0
+Torquay,2025-Q4,1215000,,0
+Torquay,2026-Q1,1150000,77,0
+Trafalgar,2025-Q1,541000,,0
+Trafalgar,2025-Q2,625000,,0
+Trafalgar,2025-Q3,616000,,0
+Trafalgar,2025-Q4,615000,,0
+Trafalgar,2026-Q1,642000,25,0
+Traralgon,2025-Q1,535000,,0
+Traralgon,2025-Q2,522500,,0
+Traralgon,2025-Q3,534100,,0
+Traralgon,2025-Q4,569000,,0
+Traralgon,2026-Q1,612500,178,0
+Traralgon East,2025-Q1,860000,,1
+Traralgon East,2025-Q2,735000,,1
+Traralgon East,2025-Q3,725000,,1
+Traralgon East,2025-Q4,839000,,1
+Traralgon East,2026-Q1,782500,2,1
+Trentham,2025-Q1,935000,,1
+Trentham,2025-Q2,970000,,1
+Trentham,2025-Q3,835000,,1
+Trentham,2025-Q4,860000,,1
+Trentham,2026-Q1,971500,8,1
+Truganina,2025-Q1,672500,,0
+Truganina,2025-Q2,675000,,0
+Truganina,2025-Q3,665000,,0
+Truganina,2025-Q4,672000,,0
+Truganina,2026-Q1,690000,218,0
+Tullamarine,2025-Q1,750000,,0
+Tullamarine,2025-Q2,800000,,0
+Tullamarine,2025-Q3,820000,,0
+Tullamarine,2025-Q4,800000,,0
+Tullamarine,2026-Q1,857500,18,0
+Tyabb,2025-Q1,831000,,1
+Tyabb,2025-Q2,797500,,0
+Tyabb,2025-Q3,791000,,0
+Tyabb,2025-Q4,875000,,1
+Tyabb,2026-Q1,815000,9,1
+Tynong,2025-Q1,760000,,1
+Tynong,2025-Q2,777500,,1
+Tynong,2025-Q3,780000,,1
+Tynong,2025-Q4,865000,,1
+Tynong,2026-Q1,1275000,1,1
+Upper Ferntree Gully,2025-Q1,916300,,1
+Upper Ferntree Gully,2025-Q2,919000,,0
+Upper Ferntree Gully,2025-Q3,870600,,1
+Upper Ferntree Gully,2025-Q4,1015000,,0
+Upper Ferntree Gully,2026-Q1,850000,11,0
+Upwey,2025-Q1,882500,,0
+Upwey,2025-Q2,895000,,0
+Upwey,2025-Q3,867000,,0
+Upwey,2025-Q4,907500,,0
+Upwey,2026-Q1,929000,25,0
+Ventnor,2025-Q1,705000,,1
+Ventnor,2025-Q2,865000,,0
+Ventnor,2025-Q3,820300,,1
+Ventnor,2025-Q4,730000,,0
+Ventnor,2026-Q1,801500,10,0
+Venus Bay,2025-Q1,496500,,0
+Venus Bay,2025-Q2,454000,,0
+Venus Bay,2025-Q3,552500,,0
+Venus Bay,2025-Q4,515000,,0
+Venus Bay,2026-Q1,511300,26,0
+Vermont,2025-Q1,1199000,,0
+Vermont,2025-Q2,1387000,,0
+Vermont,2025-Q3,1335000,,0
+Vermont,2025-Q4,1345000,,0
+Vermont,2026-Q1,1300000,26,0
+Vermont South,2025-Q1,1492000,,0
+Vermont South,2025-Q2,1510500,,0
+Vermont South,2025-Q3,1580000,,0
+Vermont South,2025-Q4,1570000,,0
+Vermont South,2026-Q1,1521000,22,0
+Viewbank,2025-Q1,1136000,,0
+Viewbank,2025-Q2,1120000,,0
+Viewbank,2025-Q3,1305500,,0
+Viewbank,2025-Q4,1295500,,0
+Viewbank,2026-Q1,1230000,19,0
+Violet Town,2025-Q1,290000,,1
+Violet Town,2025-Q2,418500,,1
+Violet Town,2025-Q3,435000,,1
+Violet Town,2025-Q4,460000,,1
+Violet Town,2026-Q1,490000,4,1
+Wahgunyah,2025-Q1,490000,,1
+Wahgunyah,2025-Q2,638500,,1
+Wahgunyah,2025-Q3,520000,,1
+Wahgunyah,2025-Q4,457500,,1
+Wahgunyah,2026-Q1,240000,1,1
+Wallan,2025-Q1,640000,,0
+Wallan,2025-Q2,645000,,0
+Wallan,2025-Q3,605000,,0
+Wallan,2025-Q4,650000,,0
+Wallan,2026-Q1,650000,61,0
+Wallan East,2025-Q1,585000,,0
+Wallan East,2025-Q2,590000,,0
+Wallan East,2025-Q3,585000,,0
+Wallan East,2025-Q4,605000,,0
+Wallan East,2026-Q1,597500,26,0
+Wandana Heights,2025-Q1,920000,,1
+Wandana Heights,2025-Q2,1212000,,0
+Wandana Heights,2025-Q3,1000000,,1
+Wandana Heights,2025-Q4,1150000,,1
+Wandana Heights,2026-Q1,955000,8,1
+Wandin North,2025-Q1,1026000,,1
+Wandin North,2025-Q2,785000,,1
+Wandin North,2025-Q3,853500,,0
+Wandin North,2025-Q4,1100000,,0
+Wandin North,2026-Q1,823000,5,1
+Wangaratta,2025-Q1,522500,,0
+Wangaratta,2025-Q2,522500,,0
+Wangaratta,2025-Q3,520000,,0
+Wangaratta,2025-Q4,540000,,0
+Wangaratta,2026-Q1,565000,105,0
+Wantirna,2025-Q1,1105500,,0
+Wantirna,2025-Q2,1219500,,0
+Wantirna,2025-Q3,1200000,,0
+Wantirna,2025-Q4,1077500,,0
+Wantirna,2026-Q1,1062500,34,0
+Wantirna South,2025-Q1,1280000,,0
+Wantirna South,2025-Q2,1370000,,0
+Wantirna South,2025-Q3,1350000,,0
+Wantirna South,2025-Q4,1331500,,0
+Wantirna South,2026-Q1,1280000,33,0
+Warburton,2025-Q1,633300,,1
+Warburton,2025-Q2,745000,,1
+Warburton,2025-Q3,670000,,0
+Warburton,2025-Q4,750000,,0
+Warburton,2026-Q1,692500,14,0
+Warracknabeal,2025-Q1,220000,,0
+Warracknabeal,2025-Q2,205000,,0
+Warracknabeal,2025-Q3,232500,,0
+Warracknabeal,2025-Q4,320000,,0
+Warracknabeal,2026-Q1,275000,15,0
+Warragul,2025-Q1,620000,,0
+Warragul,2025-Q2,650000,,0
+Warragul,2025-Q3,645000,,0
+Warragul,2025-Q4,670000,,0
+Warragul,2026-Q1,689500,124,0
+Warrandyte,2025-Q1,1120000,,0
+Warrandyte,2025-Q2,1330000,,0
+Warrandyte,2025-Q3,1365000,,0
+Warrandyte,2025-Q4,1223200,,0
+Warrandyte,2026-Q1,1300000,8,1
+Warranwood,2025-Q1,1270000,,0
+Warranwood,2025-Q2,1322500,,0
+Warranwood,2025-Q3,1180000,,0
+Warranwood,2025-Q4,1268000,,0
+Warranwood,2026-Q1,1300000,9,1
+Warrnambool,2025-Q1,600000,,0
+Warrnambool,2025-Q2,609500,,0
+Warrnambool,2025-Q3,620900,,0
+Warrnambool,2025-Q4,646500,,0
+Warrnambool,2026-Q1,690000,146,0
+Waterways,2025-Q1,1489000,,1
+Waterways,2025-Q2,1632500,,0
+Waterways,2025-Q3,1300000,,1
+Waterways,2025-Q4,1650000,,0
+Waterways,2026-Q1,1387500,8,1
+Watsonia,2025-Q1,880500,,0
+Watsonia,2025-Q2,941000,,0
+Watsonia,2025-Q3,1115600,,0
+Watsonia,2025-Q4,1030000,,0
+Watsonia,2026-Q1,1053500,9,1
+Watsonia North,2025-Q1,855000,,1
+Watsonia North,2025-Q2,863500,,1
+Watsonia North,2025-Q3,950000,,0
+Watsonia North,2025-Q4,968000,,0
+Watsonia North,2026-Q1,965000,9,1
+Wattle Glen,2025-Q1,935000,,1
+Wattle Glen,2025-Q2,1125000,,1
+Wattle Glen,2025-Q3,1200000,,1
+Wattle Glen,2025-Q4,1000000,,1
+Wattle Glen,2026-Q1,1061000,7,1
+Waurn Ponds,2025-Q1,738000,,0
+Waurn Ponds,2025-Q2,780000,,0
+Waurn Ponds,2025-Q3,765000,,0
+Waurn Ponds,2025-Q4,820000,,0
+Waurn Ponds,2026-Q1,792500,12,0
+Wedderburn,2025-Q1,320000,,1
+Wedderburn,2025-Q2,257000,,1
+Wedderburn,2025-Q3,350000,,1
+Wedderburn,2025-Q4,315000,,1
+Wedderburn,2026-Q1,325000,3,1
+Weir Views,2025-Q1,565000,,0
+Weir Views,2025-Q2,566000,,0
+Weir Views,2025-Q3,615000,,0
+Weir Views,2025-Q4,597500,,0
+Weir Views,2026-Q1,635000,53,0
+Wendouree,2025-Q1,460000,,0
+Wendouree,2025-Q2,498500,,0
+Wendouree,2025-Q3,500000,,0
+Wendouree,2025-Q4,535100,,0
+Wendouree,2026-Q1,575000,64,0
+Wendouree West,2025-Q1,327500,,0
+Wendouree West,2025-Q2,380000,,1
+Wendouree West,2025-Q3,430000,,0
+Wendouree West,2025-Q4,420000,,0
+Wendouree West,2026-Q1,465000,17,0
+Werribee,2025-Q1,603000,,0
+Werribee,2025-Q2,644000,,0
+Werribee,2025-Q3,651000,,0
+Werribee,2025-Q4,680000,,0
+Werribee,2026-Q1,682800,236,0
+Werribee South,2025-Q1,657500,,0
+Werribee South,2025-Q2,865500,,1
+Werribee South,2025-Q3,890000,,1
+Werribee South,2025-Q4,850000,,1
+Werribee South,2026-Q1,873000,5,1
+Wesburn,2025-Q1,705000,,1
+Wesburn,2025-Q2,620000,,1
+Wesburn,2025-Q3,810000,,1
+Wesburn,2025-Q4,634500,,1
+Wesburn,2026-Q1,625000,5,1
+West Footscray,2025-Q1,847500,,0
+West Footscray,2025-Q2,969000,,0
+West Footscray,2025-Q3,991300,,0
+West Footscray,2025-Q4,1034400,,0
+West Footscray,2026-Q1,1245000,16,0
+West Melbourne,2025-Q1,1455000,,1
+West Melbourne,2025-Q2,1430000,,1
+West Melbourne,2025-Q3,1210000,,1
+West Melbourne,2025-Q4,1520000,,1
+West Melbourne,2026-Q1,1440000,2,1
+West Wodonga,2025-Q1,550000,,0
+West Wodonga,2025-Q2,610000,,0
+West Wodonga,2025-Q3,618800,,0
+West Wodonga,2025-Q4,640500,,0
+West Wodonga,2026-Q1,659500,74,0
+Westall,2025-Q1,916000,,0
+Westall,2025-Q2,905000,,0
+Westall,2025-Q3,975000,,0
+Westall,2025-Q4,961000,,0
+Westall,2026-Q1,937500,20,0
+Westgarth,2025-Q1,1602500,,1
+Westgarth,2025-Q2,1875000,,0
+Westgarth,2025-Q3,2336000,,0
+Westgarth,2025-Q4,2000000,,0
+Westgarth,2026-Q1,1875000,11,0
+Westmeadows,2025-Q1,765300,,0
+Westmeadows,2025-Q2,740000,,0
+Westmeadows,2025-Q3,755500,,0
+Westmeadows,2025-Q4,807000,,0
+Westmeadows,2026-Q1,840300,14,0
+Wheelers Hill,2025-Q1,1513900,,0
+Wheelers Hill,2025-Q2,1453000,,0
+Wheelers Hill,2025-Q3,1590000,,0
+Wheelers Hill,2025-Q4,1539500,,0
+Wheelers Hill,2026-Q1,1351000,47,0
+White Hills,2025-Q1,630000,,0
+White Hills,2025-Q2,598000,,0
+White Hills,2025-Q3,570000,,0
+White Hills,2025-Q4,597500,,0
+White Hills,2026-Q1,588000,18,0
+Whittington,2025-Q1,547000,,0
+Whittington,2025-Q2,557500,,0
+Whittington,2025-Q3,570000,,0
+Whittington,2025-Q4,602500,,0
+Whittington,2026-Q1,620000,15,0
+Whittlesea,2025-Q1,755000,,0
+Whittlesea,2025-Q2,735000,,0
+Whittlesea,2025-Q3,750000,,0
+Whittlesea,2025-Q4,750000,,0
+Whittlesea,2026-Q1,799000,16,0
+Williams Landing,2025-Q1,850000,,0
+Williams Landing,2025-Q2,842500,,0
+Williams Landing,2025-Q3,865000,,0
+Williams Landing,2025-Q4,847500,,0
+Williams Landing,2026-Q1,940000,30,0
+Williamstown,2025-Q1,1455000,,0
+Williamstown,2025-Q2,1600000,,0
+Williamstown,2025-Q3,1605000,,0
+Williamstown,2025-Q4,1580000,,0
+Williamstown,2026-Q1,1557500,54,0
+Williamstown North,2025-Q1,1275000,,1
+Williamstown North,2025-Q2,1392500,,1
+Williamstown North,2025-Q3,1132500,,1
+Williamstown North,2025-Q4,1292500,,0
+Williamstown North,2026-Q1,1345000,11,0
+Willow Grove,2025-Q1,460000,,1
+Willow Grove,2025-Q2,540000,,1
+Willow Grove,2025-Q3,540000,,1
+Willow Grove,2025-Q4,600000,,1
+Willow Grove,2026-Q1,530000,1,1
+Wimbledon Heights,2025-Q1,594000,,1
+Wimbledon Heights,2025-Q2,561300,,1
+Wimbledon Heights,2025-Q3,558000,,1
+Wimbledon Heights,2025-Q4,700000,,1
+Wimbledon Heights,2026-Q1,585000,2,1
+Winchelsea,2025-Q1,662500,,1
+Winchelsea,2025-Q2,590000,,0
+Winchelsea,2025-Q3,657500,,0
+Winchelsea,2025-Q4,640000,,0
+Winchelsea,2026-Q1,640000,19,0
+Windsor,2025-Q1,1391500,,0
+Windsor,2025-Q2,1401500,,0
+Windsor,2025-Q3,1390000,,0
+Windsor,2025-Q4,1635000,,0
+Windsor,2026-Q1,1485000,20,0
+Winter Valley,2025-Q1,535000,,0
+Winter Valley,2025-Q2,570000,,0
+Winter Valley,2025-Q3,590000,,0
+Winter Valley,2025-Q4,600000,,0
+Winter Valley,2026-Q1,621200,87,0
+Wodonga,2025-Q1,615000,,0
+Wodonga,2025-Q2,601000,,0
+Wodonga,2025-Q3,616000,,0
+Wodonga,2025-Q4,635000,,0
+Wodonga,2026-Q1,660000,89,0
+Wollert,2025-Q1,690000,,0
+Wollert,2025-Q2,701300,,0
+Wollert,2025-Q3,710000,,0
+Wollert,2025-Q4,721000,,0
+Wollert,2026-Q1,706500,198,0
+Wonga Park,2025-Q1,1302500,,1
+Wonga Park,2025-Q2,1213500,,1
+Wonga Park,2025-Q3,1368000,,1
+Wonga Park,2025-Q4,1387500,,0
+Wonga Park,2026-Q1,1733800,2,1
+Wonthaggi,2025-Q1,590000,,0
+Wonthaggi,2025-Q2,490000,,0
+Wonthaggi,2025-Q3,565000,,0
+Wonthaggi,2025-Q4,507500,,0
+Wonthaggi,2026-Q1,590000,27,0
+Woodend,2025-Q1,950000,,0
+Woodend,2025-Q2,892500,,0
+Woodend,2025-Q3,926000,,0
+Woodend,2025-Q4,1097500,,0
+Woodend,2026-Q1,891000,19,0
+Woodstock,2025-Q1,657000,,0
+Woodstock,2025-Q2,627000,,0
+Woodstock,2025-Q3,649800,,0
+Woodstock,2025-Q4,640000,,0
+Woodstock,2026-Q1,680000,15,0
+Woolamai Waters,2025-Q1,675000,,0
+Woolamai Waters,2025-Q2,648000,,0
+Woolamai Waters,2025-Q3,662600,,0
+Woolamai Waters,2025-Q4,789500,,0
+Woolamai Waters,2026-Q1,760000,15,0
+Woori Yallock,2025-Q1,715000,,0
+Woori Yallock,2025-Q2,735000,,0
+Woori Yallock,2025-Q3,687500,,0
+Woori Yallock,2025-Q4,736000,,0
+Woori Yallock,2026-Q1,700000,11,0
+Wy Yung,2025-Q1,515000,,1
+Wy Yung,2025-Q2,432000,,1
+Wy Yung,2025-Q3,592500,,1
+Wy Yung,2025-Q4,540000,,1
+Wy Yung,2026-Q1,625000,7,1
+Wyndham Vale,2025-Q1,575000,,0
+Wyndham Vale,2025-Q2,600800,,0
+Wyndham Vale,2025-Q3,625000,,0
+Wyndham Vale,2025-Q4,620000,,0
+Wyndham Vale,2026-Q1,624000,158,0
+Yackandandah,2025-Q1,614000,,1
+Yackandandah,2025-Q2,833000,,1
+Yackandandah,2025-Q3,810000,,1
+Yackandandah,2025-Q4,685000,,1
+Yackandandah,2026-Q1,750000,2,1
+Yallambie,2025-Q1,997500,,1
+Yallambie,2025-Q2,980000,,0
+Yallambie,2025-Q3,964000,,0
+Yallambie,2025-Q4,1007500,,1
+Yallambie,2026-Q1,1060500,8,1
+Yallourn North,2025-Q1,297500,,1
+Yallourn North,2025-Q2,465400,,1
+Yallourn North,2025-Q3,347000,,0
+Yallourn North,2025-Q4,340000,,0
+Yallourn North,2026-Q1,382500,6,1
+Yarra Glen,2025-Q1,940000,,1
+Yarra Glen,2025-Q2,814500,,1
+Yarra Glen,2025-Q3,950000,,1
+Yarra Glen,2025-Q4,951000,,0
+Yarra Glen,2026-Q1,951500,8,1
+Yarra Junction,2025-Q1,650000,,1
+Yarra Junction,2025-Q2,748000,,0
+Yarra Junction,2025-Q3,845000,,1
+Yarra Junction,2025-Q4,770000,,0
+Yarra Junction,2026-Q1,770000,5,1
+Yarragon,2025-Q1,560000,,0
+Yarragon,2025-Q2,645000,,0
+Yarragon,2025-Q3,555000,,1
+Yarragon,2025-Q4,639300,,0
+Yarragon,2026-Q1,621500,12,0
+Yarram,2025-Q1,382500,,1
+Yarram,2025-Q2,305000,,1
+Yarram,2025-Q3,395000,,1
+Yarram,2025-Q4,407500,,0
+Yarram,2026-Q1,390000,12,0
+Yarraville,2025-Q1,1100000,,0
+Yarraville,2025-Q2,1140000,,0
+Yarraville,2025-Q3,1160000,,0
+Yarraville,2025-Q4,1206500,,0
+Yarraville,2026-Q1,1242500,52,0
+Yarrawonga,2025-Q1,552500,,0
+Yarrawonga,2025-Q2,625000,,0
+Yarrawonga,2025-Q3,650000,,0
+Yarrawonga,2025-Q4,670000,,0
+Yarrawonga,2026-Q1,674500,60,0
+Yea,2025-Q1,745000,,1
+Yea,2025-Q2,525000,,1
+Yea,2025-Q3,700000,,0
+Yea,2025-Q4,598000,,0
+Yea,2026-Q1,690000,13,0
+Yinnar,2025-Q1,422000,,1
+Yinnar,2025-Q2,390000,,1
+Yinnar,2025-Q3,553000,,1
+Yinnar,2025-Q4,580000,,1
+Yinnar,2026-Q1,735000,1,1
